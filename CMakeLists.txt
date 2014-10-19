@@ -1,4 +1,4 @@
-project(kdeedu-math-artwork)
+project(kdeedu-data)
 cmake_minimum_required(VERSION 2.8.12)
 
 find_package(ECM 0.0.9 REQUIRED NO_MODULE)
@@ -13,3 +13,4 @@ include(KDECMakeSettings)
 include(GenerateExportHeader)
 
 add_subdirectory(icons)
+add_subdirectory(data)

@@ -80,16 +80,16 @@
       <inactive>false</inactive>
       <inquery>false</inquery>
       <translation id="0" >
-        <text>floppy</text>
-        <comment>An ancient storage device</comment>
+        <text>flashdrive</text>
+        <comment>An external storage device</comment>
       </translation>
     </entry>
     <entry id="9" >
       <inactive>false</inactive>
       <inquery>false</inquery>
       <translation id="0" >
-        <text>tape</text>
-        <comment>Used for software backups</comment>
+        <text>touchpad</text>
+        <comment>A flat cursor control device</comment>
       </translation>
     </entry>
     <entry id="10" >
@@ -122,6 +122,22 @@
       <translation id="0" >
         <text>microphone</text>
         <comment>Allows you to record sound</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>wifi</text>
+        <comment>A wireless means of networking</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>usb</text>
+        <comment>A standard port for connecting devices</comment>
       </translation>
     </entry>
   </entries>

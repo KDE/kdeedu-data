@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Difficile</title>
+    <comment>Mots de niveau difficile</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>fr</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>manécanterie</text>
+        <comment>École de chant attachée à une paroisse</comment>
+      </translation>
+      <translation id="1" >
+        <text>École de chant attachée à une paroisse</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>synthétiseur</text>
+        <comment>Appareil électronique actionné par un clavier</comment>
+      </translation>
+      <translation id="1" >
+        <text>Appareil électronique actionné par un clavier</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>juxtaposition</text>
+        <comment>Action de placer côte à côte</comment>
+      </translation>
+      <translation id="1" >
+        <text>Action de placer côte à côte</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zoomorphisme</text>
+        <comment>Fait de revêtir une apparence animale</comment>
+      </translation>
+      <translation id="1" >
+        <text>Fait de revêtir une apparence animale</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>surréalisme</text>
+        <comment>Mouvement artistique né en France</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mouvement artistique né en France</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>raréfaction</text>
+        <comment>Fait de rendre peu commun</comment>
+      </translation>
+      <translation id="1" >
+        <text>Fait de rendre peu commun</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>psychologie</text>
+        <comment>Études scientifiques des faits psychiques</comment>
+      </translation>
+      <translation id="1" >
+        <text>Études scientifiques des faits psychiques</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>précession</text>
+        <comment>Mouvement conique très lent de l'axe de la Terre</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mouvement conique très lent de l'axe de la Terre</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pluviomètre</text>
+        <comment>Appareil servant à mesurer la répartition de la pluie</comment>
+      </translation>
+      <translation id="1" >
+        <text>Appareil servant à mesurer la répartition de la pluie</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>céphalopode</text>
+        <comment>Mollusque marin carnivore</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mollusque marin carnivore</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>anfractuosité</text>
+        <comment>Cavité profonde et irrégulière</comment>
+      </translation>
+      <translation id="1" >
+        <text>Cavité profonde et irrégulière</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>agglutinine</text>
+        <comment>Anticorps présent dans le sérum sanguin</comment>
+      </translation>
+      <translation id="1" >
+        <text>Anticorps présent dans le sérum sanguin</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>xénophobie</text>
+        <comment>Hostilité systématique à l'égard des étrangers</comment>
+      </translation>
+      <translation id="1" >
+        <text>Hostilité systématique à l'égard des étrangers</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>abstentionnisme</text>
+        <comment>Qui s'abtient de voter</comment>
+      </translation>
+      <translation id="1" >
+        <text>Qui s'abtient de voter</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dissymétrie</text>
+        <comment>Défaut de symétrie</comment>
+      </translation>
+      <translation id="1" >
+        <text>Défaut de symétrie</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>glycérine</text>
+        <comment>Produit à base de glycérol</comment>
+      </translation>
+      <translation id="1" >
+        <text>Produit à base de glycérol</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>joaillerie</text>
+        <comment>Art de mettre en valeur les pierres fines</comment>
+      </translation>
+      <translation id="1" >
+        <text>Art de mettre en valeur les pierres fines</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>misogynie</text>
+        <comment>Mépris envers les femmes</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mépris envers les femmes</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>papavéracée</text>
+        <comment>Plante dycotylédone à pétales séparés</comment>
+      </translation>
+      <translation id="1" >
+        <text>Plante dycotylédone à pétales séparés</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>stakhanovisme</text>
+        <comment>Qui pratique la méthode d'augmentation des rendements</comment>
+      </translation>
+      <translation id="1" >
+        <text>Qui pratique la méthode d'augmentation des rendements</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vélivoliste</text>
+        <comment>Qui pratique le vol à voile</comment>
+      </translation>
+      <translation id="1" >
+        <text>Qui pratique le vol à voile</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>acrylonitrile</text>
+        <comment>Composé obtenu à partir du propylène</comment>
+      </translation>
+      <translation id="1" >
+        <text>Composé obtenu à partir du propylène</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>myriophylle</text>
+        <comment>Plante aquatique à feuilles allongées</comment>
+      </translation>
+      <translation id="1" >
+        <text>Plante aquatique à feuilles allongées</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>achromatopsie</text>
+        <comment>Affection de l'oeil empêchant de distinguer les couleurs</comment>
+      </translation>
+      <translation id="1" >
+        <text>Affection de l'oeil empêchant de distinguer les couleurs</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>marcophilie</text>
+        <comment>Collection des oblitérations sur les objets postaux</comment>
+      </translation>
+      <translation id="1" >
+        <text>Collection des oblitérations sur les objets postaux</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>anhydrobiose</text>
+        <comment>Suspension temporaire des activités vitales</comment>
+      </translation>
+      <translation id="1" >
+        <text>Suspension temporaire des activités vitales</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>proclitique</text>
+        <comment>Mot privé d'accent tonique</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mot privé d'accent tonique</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>stéréophonie</text>
+        <comment>Technique de reproduction des sons enregistrés</comment>
+      </translation>
+      <translation id="1" >
+        <text>Technique de reproduction des sons enregistrés</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>webmestre</text>
+        <comment>Administrateur de site</comment>
+      </translation>
+      <translation id="1" >
+        <text>Administrateur de site</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>anthropologie</text>
+        <comment>Étude de la dimension sociale de l'homme</comment>
+      </translation>
+      <translation id="1" >
+        <text>Étude de la dimension sociale de l'homme</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>borborygme</text>
+        <comment>Gargouillement</comment>
+      </translation>
+      <translation id="1" >
+        <text>Gargouillement</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>calciothermie</text>
+        <comment>Réaction du calcium sur certains composés</comment>
+      </translation>
+      <translation id="1" >
+        <text>Réaction du calcium sur certains composés</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>yaourtière</text>
+        <comment>Appareil servant à la préparation de lait fermenté</comment>
+      </translation>
+      <translation id="1" >
+        <text>Appareil servant à la préparation de lait fermenté</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>campanulacée</text>
+        <comment>Plante dycotylédone à fleurs en cloche</comment>
+      </translation>
+      <translation id="1" >
+        <text>Plante dycotylédone à fleurs en cloche</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>macrocéphalie</text>
+        <comment>Augmentation anormale du volume du crâne</comment>
+      </translation>
+      <translation id="1" >
+        <text>Augmentation anormale du volume du crâne</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>massification</text>
+        <comment>Adaptation d'un phénomène au grand nombre</comment>
+      </translation>
+      <translation id="1" >
+        <text>Adaptation d'un phénomène au grand nombre</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

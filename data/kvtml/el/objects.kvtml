@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Αντικείμενα</title>
+    <comment>Καθημερινά αντικείμενα από το σπίτι</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>el</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τηλεόραση</text>
+        <comment>Ηλεκτρική συσκευή που εμφανίζει κινούμενες εικόνες</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>καρέκλα</text>
+        <comment>Καθόμαστε σε αυτή</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>καταψύκτης</text>
+        <comment>Χρησιμοποιείται για την διατήρηση των τροφίμων πολύ κρύα</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ψυγείο</text>
+        <comment>Διατηρεί τα τρόφιμα δροσερά</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>κουζίνα</text>
+        <comment>Χρησιμεύει για το μαγείρεμα του φαγητού</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τζάκι</text>
+        <comment>Κρατάει το σπίτι ζεστό με φωτιά</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τραπέζι</text>
+        <comment>Συγκρατεί τα αντικείμενα πάνω από το δάπεδο</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>συρτάρια</text>
+        <comment>Αποθήκευση προσωπικών αντικειμένων</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>καθρέπτης</text>
+        <comment>Αποτυπώνεται η περιοχή μπροστά από αυτό</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ρολόι</text>
+        <comment>Μετρά τον χρόνο</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>γκαρνταρόμπα</text>
+        <comment>Διατηρεί είδη ένδυσης σε όρθια θέση</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>βιβλιοθήκη</text>
+        <comment>Αποθήκευση βιβλίων</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μίξερ</text>
+        <comment>Ρευστοποιεί τρόφιμα</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>καναπές</text>
+        <comment>Άνετο κάθισμα</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>νιπτήρας</text>
+        <comment>Για να πλύνετε τα χέρια και το πρόσωπο</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ντους</text>
+        <comment>Για να πλύνετε το σώμα σας σε όρθια θέση</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μπανιέρα</text>
+        <comment>Για να πλύνετε το σώμα σας ξαπλωμένοι</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>βραστήρας</text>
+        <comment>Για το βράσιμο του νερού</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τηλέφωνο</text>
+        <comment>Μια συσκευή τηλεφωνικής επικοινωνίας</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>καλοριφέρ</text>
+        <comment>Αυξάνει τη θερμοκρασία του σπιτιού</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ραδιόφωνο</text>
+        <comment>Αναπαραγωγή ήχου από ραδιοκύματα</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>υπολογιστής</text>
+        <comment>Διαδραστική ηλεκτρονική συσκευή</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>κατοικίδια</text>
+        <comment>Ζωντανά, και με συχνά αγκαλιάσματα</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>πίνακες</text>
+        <comment>Εικόνες σε κάδρα</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>οδοντόβουρτσα</text>
+        <comment>Για να βουρτσίζετε τα δόντια</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>χαλί</text>
+        <comment>Μαλακή επένδυση δαπέδου</comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>παιχνίδια</text>
+        <comment>Παίζουμε με αυτά</comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>στολίδια</text>
+        <comment>Αντικείμενα που δεν έχουν προφανείς λειτουργικότητα</comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ντουλάπια</text>
+        <comment>Μεγαλύτεροι αποθηκευτικοί χώροι</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

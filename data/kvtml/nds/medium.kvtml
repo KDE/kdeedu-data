@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>convert_kvtml1to2.sh</generator>
+    <title>Middel</title>
+    <comment>Middelswoor Begrepen</comment>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <locale>nds</locale>
+    </identifier>
+  </identifiers>
+	<entries>
+    <entry id="0">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Maschien</text>
+        <comment>Mechaansch Reedschap</comment>
+      </translation>
+    </entry>
+    <entry id="1">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Slaapstuuv</text>
+        <comment>Dat Bett steiht dor binnen</comment>
+      </translation>
+    </entry>
+    <entry id="2">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Richter</text>
+        <comment>He oordeelt</comment>
+      </translation>
+    </entry>
+    <entry id="3">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Sporthall</text>
+        <comment>En Ruum för Lieföven</comment>
+      </translation>
+    </entry>
+    <entry id="4">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Mööt</text>
+        <comment>En Fastleggen, sik to en wiss Tiet to drepen</comment>
+      </translation>
+    </entry>
+    <entry id="5">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Antibiotikum</text>
+        <comment>En Stoff gegen Bakterien</comment>
+      </translation>
+    </entry>
+    <entry id="6">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Afornen</text>
+        <comment>En Delegatschoon</comment>
+      </translation>
+    </entry>
+    <entry id="7">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Afteker</text>
+        <comment>Een, de Heelmiddeln verköpen dörv</comment>
+      </translation>
+    </entry>
+    <entry id="8">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Keesbörger</text>
+        <comment>Frikandell, Rundstück, Salaat un Kees tosamen</comment>
+      </translation>
+    </entry>
+    <entry id="9">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Estemeren</text>
+        <comment>En Mengde oder Weert warrt fastleggt</comment>
+      </translation>
+    </entry>
+    <entry id="10">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Ümgeven</text>
+        <comment>De Saken un Bedingen rundümto</comment>
+      </translation>
+    </entry>
+    <entry id="11">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Supermarkt</text>
+        <comment>En groot Sülvstbedeenladen</comment>
+      </translation>
+    </entry>
+    <entry id="12">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Indikatschoon</text>
+        <comment>En Teken för't Dorwesen vun en Saak oder Bedingen</comment>
+      </translation>
+    </entry>
+    <entry id="13">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Röntgenopnahm</text>
+        <comment>En Metood för't Kieken dör Weekdelen, t.B. bi Knakenbröök</comment>
+      </translation>
+    </entry>
+    <entry id="14">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Informatschoon</text>
+        <comment>Een Stück Weten</comment>
+      </translation>
+    </entry>
+    <entry id="15">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Mettels</text>
+        <comment>Dör en Wulf dreiht Fleesch</comment>
+      </translation>
+    </entry>
+    <entry id="16">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Ünnerschrift</text>
+        <comment>Sülvstschreven Naam</comment>
+      </translation>
+    </entry>
+    <entry id="17">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Begeistern</text>
+        <comment>Wenn Een Füür un Flamm för wat is</comment>
+      </translation>
+    </entry>
+    <entry id="18">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Spargel</text>
+        <comment>En Plant, de ehr Spraten as Grööntüüch eten warrt</comment>
+      </translation>
+    </entry>
+    <entry id="19">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Woortschatt</text>
+        <comment>De Heelheit vun Wöör, de Een kennt</comment>
+      </translation>
+    </entry>
+    <entry id="20">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Regeren</text>
+        <comment>En Koppel vun Lüüd, de en Land stüert</comment>
+      </translation>
+    </entry>
+    <entry id="21">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Wintergoorn</text>
+        <comment>En Drievhuus an't Wohnhuus</comment>
+      </translation>
+    </entry>
+    <entry id="22">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Bökerschapp</text>
+        <comment>Möbelstück för't Wohren vun Literatuur</comment>
+      </translation>
+    </entry>
+    <entry id="23">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Fotografie</text>
+        <comment>En Bild, teelt vun Licht, dat op cheemsche Stoffen fallt</comment>
+      </translation>
+    </entry>
+    <entry id="24">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Klookheit</text>
+        <comment>Plie</comment>
+      </translation>
+    </entry>
+    <entry id="25">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Rasenmeiher</text>
+        <comment>En Maschien för't Snieden vun Gras</comment>
+      </translation>
+    </entry>
+    <entry id="26">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Aritmetik</text>
+        <comment>De Rekenkunst</comment>
+      </translation>
+    </entry>
+    <entry id="27">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Maatschap</text>
+        <comment>En Liddmaat wesen</comment>
+      </translation>
+    </entry>
+    <entry id="28">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Still</text>
+        <comment>Roh</comment>
+      </translation>
+    </entry>
+    <entry id="29">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Bistüern</text>
+        <comment>Wat bidragen</comment>
+      </translation>
+    </entry>
+    <entry id="30">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Apostrof</text>
+        <comment>En Satzteken</comment>
+      </translation>
+    </entry>
+    <entry id="31">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Amüseren</text>
+        <comment>Ünnerhollen</comment>
+      </translation>
+    </entry>
+    <entry id="32">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Paraplü</text>
+        <comment>Schuul vör Regen</comment>
+      </translation>
+    </entry>
+    <entry id="33">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Belüchten</text>
+        <comment>Oort vun den Lichtinfall</comment>
+      </translation>
+    </entry>
+    <entry id="34">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Millimeter</text>
+        <comment>wat weniger as 0,04 Toll</comment>
+      </translation>
+    </entry>
+    <entry id="35">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Milligramm</text>
+        <comment>Een dusenddel Gramm</comment>
+      </translation>
+    </entry>
+    <entry id="36">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Aquarium</text>
+        <comment>En Gelaats ut Glas för Fisch</comment>
+      </translation>
+    </entry>
+    <entry id="37">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Rekenfehler</text>
+        <comment>Wenn Een falsch tellt</comment>
+      </translation>
+    </entry>
+    <entry id="38">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Populatschoon</text>
+        <comment>Tall vun Lüüd</comment>
+      </translation>
+    </entry>
+    <entry id="39">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Innovatschoon</text>
+        <comment>Wat Nieget</comment>
+      </translation>
+    </entry>
+    <entry id="40">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Stickeln</text>
+        <comment>Ützen</comment>
+      </translation>
+    </entry>
+    <entry id="41">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Eerdbeer</text>
+        <comment>Root Frucht, smacklich ok mit Slackermaschü</comment>
+      </translation>
+    </entry>
+    <entry id="42">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Brodersöhn</text>
+        <comment>De Jung vun Dien Broder</comment>
+      </translation>
+    </entry>
+    <entry id="43">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Landschop</text>
+        <comment>Rebeden buten de Stadt</comment>
+      </translation>
+    </entry>
+    <entry id="44">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Kollekschoon</text>
+        <comment>En Sammeln</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>
+

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Εφευρέσεις</title>
+    <comment>Μεγαλύτερες εφευρέσεις του ανθρώπου</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>el</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>αεροσκάφος</text>
+        <comment>Επίτευξη πτήσης μέσω σταθερών πτερύγων</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>αντιβιοτικά</text>
+        <comment>Φάρμακα που σκοτώνουν τα βακτήρια</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>αυτοκίνητο</text>
+        <comment>Ένα μηχανοκίνητο όχημα για επιβάτες</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μπαταρίες</text>
+        <comment>Αποθηκεύουν ηλεκτρική ενέργεια</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ποδήλατο</text>
+        <comment>Αποτελεσματικό ανθρωποκίνητο όχημα με 2 τροχούς</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μπούμερανγκ</text>
+        <comment>Όταν το πετάτε, επιστρέφει</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ρολόγια</text>
+        <comment>Εμφανίζουν το χρόνο με ακρίβεια</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>υπολογιστές</text>
+        <comment>Ένας είναι μπροστά σας αυτή τη στιγμή</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>δυναμίτης</text>
+        <comment>Ένα ισχυρό εκρηκτικό</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ηλεκτρισμός</text>
+        <comment>Η ροή των ηλεκτρονίων</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ανελκυστήρας</text>
+        <comment>Επιτρέπει ταχεία κατακόρυφα ταξίδια μέσα σε ψηλά κτίρια</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>αλληλογραφία</text>
+        <comment>Γρήγορη μέθοδος για την αποστολή «Ηλεκτρονικής» μέσω του διαδικτύου</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ελικόπτερο</text>
+        <comment>Οι περιστρεφόμενες λεπίδες σε αυτό το σκάφος του επιτρέπουν την πτήση</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Αερόστρωμνο</text>
+        <comment>Σκάφος που επιπλέει σε ένα μαξιλάρι του αέρα</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>διαδίκτυο</text>
+        <comment>Το παγκόσμιο δίκτυο επικοινωνίας ηλεκτρονικών υπολογιστών</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>λέιζερ</text>
+        <comment>Έντονη ακτίνα φωτός</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>συνδετήρας</text>
+        <comment>Συγκρατεί προσωρινά μαζί αντικείμενα χαρτιού</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>φωτογραφία</text>
+        <comment>Στιγμιότυπα από χρονικές στιγμές</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>πλαστικά</text>
+        <comment>Προϊόν πετρελαίου με βάση πολυμερή με μια σειρά από ακίνητα</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ραντάρ</text>
+        <comment>Με τη χρήση ραδιοκυμάτων παρέχουν τη χωρική θέση των αντικειμένων</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ραδιόφωνο</text>
+        <comment>Ήχος που λαμβάνεται από ηλεκτρομαγνητικά κύματα</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ατμομηχανή</text>
+        <comment>Η πίεση των υδρατμών οδηγεί αυτόν τον κινητήρα</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τηλέφωνο</text>
+        <comment>Μια φωνητική συσκευή επικοινωνίας</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τηλεόραση</text>
+        <comment>Ηλεκτρική συσκευή που εμφανίζει κινούμενες εικόνες</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τέτρις</text>
+        <comment>Παιχνίδι παζλ που έγινε διάσημο από την κονσόλα Game Boy</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τρανζίστορ</text>
+        <comment>Δημιουργία της σύγχρονης ηλεκτρονικής</comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>βέλκρο</text>
+        <comment>Αυτοκόλλητα με αυτοπρόσφυση</comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τροχός</text>
+        <comment>Κυκλικό αντικείμενο που επιτρέπει την κίνηση με χαμηλό συντελεστή τριβής</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

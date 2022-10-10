@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Αθλήματα</title>
+    <comment>Τα αθλήματα των Ολυμπιακών αγώνων</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>el</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>κολύμβηση</text>
+        <comment>Υγρός στίβος</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τοξοβολία</text>
+        <comment>Σκοποβολή με τόξο</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>στίβος</text>
+        <comment>Βασικό άθλημα των Ολυμπιακών αγώνων</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>αντιπτέριση</text>
+        <comment>Χτυπήστε το μπαλάκι με το δίχτυ</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μπέιζμπολ</text>
+        <comment>4 βάσεις τοποθετημένες σε σχήμα διαμαντιού</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>καλαθοσφαίριση</text>
+        <comment>Βάλτε την μπάλα στο καλάθι</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>πυγμαχία</text>
+        <comment>Πάλη με γροθιές</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>κωπηλασία</text>
+        <comment>Μικρό καράβι κινούμενο με κουπιά</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ποδηλασία</text>
+        <comment>Οδήγηση ποδηλάτων</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ιππασία</text>
+        <comment>Με άλογα</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ξιφασκία</text>
+        <comment>Μάχη με ξίφη</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ποδόσφαιρο</text>
+        <comment>Κλωτσήστε την μπάλα στο τέρμα του αντιπάλου</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>γυμναστική</text>
+        <comment>Επίδειξη αθλητικών ικανοτήτων</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>χειροσφαίριση</text>
+        <comment>Επιτρέπεται η χρήση των χεριών με την μπάλα</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>χόκεϊ</text>
+        <comment>Καμπυλωτά μπαστούνια και μια μπάλα</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τζούντο</text>
+        <comment>Μια πολεμική τέχνη</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τρίαθλο</text>
+        <comment>3 αθλητικά γεγονότα</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>υδατοσφαίριση</text>
+        <comment>«Ποδόσφαιρο» στο νερό</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ιστιοπλοΐα</text>
+        <comment>Πλεύση με κίνηση από τον άνεμο</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>σκοποβολή</text>
+        <comment>Πυροδότηση βλημάτων από ένα όπλο</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>σόφτμπολ</text>
+        <comment>Ένα παιχνίδι που μοιάζει με το μπέιζμπολ</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>πένταθλο</text>
+        <comment>5 αθλήματα</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τένις</text>
+        <comment>Παίζεται με ρακέτες</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>πετοσφαίριση</text>
+        <comment>Παιχνίδι με μπάλα χωρίς σωματική επαφή με τον αντίπαλο</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τραμπολίνο</text>
+        <comment>Πήδημα με ελατήριο</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>καταδύσεις</text>
+        <comment>Μακροβούτια από ψηλά</comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>πάλη</text>
+        <comment>Λαβές μεταξύ 2 αντιπάλων</comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μπόμπσλεϊ</text>
+        <comment>Αγώνες με έλκηθρο σε παγωμένη πίστα</comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>κέρλινγκ</text>
+        <comment>Πέτρες που γλιστράν στον πάγο</comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>χιονοσανίδα</text>
+        <comment>Ολίσθηση στο χιόνι</comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>λουτζ</text>
+        <comment>Αγώνες ταχύτητας με έλκηθρο</comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>χόκεϊ επί πάγου</text>
+        <comment>Καμπυλωτά μπαστούνια και μια πλακέ μπάλα στον πάγο</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

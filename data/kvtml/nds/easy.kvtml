@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>convert_kvtml1to2.sh</generator>
+    <title>Eenfach</title>
+    <comment>Eenfach Begrepen</comment>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <locale>nds</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Speeltiet</text>
+        <comment>Tiet, wielt de Kinner speelt</comment>
+      </translation>
+    </entry>
+    <entry id="1">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Möbelmang</text>
+        <comment>Objekten binnen en Ruum</comment>
+      </translation>
+    </entry>
+    <entry id="2">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Goorn</text>
+        <comment>Bewerkt Land mit Blomen, Bööm, Grööntüüch...</comment>
+      </translation>
+    </entry>
+    <entry id="3">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Schöler</text>
+        <comment>Een, de wat vun en anner lehrt</comment>
+      </translation>
+    </entry>
+    <entry id="4">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Grööntüüch</text>
+        <comment>Planten, de Een eten kann</comment>
+      </translation>
+    </entry>
+    <entry id="5">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Appel</text>
+        <comment>Aaft, man nich Beer oder Kass...</comment>
+      </translation>
+    </entry>
+    <entry id="6">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Töller</text>
+        <comment>Meist flach, normalerwies vun Krinkform</comment>
+      </translation>
+    </entry>
+    <entry id="7">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>sööt</text>
+        <comment>nich suer</comment>
+      </translation>
+    </entry>
+    <entry id="8">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Köök</text>
+        <comment>De Heerd steiht dor binnen</comment>
+      </translation>
+    </entry>
+    <entry id="9">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Schokolaad</text>
+        <comment>Ut Kakao maakt</comment>
+      </translation>
+    </entry>
+    <entry id="10">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Reekner</text>
+        <comment>Elektroonsch Bregen</comment>
+      </translation>
+    </entry>
+    <entry id="11">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Wörtel</text>
+        <comment>Kaninken möögt ehr</comment>
+      </translation>
+    </entry>
+    <entry id="12">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Schirm</text>
+        <comment>Wiest Informatschonen</comment>
+      </translation>
+    </entry>
+    <entry id="13">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Banaan</text>
+        <comment>Geel bagen Frucht</comment>
+      </translation>
+    </entry>
+    <entry id="14">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Informatschoon</text>
+        <comment>Weten</comment>
+      </translation>
+    </entry>
+    <entry id="15">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Geld</text>
+        <comment>Münten un Schienen</comment>
+      </translation>
+    </entry>
+    <entry id="16">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Eventüer</text>
+        <comment>Opregen Saak</comment>
+      </translation>
+    </entry>
+    <entry id="17">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Fohrer</text>
+        <comment>Stüert den Waag</comment>
+      </translation>
+    </entry>
+    <entry id="18">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Putz</text>
+        <comment>Dien Fründ un Hölper</comment>
+      </translation>
+    </entry>
+    <entry id="19">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Ananas</text>
+        <comment>Troopsch sööt Frucht</comment>
+      </translation>
+    </entry>
+    <entry id="20">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Breefmark</text>
+        <comment>Warrt op en Ümslag backt</comment>
+      </translation>
+    </entry>
+    <entry id="21">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Middag</text>
+        <comment>Mahltiet twischen Fröhstück un Avendbroot</comment>
+      </translation>
+    </entry>
+    <entry id="22">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Kutsch</text>
+        <comment>Vun en Peerd trocken Waag</comment>
+      </translation>
+    </entry>
+    <entry id="23">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Rulltrepp</text>
+        <comment>Beweegt Stopen</comment>
+      </translation>
+    </entry>
+    <entry id="24">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Fröhstück</text>
+        <comment>Eerst Mahltiet an'n Dag</comment>
+      </translation>
+    </entry>
+    <entry id="25">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Bloom</text>
+        <comment>Plant mit en Blööt</comment>
+      </translation>
+    </entry>
+    <entry id="26">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Lexen</text>
+        <comment>Lehrstünnen</comment>
+      </translation>
+    </entry>
+    <entry id="27">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Tafel</text>
+        <comment>Hangt in de School an de Wand</comment>
+      </translation>
+    </entry>
+    <entry id="28">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Klassruum</text>
+        <comment>Dor sitt Schölers binnen</comment>
+      </translation>
+    </entry>
+    <entry id="29">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Feernsehn</text>
+        <comment>Dat Kiekschapp</comment>
+      </translation>
+    </entry>
+    <entry id="30">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Fehler</text>
+        <comment>Wat Een verkehrt maakt hett</comment>
+      </translation>
+    </entry>
+    <entry id="31">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Güstern</text>
+        <comment>Nich morgen, nich vundaag, man ...</comment>
+      </translation>
+    </entry>
+    <entry id="32">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Lüüd</text>
+        <comment>Personen</comment>
+      </translation>
+    </entry>
+    <entry id="33">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Kinners</text>
+        <comment>Jung Minschen</comment>
+      </translation>
+    </entry>
+    <entry id="34">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Överraschen</text>
+        <comment>Wat nich verwacht weer</comment>
+      </translation>
+    </entry>
+    <entry id="35">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Jack</text>
+        <comment>Kort Mantel</comment>
+      </translation>
+    </entry>
+    <entry id="36">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Kees</text>
+        <comment>Ut Melk maakt</comment>
+      </translation>
+    </entry>
+    <entry id="37">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Küken</text>
+        <comment>Jung Vagel</comment>
+      </translation>
+    </entry>
+    <entry id="38">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Avendbroot</text>
+        <comment>Nich Fröhstück, nich Middag, man ...</comment>
+      </translation>
+    </entry>
+    <entry id="39">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Barg</text>
+        <comment>Gegendeel vun Daal</comment>
+      </translation>
+    </entry>
+    <entry id="40">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Woold</text>
+        <comment>Vele Bööm</comment>
+      </translation>
+    </entry>
+    <entry id="41">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Kantüffel</text>
+        <comment>Dor maakt een Pommfritt vun</comment>
+      </translation>
+    </entry>
+    <entry id="42">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Water</text>
+        <comment>Flütt ut den Hahn</comment>
+      </translation>
+    </entry>
+    <entry id="43">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Stroom</text>
+        <comment>Flütt na't Meer</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>
+

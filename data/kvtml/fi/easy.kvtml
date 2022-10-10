@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>easy.kvtml</title>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>fi</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>talo</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>suu</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>isä</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>täti</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>setä</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pata</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hätä</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pää</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>käsi</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mela</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ovi</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>työ</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>myös</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vyö</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>laki</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>taas</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>alas</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ylös</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sinä</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>minä</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>äiti</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>iso</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>veli</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ulos</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kuva</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kiva</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kova</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>saha</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kone</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kynä</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>muna</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vesi</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kesä</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hame</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>home</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>maa</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>uusi</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ohje</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>nimi</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pala</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vesi</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mehu</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>limu</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sola</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="44" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>olka</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="45" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pää</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="46" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kesy</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="47" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vati</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="48" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>uros</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="49" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vasa</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="50" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>onki</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="51" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ilo</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="52" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>alus</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="53" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>airo</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="54" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>elo</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="55" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kuu</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="56" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ala</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="57" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>suo</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="58" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sima</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="59" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rima</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="60" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>räme</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="61" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>iho</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="62" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>aho</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="63" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>uho</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="64" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>eho</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="65" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kuva</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="66" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lupa</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="67" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ruma</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="68" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>läjä</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="69" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kasa</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="70" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>raja</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="71" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>paja</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="72" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>maja</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="73" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>suma</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="74" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>noro</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="75" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>nolo</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="76" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>anis</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="77" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>soma</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="78" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lila</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="79" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kola</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="80" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>muro</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

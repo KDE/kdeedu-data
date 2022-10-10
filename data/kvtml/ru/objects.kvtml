@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <title>Объекты</title>
+    <comment>Повседневное домашнее окружение</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>ru</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>телевизор</text>
+        <comment>Электрическое устройство для показа движущихся картинок</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>стул</text>
+        <comment>То, на чем мы сидим</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>морозилка</text>
+        <comment>Используется для хранения и заморозки пиши</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>холодильник</text>
+        <comment>Используется для хранения и охлаждения пищи</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>кастрюля</text>
+        <comment>Используется в приготовлении пищи</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>камин</text>
+        <comment>Сохраняет тепло от пламени в холодную погоду</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>стол</text>
+        <comment>Он удерживает предметы над полом</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ящик</text>
+        <comment>Хранилище для личных вещей</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>зеркало</text>
+        <comment>Отражает пространство перед тобой</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>часы</text>
+        <comment>Хранитель времени</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>гардероб</text>
+        <comment>Склад верхней одежды</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>шкаф</text>
+        <comment>Хранилище для книг</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>миксер</text>
+        <comment>Он смешивает пищу</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>диван</text>
+        <comment>Он служит для того, чтобы комфортно сидеть</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>умывальник</text>
+        <comment>В нем моют руки и лицо</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>душ</text>
+        <comment>Он делает чистым ваше тело, пока вы стоите</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ванна</text>
+        <comment>Она делает ваше тело чистым, пока вы лежите горизонтально</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>чайник</text>
+        <comment>Предназначен для кипичения воды</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>телефон</text>
+        <comment>Устройство для голосовой связи</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>батарея</text>
+        <comment>Повышает температуру в доме</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>радио</text>
+        <comment>Воспроизводит звук из радиоволн</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>компьютер</text>
+        <comment>Интерактивное электронное устройство</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>животное</text>
+        <comment>Живой и часто приятный</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>картина</text>
+        <comment>Изображение в рамке</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>щетка</text>
+        <comment>Для чистки зубов</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ковер</text>
+        <comment>Мягкое покрытие пола</comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>игрушка</text>
+        <comment>Вещица для игры с ней</comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>орнамент</text>
+        <comment>Объекты с неочевидными функциями</comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>шкаф</text>
+        <comment>Большое хранилище</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

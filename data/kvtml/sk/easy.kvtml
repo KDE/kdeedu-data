@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>easy.kvtml</title>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>sk</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>voľno</text>
+        <comment>čas určený na oddych a hru</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>nábytok</text>
+        <comment>objekty v miestnosti</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>záhrada</text>
+        <comment>časť obrobenej pôdy</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>žiak</text>
+        <comment>osoba, ktorá sa učí</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zelenina</text>
+        <comment>rastlina, ktorej časť je určená na konzumáciu</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jablko</text>
+        <comment>okrúhle ovocie s pevnou dužinou</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tanier</text>
+        <comment>takmer úplne plochý, zvyčajne okrúhly kus riadu</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sladkosť</text>
+        <comment>chutí ako cukor</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kuchyňa</text>
+        <comment>miestnosť, v ktorej sa pripravuje jedlo</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>čokoláda</text>
+        <comment>vyrobené z kakaa</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>počítač</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment>elektronický stroj</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mrkva</text>
+        <comment>zajace majú rady ..</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>znamenie</text>
+        <comment>poskytuje informáciu</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>banán</text>
+        <comment>žlté ovocie</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>informácia</text>
+        <comment>znalosť</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>peniaze</text>
+        <comment>bankovky a mince</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dobrodružstvo</text>
+        <comment>vzrušujúci zážitok</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vodič</text>
+        <comment>človek za volantom</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>policajt</text>
+        <comment>člen policajných síl</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ananás</text>
+        <comment>tropické ovocie s tuhou dužinou</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>známka</text>
+        <comment>daj ju na obálku</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>obed</text>
+        <comment>jedlo v strede dňa</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>limuzína</text>
+        <comment>auto pre slávnostné príležitosti</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>eskalátor</text>
+        <comment>pohyblivé schody</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>raňajky</text>
+        <comment>prvé jedlo dňa</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kvetina</text>
+        <comment>časť rastliny, kde sa vyvíjajú semienka</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vzdelávanie</text>
+        <comment>systematické učenie sa</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>stôl</text>
+        <comment>má rovný vrch a jednu alebo viac nôh</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>trieda</text>
+        <comment>miesto, kde sa učia žiaci</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>televízia</text>
+        <comment>prijíma a ukazuje obrázky</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>chyba</text>
+        <comment>nesprávna myšlienka alebo názor</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>včera</text>
+        <comment>deň pred dnešným dňom</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ľudia</text>
+        <comment>skupina osôb</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>deti</text>
+        <comment>malí ľudia</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>prekvapenie</text>
+        <comment>niečo náhle alebo neočakávané</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>žaket</text>
+        <comment>krátky kabát</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>syr</text>
+        <comment>produkt vyrobený z mlieka</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kura</text>
+        <comment>mladý vták chovaný na mäso</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>večera</text>
+        <comment>posledné jedlo dňa</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hora</text>
+        <comment>časť krajiny, ktorá sa dvíha do výšky</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>les</text>
+        <comment>stromový porast</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zemiak</text>
+        <comment>koreňová zelenina obsahujúca škrob</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>voda</text>
+        <comment>H2O</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rieka</text>
+        <comment>veľký prírodný vodný tok</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

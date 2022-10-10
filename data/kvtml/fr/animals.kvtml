@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Animaux</title>
+    <comment>Animaux du monde</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>fr</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>chat</text>
+        <comment>Animal domestique</comment>
+      </translation>
+      <translation id="1" >
+        <text>Animal domestique</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>chien</text>
+        <comment>Animal domestique gardien de la maison</comment>
+      </translation>
+      <translation id="1" >
+        <text>Animal domestique gardien de la maison</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hibou</text>
+        <comment>Rapace nocturne mâle</comment>
+      </translation>
+      <translation id="1" >
+        <text>Rapace nocturne mâle</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>chouette</text>
+        <comment>Rapace nocturne femelle</comment>
+      </translation>
+      <translation id="1" >
+        <text>Rapace nocturne femelle</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ours</text>
+        <comment>On peut le voir dans les forêts d'Amérique</comment>
+      </translation>
+      <translation id="1" >
+        <text>On peut le voir dans les forêts d'Amérique</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dauphin</text>
+        <comment>Vit dans l'eau et est réputé intelligent</comment>
+      </translation>
+      <translation id="1" >
+        <text>Vit dans l'eau et est réputé intelligent</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zèbre</text>
+        <comment>A des rayures</comment>
+      </translation>
+      <translation id="1" >
+        <text>A des rayures</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kangourou</text>
+        <comment>Il saute !</comment>
+      </translation>
+      <translation id="1" >
+        <text>Il saute !</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>baleine</text>
+        <comment>Énorme mammifère</comment>
+      </translation>
+      <translation id="1" >
+        <text>Énorme mammifère</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cheval</text>
+        <comment>Le meilleur ami de l'homme</comment>
+      </translation>
+      <translation id="1" >
+        <text>Le meilleur ami de l'homme</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>singe</text>
+        <comment>L'animal qui nous ressemble le plus</comment>
+      </translation>
+      <translation id="1" >
+        <text>L'animal qui nous ressemble le plus</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hirondelle</text>
+        <comment>Arrive avec le printemps</comment>
+      </translation>
+      <translation id="1" >
+        <text>Arrive avec le printemps</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>serpent</text>
+        <comment>Nous fait peur</comment>
+      </translation>
+      <translation id="1" >
+        <text>Nous fait peur</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>girafe</text>
+        <comment>Son cou est long</comment>
+      </translation>
+      <translation id="1" >
+        <text>Son cou est long</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>éléphant</text>
+        <comment>Gros et gris</comment>
+      </translation>
+      <translation id="1" >
+        <text>Gros et gris</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>souris</text>
+        <comment>Aime le fromage</comment>
+      </translation>
+      <translation id="1" >
+        <text>Aime le fromage</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pingouin</text>
+        <comment>L'emblème de Linux</comment>
+      </translation>
+      <translation id="1" >
+        <text>L'emblème de Linux</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lapin</text>
+        <comment>Mammifère qui creuse des terriers</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mammifère qui creuse des terriers</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hamster</text>
+        <comment>Petit animal familier en cage</comment>
+      </translation>
+      <translation id="1" >
+        <text>Petit animal familier en cage</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cochon</text>
+        <comment>Réputé sale</comment>
+      </translation>
+      <translation id="1" >
+        <text>Réputé sale</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>loup</text>
+        <comment>Le méchand du conte</comment>
+      </translation>
+      <translation id="1" >
+        <text>Le méchand du conte</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lion</text>
+        <comment>Le roi des animaux</comment>
+      </translation>
+      <translation id="1" >
+        <text>Le roi des animaux</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tigre</text>
+        <comment>Mammifère carnivore qui vient d'Asie</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mammifère carnivore qui vient d'Asie</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pieuvre</text>
+        <comment>Plusieurs tentacules, vit dans la mer</comment>
+      </translation>
+      <translation id="1" >
+        <text>Plusieurs tentacules, vit dans la mer</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rhinocéros</text>
+        <comment>Dans la jungle, a une corne</comment>
+      </translation>
+      <translation id="1" >
+        <text>Dans la jungle, a une corne</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hérisson</text>
+        <comment>Se met en boule</comment>
+      </translation>
+      <translation id="1" >
+        <text>Se met en boule</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>écureuil</text>
+        <comment>Petit, agile, grimpe aux arbres</comment>
+      </translation>
+      <translation id="1" >
+        <text>Petit, agile, grimpe aux arbres</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cerf</text>
+        <comment>Ruminant vivant dans les forêts, mâle</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ruminant vivant dans les forêts, mâle</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tortue</text>
+        <comment>Elle gagne la course dans la fable</comment>
+      </translation>
+      <translation id="1" >
+        <text>Elle gagne la course dans la fable</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hippopotame</text>
+        <comment>Gros mammifère d'Afrique</comment>
+      </translation>
+      <translation id="1" >
+        <text>Gros mammifère d'Afrique</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dinosaure</text>
+        <comment>Son espèce est extincte</comment>
+      </translation>
+      <translation id="1" >
+        <text>Son espèce est extincte</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dinde</text>
+        <comment>Mets de Noël</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mets de Noël</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>aigle</text>
+        <comment>Grand oiseau rapace</comment>
+      </translation>
+      <translation id="1" >
+        <text>Grand oiseau rapace</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>renne</text>
+        <comment>Tire le traineau</comment>
+      </translation>
+      <translation id="1" >
+        <text>Tire le traineau</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>requin</text>
+        <comment>Grand poisson réputé dangereux</comment>
+      </translation>
+      <translation id="1" >
+        <text>Grand poisson réputé dangereux</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>canard</text>
+        <comment>Oiseau palmipède migrateur</comment>
+      </translation>
+      <translation id="1" >
+        <text>Oiseau palmipède migrateur</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>perroquet</text>
+        <comment>Oiseau qui peut parler</comment>
+      </translation>
+      <translation id="1" >
+        <text>Oiseau qui peut parler</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>grenouille</text>
+        <comment>Amphibien sauteur</comment>
+      </translation>
+      <translation id="1" >
+        <text>Amphibien sauteur</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>escargot</text>
+        <comment>Mollusque que l'on mange parfois</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mollusque que l'on mange parfois</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>chameau</text>
+        <comment>Mammifère ruminant à deux bosses</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mammifère ruminant à deux bosses</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>alligator</text>
+        <comment>On en fait des sacs à main</comment>
+      </translation>
+      <translation id="1" >
+        <text>On en fait des sacs à main</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>moustique</text>
+        <comment>Petit insecte qui nous pique en été</comment>
+      </translation>
+      <translation id="1" >
+        <text>Petit insecte qui nous pique en été</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mouton</text>
+        <comment>Ruminant à toison épaisse</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ruminant à toison épaisse</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>moule</text>
+        <comment>Petit mollusque accroché aux rochers</comment>
+      </translation>
+      <translation id="1" >
+        <text>Petit mollusque accroché aux rochers</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="44" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vache</text>
+        <comment>Ruminant nous donnant quotidiennement notre dose de calcium</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ruminant nous donnant quotidiennement notre dose de calcium</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="45" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>homard</text>
+        <comment>Crustacé à grosses pinces</comment>
+      </translation>
+      <translation id="1" >
+        <text>Crustacé à grosses pinces</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="46" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hyêne</text>
+        <comment>Mammifère charognard</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mammifère charognard</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="47" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cachalot</text>
+        <comment>Grand mammifère cétacé</comment>
+      </translation>
+      <translation id="1" >
+        <text>Grand mammifère cétacé</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="48" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>belette</text>
+        <comment>Petit mammifère au ventre blanc</comment>
+      </translation>
+      <translation id="1" >
+        <text>Petit mammifère au ventre blanc</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="49" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bélier</text>
+        <comment>Mouton mâle</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mouton mâle</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="50" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>autruche</text>
+        <comment>Oiseau d'Afrique de grande taille</comment>
+      </translation>
+      <translation id="1" >
+        <text>Oiseau d'Afrique de grande taille</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="51" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>araignée</text>
+        <comment>Arthropode à huit pattes, se pend à un fil</comment>
+      </translation>
+      <translation id="1" >
+        <text>Arthropode à huit pattes, se pend à un fil</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="52" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>biche</text>
+        <comment>Femelle du cerf</comment>
+      </translation>
+      <translation id="1" >
+        <text>Femelle du cerf</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="53" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>coccinelle</text>
+        <comment>Insecte à points noirs</comment>
+      </translation>
+      <translation id="1" >
+        <text>Insecte à points noirs</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="54" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>crabe</text>
+        <comment>Marche sur le côté</comment>
+      </translation>
+      <translation id="1" >
+        <text>Marche sur le côté</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="55" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>crevette</text>
+        <comment>Se pêche à l'épuisette</comment>
+      </translation>
+      <translation id="1" >
+        <text>Se pêche à l'épuisette</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="56" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>antilope</text>
+        <comment>Cours très vite</comment>
+      </translation>
+      <translation id="1" >
+        <text>Cours très vite</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="57" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>flamant</text>
+        <comment>Celui de couleur rose est le plus connu</comment>
+      </translation>
+      <translation id="1" >
+        <text>Celui de couleur rose est le plus connu</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="58" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>abeille</text>
+        <comment>Fabrique un mets royal</comment>
+      </translation>
+      <translation id="1" >
+        <text>Fabrique un mets royal</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="59" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mouche</text>
+        <comment>Nous agace lorsqu'elle tourne autour de nous</comment>
+      </translation>
+      <translation id="1" >
+        <text>Nous agace lorsqu'elle tourne autour de nous</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="60" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lièvre</text>
+        <comment>Perd la course dans la fable</comment>
+      </translation>
+      <translation id="1" >
+        <text>Perd la course dans la fable</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="61" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>crapaud</text>
+        <comment>Amphibien vivant près des mares</comment>
+      </translation>
+      <translation id="1" >
+        <text>Amphibien vivant près des mares</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

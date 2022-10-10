@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Glavna mesta</title>
+    <comment>Glavna mesta držav po svetu</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>sl</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>london</text>
+        <comment>Glavno mesto Anglije</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pariz</text>
+        <comment>Glavno mesto Francije</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>berlin</text>
+        <comment>Glavno mesto Nemčije</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dublin</text>
+        <comment>Glavno mesto Irske</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cardiff</text>
+        <comment>Glavno mesto Walesa</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>madrid</text>
+        <comment>Glavno mesto Španije</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>moskva</text>
+        <comment>Glavno mesto Rusije</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kabul</text>
+        <comment>Glavno mesto Afganistana</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kartum</text>
+        <comment>Glavno mesto Sudana</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>washington</text>
+        <comment>Glavno mesto ZDA</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>canberra</text>
+        <comment>Glavno mesto Avstralije</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tokio</text>
+        <comment>Glavno mesto Japonske</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lizbona</text>
+        <comment>Glavno mesto Portugalske</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>edinburgh</text>
+        <comment>Glavno mesto Škotske</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bagdad</text>
+        <comment>Glavno mesto Iraka</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>peking</text>
+        <comment>Glavno mesto Kitajske</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>seul</text>
+        <comment>Glavno mesto Južne Koreje</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>teheran</text>
+        <comment>Glavno mesto Irana</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ottawa</text>
+        <comment>Glavno mesto Kanade</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>atene</text>
+        <comment>Glavno mesto Grčije</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>stockholm</text>
+        <comment>Glavno mesto Švedske</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>oslo</text>
+        <comment>Glavno mesto Norveške</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sofija</text>
+        <comment>Glavno mesto Bulgarije</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>amsterdam</text>
+        <comment>Glavno mesto Nizozemske</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rim</text>
+        <comment>Glavno mesto Italije</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dunaj</text>
+        <comment>Glavno mesto Avstrije</comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>santiago</text>
+        <comment>Glavno mesto Čila</comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tirana</text>
+        <comment>Glavno mesto Albanije</comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bruselj</text>
+        <comment>Glavno mesto Belgije</comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zagreb</text>
+        <comment>Glavno mesto Hrvaške</comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>talin</text>
+        <comment>Glavno mesto Estonije</comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>helsinki</text>
+        <comment>Glavno mesto Finske</comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>reykjavik</text>
+        <comment>Glavno mesto Islandije</comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>budimpešta</text>
+        <comment>Glavno mesto Madžarske</comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ankara</text>
+        <comment>Glavno mesto Turčije</comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>džakarta</text>
+        <comment>Glavno mesto Indonezije</comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kingston</text>
+        <comment>Glavno mesto Jamajke</comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>nairobi</text>
+        <comment>Glavno mesto Kenije</comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>riga</text>
+        <comment>Glavno mesto Latvije</comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bejrut</text>
+        <comment>Glavno mesto Libanona</comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tripoli</text>
+        <comment>Glavno mesto Libije</comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>skopje</text>
+        <comment>Glavno mesto Makedonije</comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>katmandu</text>
+        <comment>Glavno mesto Nepala</comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lima</text>
+        <comment>Glavno mesto Peruja</comment>
+      </translation>
+    </entry>
+    <entry id="44" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>varšava</text>
+        <comment>Glavno mesto Polske</comment>
+      </translation>
+    </entry>
+    <entry id="45" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bukarešta</text>
+        <comment>Glavno mesto Romunije</comment>
+      </translation>
+    </entry>
+    <entry id="46" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bratislava</text>
+        <comment>Glavno mesto Slovaške</comment>
+      </translation>
+    </entry>
+    <entry id="47" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mogadiš</text>
+        <comment>Glavno mesto Somalije</comment>
+      </translation>
+    </entry>
+    <entry id="48" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>damask</text>
+        <comment>Glavno mesto Sirije</comment>
+      </translation>
+    </entry>
+    <entry id="49" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bern</text>
+        <comment>Glavno mesto Švice</comment>
+      </translation>
+    </entry>
+    <entry id="50" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bangkok</text>
+        <comment>Glavno mesto Tajske</comment>
+      </translation>
+    </entry>
+    <entry id="51" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>koebenhavn</text>
+        <comment>Glavno mesto Danske</comment>
+      </translation>
+    </entry>
+    <entry id="52" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ljubljana</text>
+        <comment>Glavno mesto Slovenije</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>Parley</generator>
+    <title>Enkelt</title>
+    <author>Eirik U. Birkeland &lt;eirbir@gmail.com> og Karl Ove Hufthammer &lt;karl@huftis.org></author>
+    <license>GPLv2 (GNU General Public License versjon 2)</license>
+    <comment>Enkle ord</comment>
+    <category>Språk</category>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <name></name>
+      <locale>nn</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <translation id="0" >
+        <text>leiketid</text>
+        <comment>tid som vert gjeve til ungar der dei kan ha det gøy</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <translation id="0" >
+        <text>møbel</text>
+        <comment>tinga i eit rom</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <translation id="0" >
+        <text>hage</text>
+        <comment>eit lite dyrka område</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <translation id="0" >
+        <text>elev</text>
+        <comment>ein person som lærer noko av ein annan</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <translation id="0" >
+        <text>grønsaker</text>
+        <comment>planter som vert dyrka til mat</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <translation id="0" >
+        <text>eple</text>
+        <comment>ei rund og hard frukt</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <translation id="0" >
+        <text>tallerken</text>
+        <comment>han er rund og nesten flat</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <translation id="0" >
+        <text>søtt</text>
+        <comment>smakar som det inneheld sukker</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <translation id="0" >
+        <text>kjøkken</text>
+        <comment>rom der måltid vert laga</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <translation id="0" >
+        <text>sjokolade</text>
+        <comment>laga av kakaoplanta</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <translation id="0" >
+        <text>datamaskin</text>
+        <comment>ei elektronisk maskin</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <translation id="0" >
+        <text>gulrot</text>
+        <comment>kaninar likar dei</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <translation id="0" >
+        <text>skilt</text>
+        <comment>viser informasjon</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <translation id="0" >
+        <text>banan</text>
+        <comment>ei gul frukt</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <translation id="0" >
+        <text>informasjon</text>
+        <comment>kunnskap</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <translation id="0" >
+        <text>pengar</text>
+        <comment>myntar og setlar</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <translation id="0" >
+        <text>eventyr</text>
+        <comment>oppdikta forteljing</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <translation id="0" >
+        <text>sjåfør</text>
+        <comment>personen i førarsetet</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <translation id="0" >
+        <text>politimann</text>
+        <comment>skal sikra ro og orden</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <translation id="0" >
+        <text>ananas</text>
+        <comment>tropisk frukt med hardt og oppdelt skal</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <translation id="0" >
+        <text>frimerke</text>
+        <comment>betalingsbevis på brev</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <translation id="0" >
+        <text>lunsj</text>
+        <comment>måltid midt på dagen</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <translation id="0" >
+        <text>limousin</text>
+        <comment>kjendisbil</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <translation id="0" >
+        <text>rulletrapp</text>
+        <comment>trapp som rører seg</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <translation id="0" >
+        <text>frukost</text>
+        <comment>det første måltidet på dagen</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <translation id="0" >
+        <text>blome</text>
+        <comment>vakker plante</comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <translation id="0" >
+        <text>utdanning</text>
+        <comment>systematisk opplæring</comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <translation id="0" >
+        <text>bord</text>
+        <comment>er flatt oppå og har ein eller fleire føter</comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <translation id="0" >
+        <text>klasserom</text>
+        <comment>der elevar får opplæring</comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <translation id="0" >
+        <text>fjernsyn</text>
+        <comment>tek imot og viser levande bilete</comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <translation id="0" >
+        <text>feil</text>
+        <comment>handling eller ord som ikkje burde ha kome</comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <translation id="0" >
+        <text>kvardag</text>
+        <comment>måndag til fredag</comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <translation id="0" >
+        <text>folk</text>
+        <comment>ei stor gruppe personar</comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <translation id="0" >
+        <text>barn</text>
+        <comment>unge menneske</comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <translation id="0" >
+        <text>overrasking</text>
+        <comment>noko plutseleg eller uventa</comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <translation id="0" >
+        <text>jakke</text>
+        <comment>ei kort kappe</comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <translation id="0" >
+        <text>ost</text>
+        <comment>hardt pålegg laga av mjølk</comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <translation id="0" >
+        <text>kylling</text>
+        <comment>ein ung fugl</comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <translation id="0" >
+        <text>middag</text>
+        <comment>hovudmåltidet</comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <translation id="0" >
+        <text>fjell</text>
+        <comment>landmasse som når store høgder</comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <translation id="0" >
+        <text>skog</text>
+        <comment>mange tre</comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <translation id="0" >
+        <text>potet</text>
+        <comment>plante med ein stiv knoll som kan etast</comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <translation id="0" >
+        <text>vatn</text>
+        <comment>H₂O</comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <translation id="0" >
+        <text>elv</text>
+        <comment>ein stor naturleg vasstraum</comment>
+      </translation>
+    </entry>
+  </entries>
+  <lessons>
+    <container>
+      <name>Standardleksjon</name>
+      <inpractice>true</inpractice>
+      <current>true</current>
+      <entry id="0" />
+      <entry id="1" />
+      <entry id="2" />
+      <entry id="3" />
+      <entry id="4" />
+      <entry id="5" />
+      <entry id="6" />
+      <entry id="7" />
+      <entry id="8" />
+      <entry id="9" />
+      <entry id="10" />
+      <entry id="11" />
+      <entry id="12" />
+      <entry id="13" />
+      <entry id="14" />
+      <entry id="15" />
+      <entry id="16" />
+      <entry id="17" />
+      <entry id="18" />
+      <entry id="19" />
+      <entry id="20" />
+      <entry id="21" />
+      <entry id="22" />
+      <entry id="23" />
+      <entry id="24" />
+      <entry id="25" />
+      <entry id="26" />
+      <entry id="27" />
+      <entry id="28" />
+      <entry id="29" />
+      <entry id="30" />
+      <entry id="31" />
+      <entry id="32" />
+      <entry id="33" />
+      <entry id="34" />
+      <entry id="35" />
+      <entry id="36" />
+      <entry id="37" />
+      <entry id="38" />
+      <entry id="39" />
+      <entry id="40" />
+      <entry id="41" />
+      <entry id="42" />
+      <entry id="43" />
+    </container>
+  </lessons>
+</kvtml>

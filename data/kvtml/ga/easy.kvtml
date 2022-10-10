@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Éasca</title>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>ga</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>am spraoi</text>
+        <comment>time assigned for children to play</comment>
+      </translation>
+      <translation id="1" >
+        <text>time assigned for children to play</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>troscán</text>
+        <comment>objects in a room</comment>
+      </translation>
+      <translation id="1" >
+        <text>objects in a room</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>garraí</text>
+        <comment>a piece of cultivated ground</comment>
+      </translation>
+      <translation id="1" >
+        <text>a piece of cultivated ground</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dalta</text>
+        <comment>a person taught by another</comment>
+      </translation>
+      <translation id="1" >
+        <text>a person taught by another</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>glasraí</text>
+        <comment>a plant of which some part is used as food</comment>
+      </translation>
+      <translation id="1" >
+        <text>a plant of which some part is used as food</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>úll</text>
+        <comment>a round firm fruit</comment>
+      </translation>
+      <translation id="1" >
+        <text>a round firm fruit</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pláta</text>
+        <comment>almost flat usually circular ustensil</comment>
+      </translation>
+      <translation id="1" >
+        <text>almost flat usually circular ustensil</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>milis</text>
+        <comment>tasting as if containing sugar</comment>
+      </translation>
+      <translation id="1" >
+        <text>tasting as if containing sugar</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cistin</text>
+        <comment>room in which meals are prepared</comment>
+      </translation>
+      <translation id="1" >
+        <text>room in which meals are prepared</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>seacláid</text>
+        <comment>made from cocoa</comment>
+      </translation>
+      <translation id="1" >
+        <text>made from cocoa</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ríomhaire</text>
+        <comment>an electronic machine</comment>
+      </translation>
+      <translation id="1" >
+        <text>an electronic machine</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>meacan dearg</text>
+        <comment>rabbits like them</comment>
+      </translation>
+      <translation id="1" >
+        <text>rabbits like them</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>taispeántas</text>
+        <comment>show you an information</comment>
+      </translation>
+      <translation id="1" >
+        <text>show you an information</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>banana</text>
+        <comment>a yellow fruit</comment>
+      </translation>
+      <translation id="1" >
+        <text>a yellow fruit</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>eolas</text>
+        <comment>knowledge</comment>
+      </translation>
+      <translation id="1" >
+        <text>knowledge</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>airgead</text>
+        <comment>coins and banknotes</comment>
+      </translation>
+      <translation id="1" >
+        <text>coins and banknotes</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>eachtra</text>
+        <comment>an exciting experiment</comment>
+      </translation>
+      <translation id="1" >
+        <text>an exciting experiment</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tiománaí</text>
+        <comment>person at the wheel</comment>
+      </translation>
+      <translation id="1" >
+        <text>person at the wheel</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>garda</text>
+        <comment>member of a police force</comment>
+      </translation>
+      <translation id="1" >
+        <text>member of a police force</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>anann</text>
+        <comment>tropical fruit with tough segmented skin</comment>
+      </translation>
+      <translation id="1" >
+        <text>tropical fruit with tough segmented skin</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>stampa</text>
+        <comment>affix it to an envelop</comment>
+      </translation>
+      <translation id="1" >
+        <text>affix it to an envelop</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lón</text>
+        <comment>midday meal</comment>
+      </translation>
+      <translation id="1" >
+        <text>midday meal</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>limisín</text>
+        <comment>car for celebrities</comment>
+      </translation>
+      <translation id="1" >
+        <text>car for celebrities</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>staighre beo</text>
+        <comment>moving starircase</comment>
+      </translation>
+      <translation id="1" >
+        <text>moving starircase</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bricfeasta</text>
+        <comment>first meal of the day</comment>
+      </translation>
+      <translation id="1" >
+        <text>first meal of the day</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bláth</text>
+        <comment>part of the plant from which seeds develop</comment>
+      </translation>
+      <translation id="1" >
+        <text>part of the plant from which seeds develop</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>oideachas</text>
+        <comment>systematic training</comment>
+      </translation>
+      <translation id="1" >
+        <text>systematic training</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tábla</text>
+        <comment>has a flat top with one or more legs</comment>
+      </translation>
+      <translation id="1" >
+        <text>has a flat top with one or more legs</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>seomra ranga</text>
+        <comment>where students are taught</comment>
+      </translation>
+      <translation id="1" >
+        <text>where students are taught</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>teilifís</text>
+        <comment>receives and displays images</comment>
+      </translation>
+      <translation id="1" >
+        <text>receives and displays images</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>botún</text>
+        <comment>incorrect idea or opinion</comment>
+      </translation>
+      <translation id="1" >
+        <text>incorrect idea or opinion</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>inné</text>
+        <comment>the day before today</comment>
+      </translation>
+      <translation id="1" >
+        <text>the day before today</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>daoine</text>
+        <comment>large group of persons</comment>
+      </translation>
+      <translation id="1" >
+        <text>large group of persons</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>páistí</text>
+        <comment>young humans</comment>
+      </translation>
+      <translation id="1" >
+        <text>young humans</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ionadh</text>
+        <comment>something sudden or unexpected</comment>
+      </translation>
+      <translation id="1" >
+        <text>something sudden or unexpected</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>seaicéad</text>
+        <comment>a short coat</comment>
+      </translation>
+      <translation id="1" >
+        <text>a short coat</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cáis</text>
+        <comment>solid food made from milk</comment>
+      </translation>
+      <translation id="1" >
+        <text>solid food made from milk</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sicín</text>
+        <comment>a young bird, especially of the domestic fowl</comment>
+      </translation>
+      <translation id="1" >
+        <text>a young bird, especially of the domestic fowl</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dinnéar</text>
+        <comment>evening meal</comment>
+      </translation>
+      <translation id="1" >
+        <text>evening meal</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sliabh</text>
+        <comment>mass of land that rises to a great height</comment>
+      </translation>
+      <translation id="1" >
+        <text>mass of land that rises to a great height</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>foraois</text>
+        <comment>set of trees</comment>
+      </translation>
+      <translation id="1" >
+        <text>set of trees</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>práta</text>
+        <comment>plant with starchy edible tubers</comment>
+      </translation>
+      <translation id="1" >
+        <text>plant with starchy edible tubers</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>uisce</text>
+        <comment>H2O</comment>
+      </translation>
+      <translation id="1" >
+        <text>H2O</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>abhainn</text>
+        <comment>a large natural stream of water</comment>
+      </translation>
+      <translation id="1" >
+        <text>a large natural stream of water</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

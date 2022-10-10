@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Vesolje</title>
+    <comment>Vesoljski objekti, izrazi in misije</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>sl</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>apollo</text>
+        <comment>Ameriški program poleta na Mesec</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>asteroid</text>
+        <comment>Majhen objekt ki kroži okoli Sonca</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>astronavt</text>
+        <comment>Angleški izraz za človeka, ki gre v vesolje</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>buran</text>
+        <comment>Ruski program izdelave vesoljskega letala</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>komet</text>
+        <comment>Srednje velik leden objekt, ki kroži okoli Sonca</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ozvezdje</text>
+        <comment>Skupina zvezd, ki lahko tvori obliko ali vzorec</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kozmonavt</text>
+        <comment>Ruski izraz za človeka, ki gre v vesolje</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zemlja</text>
+        <comment>Planet na katerem živimo</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mrk</text>
+        <comment>Ko neko nebesno telo zakrije drugega</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>galaksija</text>
+        <comment>Ogromna skupina zvezd</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jupiter</text>
+        <comment>Peti planet od Sonca, največji planet</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mars</text>
+        <comment>Četrti planet od Sonca, rdeči planet</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>merkur</text>
+        <comment>Planet najbližje soncu, najmanjši planet</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>meteor</text>
+        <comment>Meteorit, ki zagori v Zemljinem ozračju</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>meteorit</text>
+        <comment>Snov iz vesolja, ki doseže Zemljo</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mir</text>
+        <comment>Ruska vesoljska postaja, izstreljena leta 1986</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mesec</text>
+        <comment>Zemljin naravni satelit</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>neptun</text>
+        <comment>Osmi planet od Sonca, modri planet</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>orbita</text>
+        <comment>Pot po kateri neko telo kroži okoli drugega</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pluton</text>
+        <comment>Drugi največji pritlikavi planet</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>satelit</text>
+        <comment>Objekt, ki kroži okoli planeta</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>saturn</text>
+        <comment>Šesti planet od Sonca, planet z obroči</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>skylab</text>
+        <comment>Ameriška vesoljska postaja, izstreljena leta 1973</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sputnik</text>
+        <comment>Prvi Zemljin umetni satelit, izstreljen leta 1957</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Sonce</text>
+        <comment>Zvezda v središču našega osončja</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>taikonavt</text>
+        <comment>Kitajski izraz za človeka, ki gre v vesolje</comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>uran</text>
+        <comment>Sedmi planet od Sonca</comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>venera</text>
+        <comment>Drugi planet od Sonca</comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>voyager</text>
+        <comment>Dve vesoljski sondi, izstreljeni leta 1977</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

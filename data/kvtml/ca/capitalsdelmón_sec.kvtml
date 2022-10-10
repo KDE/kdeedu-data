@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>converter</generator>
+    <title>Capitals del món</title>
+    <comment>Principals capitals del món</comment>
+    <date>2018-12-17</date>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Original</name>
+      <locale>ca</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>londres</text>
+        <comment>Capital de Gran Bretanya</comment>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>parís</text>
+        <comment>Capital de França</comment>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>berlín</text>
+        <comment>Capital d'Alemanya</comment>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>buenos aires</text>
+        <comment>Capital d'Argentina</comment>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>bogotà</text>
+        <comment>Capital de Colòmbia</comment>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>madrid</text>
+        <comment>Capital d'Espanya</comment>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>moscou</text>
+        <comment>Capital de Rússia</comment>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>kabul</text>
+        <comment>Capital d'Afganistan</comment>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>khartum</text>
+        <comment>Capital de Sudan</comment>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>washington</text>
+        <comment>Capital dels Estats Units</comment>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>canberra</text>
+        <comment>Capital d'Austràlia</comment>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>tòquio</text>
+        <comment>Capital de Japó</comment>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>lisboa</text>
+        <comment>Capital de Portugal</comment>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>rabat</text>
+        <comment>Capital de Marroc</comment>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>bagdad</text>
+        <comment>Capital d'Irak</comment>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>pequín</text>
+        <comment>Capital de Xina</comment>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>seül</text>
+        <comment>Capital de Corea del Sud</comment>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>teheran</text>
+        <comment>Capital d'Iran</comment>
+      </translation>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>ottawa</text>
+        <comment>Capital de Canadà</comment>
+      </translation>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>atenes</text>
+        <comment>Capital de Grècia</comment>
+      </translation>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>estocolm</text>
+        <comment>Capital de Suècia</comment>
+      </translation>
+    </entry>
+    <entry id="21">
+      <translation id="0">
+        <text>oslo</text>
+        <comment>Capital de Noruega</comment>
+      </translation>
+    </entry>
+    <entry id="22">
+      <translation id="0">
+        <text>sofia</text>
+        <comment>Capital de Bulgària</comment>
+      </translation>
+    </entry>
+    <entry id="23">
+      <translation id="0">
+        <text>amsterdam</text>
+        <comment>Capital d'Holanda</comment>
+      </translation>
+    </entry>
+    <entry id="24">
+      <translation id="0">
+        <text>roma</text>
+        <comment>Capital d'Itàlia</comment>
+      </translation>
+    </entry>
+    <entry id="25">
+      <translation id="0">
+        <text>viena</text>
+        <comment>Capital d'Àustria</comment>
+      </translation>
+    </entry>
+    <entry id="26">
+      <translation id="0">
+        <text>santiago de xile</text>
+        <comment>Capital de Xile</comment>
+      </translation>
+    </entry>
+    <entry id="27">
+      <translation id="0">
+        <text>tirana</text>
+        <comment>Capital d'Albània</comment>
+      </translation>
+    </entry>
+    <entry id="28">
+      <translation id="0">
+        <text>brussel·les</text>
+        <comment>Capital de Bèlgica</comment>
+      </translation>
+    </entry>
+    <entry id="29">
+      <translation id="0">
+        <text>luxemburg</text>
+        <comment>Capital de Luxemburg</comment>
+      </translation>
+    </entry>
+    <entry id="30">
+      <translation id="0">
+        <text>alger</text>
+        <comment>Capital d'Algèria</comment>
+      </translation>
+    </entry>
+    <entry id="31">
+      <translation id="0">
+        <text>helsinki</text>
+        <comment>Capital de Finlàndia</comment>
+      </translation>
+    </entry>
+    <entry id="32">
+      <translation id="0">
+        <text>reykjavik</text>
+        <comment>Capital d'Islàndia</comment>
+      </translation>
+    </entry>
+    <entry id="33">
+      <translation id="0">
+        <text>budapest</text>
+        <comment>Capital d'Hongria</comment>
+      </translation>
+    </entry>
+    <entry id="34">
+      <translation id="0">
+        <text>ankara</text>
+        <comment>Capital de Turquia</comment>
+      </translation>
+    </entry>
+    <entry id="35">
+      <translation id="0">
+        <text>jakarta</text>
+        <comment>Capital d'Indonèsia</comment>
+      </translation>
+    </entry>
+    <entry id="36">
+      <translation id="0">
+        <text>kingston</text>
+        <comment>Capital de Jamaica</comment>
+      </translation>
+    </entry>
+    <entry id="37">
+      <translation id="0">
+        <text>nairobi</text>
+        <comment>Capital de Kènia</comment>
+      </translation>
+    </entry>
+    <entry id="38">
+      <translation id="0">
+        <text>brasília</text>
+        <comment>Capital de Brasil</comment>
+      </translation>
+    </entry>
+    <entry id="39">
+      <translation id="0">
+        <text>beirut</text>
+        <comment>Capital de Líban</comment>
+      </translation>
+    </entry>
+    <entry id="40">
+      <translation id="0">
+        <text>trípoli</text>
+        <comment>Capital de Líbia</comment>
+      </translation>
+    </entry>
+    <entry id="41">
+      <translation id="0">
+        <text>jerusalem</text>
+        <comment>Capital d'Israel</comment>
+      </translation>
+    </entry>
+    <entry id="42">
+      <translation id="0">
+        <text>katmandú</text>
+        <comment>Capital de Nepal</comment>
+      </translation>
+    </entry>
+    <entry id="43">
+      <translation id="0">
+        <text>lima</text>
+        <comment>Capital de Perú</comment>
+      </translation>
+    </entry>
+    <entry id="44">
+      <translation id="0">
+        <text>varsòvia</text>
+        <comment>Capital de Polònia</comment>
+      </translation>
+    </entry>
+    <entry id="45">
+      <translation id="0">
+        <text>bucarest</text>
+        <comment>Capital de Romania</comment>
+      </translation>
+    </entry>
+    <entry id="46">
+      <translation id="0">
+        <text>mogadiscio</text>
+        <comment>Capital de Somàlia</comment>
+      </translation>
+    </entry>
+    <entry id="47">
+      <translation id="0">
+        <text>damasc</text>
+        <comment>Capital de Síria</comment>
+      </translation>
+    </entry>
+    <entry id="48">
+      <translation id="0">
+        <text>berna</text>
+        <comment>Capital de Suïssa</comment>
+      </translation>
+    </entry>
+    <entry id="49">
+      <translation id="0">
+        <text>bangkok</text>
+        <comment>Capital de Tailàndia</comment>
+      </translation>
+    </entry>
+    <entry id="50">
+      <translation id="0">
+        <text>el caire</text>
+        <comment>Capital d'Egipte</comment>
+      </translation>
+    </entry>
+    <entry id="51">
+      <translation id="0">
+        <text>yaoundé</text>
+        <comment>Capital de Camerun</comment>
+      </translation>
+    </entry>
+    <entry id="52">
+      <translation id="0">
+        <text>kinshasa</text>
+        <comment>Capital de República Democràtica del Congo</comment>
+      </translation>
+    </entry>
+    <entry id="53">
+      <translation id="0">
+        <text>addis ababa</text>
+        <comment>Capital d'Etiòpia</comment>
+      </translation>
+    </entry>
+    <entry id="54">
+      <translation id="0">
+        <text>nairobi</text>
+        <comment>Capital de Kènia</comment>
+      </translation>
+    </entry>
+    <entry id="55">
+      <translation id="0">
+        <text>nouakchott</text>
+        <comment>Capital de Mauritània</comment>
+      </translation>
+    </entry>
+    <entry id="56">
+      <translation id="0">
+        <text>tunis</text>
+        <comment>Capital de Tuníssia</comment>
+      </translation>
+    </entry>
+    <entry id="57">
+      <translation id="0">
+        <text>dakar</text>
+        <comment>Capital de Senegal</comment>
+      </translation>
+    </entry>
+    <entry id="58">
+      <translation id="0">
+        <text>niamey</text>
+        <comment>Capital de Níger</comment>
+      </translation>
+    </entry>
+    <entry id="59">
+      <translation id="0">
+        <text>abuja</text>
+        <comment>Capital de Nigèria</comment>
+      </translation>
+    </entry>
+    <entry id="60">
+      <translation id="0">
+        <text>bamako</text>
+        <comment>Capital de Mali</comment>
+      </translation>
+    </entry>
+    <entry id="61">
+      <translation id="0">
+        <text>ndjamena</text>
+        <comment>Capital del Txad</comment>
+      </translation>
+    </entry>
+    <entry id="62">
+      <translation id="0">
+        <text>windhoek</text>
+        <comment>Capital de Namíbia</comment>
+      </translation>
+    </entry>
+    <entry id="63">
+      <translation id="0">
+        <text>luanda</text>
+        <comment>Capital d'Angola</comment>
+      </translation>
+    </entry>
+    <entry id="64">
+      <translation id="0">
+        <text>dodoma</text>
+        <comment>Capital de Tanzània</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

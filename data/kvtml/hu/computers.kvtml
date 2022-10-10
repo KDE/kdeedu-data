@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Számítógépek</title>
+    <comment>A számítógépet körülvevő dolgok</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>hu</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>monitor</text>
+        <comment>A device to visualize bits</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hangszóró</text>
+        <comment>Levegőben terjedő hanghullámokat hoz létre</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>nyomtató</text>
+        <comment>Megjeleníti a biteket papíron</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>egér</text>
+        <comment>A számítógép irányítására szolgáló egyik eszköz</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>billentyűzet</text>
+        <comment>Standard beviteli eszköz</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>botkormány</text>
+        <comment>Játékokhoz használt beviteli eszköz</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>modem</text>
+        <comment>A számítógépet az internettel összekötő eszköz</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>koffein</text>
+        <comment>Éberséget biztosító anyag</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>floppy</text>
+        <comment>Egy ősi tárolóeszköz</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>szalag</text>
+        <comment>Lassú, nagy tárolókapacitású mágneses egység</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>szkenner</text>
+        <comment>Lapos objektumokat digitálisan leképező eszköz</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>fejhallgató</text>
+        <comment>Zene és más hangok hallgatása mások zavarása nélkül</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>webkamera</text>
+        <comment>Mozgóképeket küld az interneten keresztül</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mikrofon</text>
+        <comment>Hangfelvételt tesz lehetővé</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

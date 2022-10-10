@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>animals.kvtml</title>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>it</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cane</text>
+        <comment>è il tuo animale domestico preferito</comment>
+      </translation>
+      <translation id="1" >
+        <text>è il tuo animale domestico preferito</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>gatto</text>
+        <comment>è un animale domestico</comment>
+      </translation>
+      <translation id="1" >
+        <text>è un animale domestico</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>canarino</text>
+        <comment>cantano tanto</comment>
+      </translation>
+      <translation id="1" >
+        <text>cantano tanto</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cardellino</text>
+        <comment>piccolo pennuto</comment>
+      </translation>
+      <translation id="1" >
+        <text>piccolo pennuto</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>orso</text>
+        <comment>è grosso e gli piace il miele</comment>
+      </translation>
+      <translation id="1" >
+        <text>è grosso e gli piace il miele</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>balena</text>
+        <comment>è un grosso pesce</comment>
+      </translation>
+      <translation id="1" >
+        <text>è un grosso pesce</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>squalo</text>
+        <comment>tutti fuori dall'acqua!</comment>
+      </translation>
+      <translation id="1" >
+        <text>tutti fuori dall'acqua!</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>orca</text>
+        <comment>è un grosso mammifero di mare</comment>
+      </translation>
+      <translation id="1" >
+        <text>è un grosso mammifero di mare</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>delfino</text>
+        <comment>ama giocare in acqua</comment>
+      </translation>
+      <translation id="1" >
+        <text>ama giocare in acqua</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>foca</text>
+        <comment>ama giocare a palla</comment>
+      </translation>
+      <translation id="1" >
+        <text>ama giocare a palla</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tonno</text>
+        <comment>vive a mare ed è molto saporito</comment>
+      </translation>
+      <translation id="1" >
+        <text>vive a mare ed è molto saporito</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>polipo</text>
+        <comment>ha sempre il naso sporco di inchiostro</comment>
+      </translation>
+      <translation id="1" >
+        <text>ha sempre il naso sporco di inchiostro</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>trota</text>
+        <comment>vive al lago</comment>
+      </translation>
+      <translation id="1" >
+        <text>vive al lago</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pinguino</text>
+        <comment>vive al freddo</comment>
+      </translation>
+      <translation id="1" >
+        <text>vive al freddo</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>anatra</text>
+        <comment>le piace nuotare beata</comment>
+      </translation>
+      <translation id="1" >
+        <text>le piace nuotare beata</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>piovra</text>
+        <comment>attenti alle sue braccia</comment>
+      </translation>
+      <translation id="1" >
+        <text>attenti alle sue braccia</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tartaruga</text>
+        <comment>è molto lenta</comment>
+      </translation>
+      <translation id="1" >
+        <text>è molto lenta</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ippopotamo</text>
+        <comment>vive lungo i fiumi dell'Africa</comment>
+      </translation>
+      <translation id="1" >
+        <text>vive lungo i fiumi dell'Africa</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>alligatore</text>
+        <comment>è silenziso e pericoloso</comment>
+      </translation>
+      <translation id="1" >
+        <text>è silenziso e pericoloso</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>coccodrillo</text>
+        <comment>attenzione vive lungo i fiumi dell'Africa!</comment>
+      </translation>
+      <translation id="1" >
+        <text>attenzione vive lungo i fiumi dell'Africa!</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rana</text>
+        <comment>le piace saltare</comment>
+      </translation>
+      <translation id="1" >
+        <text>le piace saltare</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>girino</text>
+        <comment>è appena nato</comment>
+      </translation>
+      <translation id="1" >
+        <text>è appena nato</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pulcino</text>
+        <comment>piccolo nel pollaio</comment>
+      </translation>
+      <translation id="1" >
+        <text>piccolo nel pollaio</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>gallo</text>
+        <comment>controlla il pollaio</comment>
+      </translation>
+      <translation id="1" >
+        <text>controlla il pollaio</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>gallina</text>
+        <comment>sta sempre a fare uova</comment>
+      </translation>
+      <translation id="1" >
+        <text>sta sempre a fare uova</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>chiocciola</text>
+        <comment>com'è lenta!</comment>
+      </translation>
+      <translation id="1" >
+        <text>com'è lenta!</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lumaca</text>
+        <comment>non è per nulla veloce!</comment>
+      </translation>
+      <translation id="1" >
+        <text>non è per nulla veloce!</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zebra</text>
+        <comment>ne hai mai vista una allo zoo?</comment>
+      </translation>
+      <translation id="1" >
+        <text>ne hai mai vista una allo zoo?</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>canguro</text>
+        <comment>non vive in Italia</comment>
+      </translation>
+      <translation id="1" >
+        <text>non vive in Italia</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cavallo</text>
+        <comment>molti vi salgono in groppa</comment>
+      </translation>
+      <translation id="1" >
+        <text>molti vi salgono in groppa</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>scimmia</text>
+        <comment>mangia molte banane</comment>
+      </translation>
+      <translation id="1" >
+        <text>mangia molte banane</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>picchio</text>
+        <comment>becca di continuo</comment>
+      </translation>
+      <translation id="1" >
+        <text>becca di continuo</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>serpente</text>
+        <comment>ha uno scatto velocissimo e pericoloso</comment>
+      </translation>
+      <translation id="1" >
+        <text>ha uno scatto velocissimo e pericoloso</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>giraffa</text>
+        <comment>che collo lungo che ha!</comment>
+      </translation>
+      <translation id="1" >
+        <text>che collo lungo che ha!</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>elefante</text>
+        <comment>attenzione ai suoi piedi</comment>
+      </translation>
+      <translation id="1" >
+        <text>attenzione ai suoi piedi</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>topo</text>
+        <comment>ve ne sono di carini bianchi</comment>
+      </translation>
+      <translation id="1" >
+        <text>ve ne sono di carini bianchi</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>verme</text>
+        <comment>striscia sempre</comment>
+      </translation>
+      <translation id="1" >
+        <text>striscia sempre</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>libellula</text>
+        <comment>quante ali che ha!</comment>
+      </translation>
+      <translation id="1" >
+        <text>quante ali che ha!</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>farfalla</text>
+        <comment>che belle ali!</comment>
+      </translation>
+      <translation id="1" >
+        <text>che belle ali!</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>coniglio</text>
+        <comment>quante carote vorrà?</comment>
+      </translation>
+      <translation id="1" >
+        <text>quante carote vorrà?</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>criceto</text>
+        <comment>corre sempre</comment>
+      </translation>
+      <translation id="1" >
+        <text>corre sempre</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>porcellino</text>
+        <comment>è sempre sporco</comment>
+      </translation>
+      <translation id="1" >
+        <text>è sempre sporco</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lupo</text>
+        <comment>attenti alla luna piena</comment>
+      </translation>
+      <translation id="1" >
+        <text>attenti alla luna piena</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>leone</text>
+        <comment>che cresta e che paura!</comment>
+      </translation>
+      <translation id="1" >
+        <text>che cresta e che paura!</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="44" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tigre</text>
+        <comment>veloce e feroce, vive in Africa</comment>
+      </translation>
+      <translation id="1" >
+        <text>veloce e feroce, vive in Africa</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="45" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>puma</text>
+        <comment>corre molto ed è pericoloso</comment>
+      </translation>
+      <translation id="1" >
+        <text>corre molto ed è pericoloso</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="46" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rinoceronte</text>
+        <comment>che bel corno sul naso!</comment>
+      </translation>
+      <translation id="1" >
+        <text>che bel corno sul naso!</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="47" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>riccio</text>
+        <comment>attenzione che punge!</comment>
+      </translation>
+      <translation id="1" >
+        <text>attenzione che punge!</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="48" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>porcospino</text>
+        <comment>punge, attento alle mani!</comment>
+      </translation>
+      <translation id="1" >
+        <text>punge, attento alle mani!</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="49" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>puzzola</text>
+        <comment>oh, che cattivo odore!</comment>
+      </translation>
+      <translation id="1" >
+        <text>oh, che cattivo odore!</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="50" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>maialino</text>
+        <comment>non è abituato alla pulizia</comment>
+      </translation>
+      <translation id="1" >
+        <text>non è abituato alla pulizia</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="51" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>renna</text>
+        <comment>senza non vi sarebbero doni a Natale</comment>
+      </translation>
+      <translation id="1" >
+        <text>senza non vi sarebbero doni a Natale</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="52" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>scoiattolo</text>
+        <comment>vive nei boschi</comment>
+      </translation>
+      <translation id="1" >
+        <text>vive nei boschi</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="53" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dinosauro</text>
+        <comment>è vissuto tanti anni fa</comment>
+      </translation>
+      <translation id="1" >
+        <text>è vissuto tanti anni fa</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="54" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tacchino</text>
+        <comment>come il gallo</comment>
+      </translation>
+      <translation id="1" >
+        <text>come il gallo</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="55" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>aquila</text>
+        <comment>è un volatile di stirpe nobile</comment>
+      </translation>
+      <translation id="1" >
+        <text>è un volatile di stirpe nobile</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="56" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pesce</text>
+        <comment>può essere di varie specie: di lago, di mare</comment>
+      </translation>
+      <translation id="1" >
+        <text>può essere di varie specie: di lago, di mare</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="57" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pappagallo</text>
+        <comment>ripete tutto</comment>
+      </translation>
+      <translation id="1" >
+        <text>ripete tutto</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="58" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cammello</text>
+        <comment>è indispensabile nel deserto</comment>
+      </translation>
+      <translation id="1" >
+        <text>è indispensabile nel deserto</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="59" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dromedario</text>
+        <comment>vive nel deserto</comment>
+      </translation>
+      <translation id="1" >
+        <text>vive nel deserto</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="60" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pecora</text>
+        <comment>si contano prima di dormire</comment>
+      </translation>
+      <translation id="1" >
+        <text>si contano prima di dormire</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="61" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mucca</text>
+        <comment>fa tanto latte</comment>
+      </translation>
+      <translation id="1" >
+        <text>fa tanto latte</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="62" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zanzara</text>
+        <comment>alcune non fanno dormire</comment>
+      </translation>
+      <translation id="1" >
+        <text>alcune non fanno dormire</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="63" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mosca</text>
+        <comment>ce ne sono di molto fastidiose</comment>
+      </translation>
+      <translation id="1" >
+        <text>ce ne sono di molto fastidiose</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="64" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ape</text>
+        <comment>punge e lavora molto</comment>
+      </translation>
+      <translation id="1" >
+        <text>punge e lavora molto</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

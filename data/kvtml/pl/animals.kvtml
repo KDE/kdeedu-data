@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>animals.kvtml</title>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>pl</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kociak</text>
+        <comment>młody kot</comment>
+      </translation>
+      <translation id="1" >
+        <text>młody kot</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>niedźwiedź</text>
+        <comment>duże ciężkie zwierze z grubym futrem</comment>
+      </translation>
+      <translation id="1" >
+        <text>duże ciężkie zwierze z grubym futrem</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>delfin</text>
+        <comment>ssak wodny</comment>
+      </translation>
+      <translation id="1" >
+        <text>ssak wodny</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zebra</text>
+        <comment>afrykańskie zwierze z biało-czarnymi paskami</comment>
+      </translation>
+      <translation id="1" >
+        <text>afrykańskie zwierze z biało-czarnymi paskami</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kangur</text>
+        <comment>australijski ssak</comment>
+      </translation>
+      <translation id="1" >
+        <text>australijski ssak</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>wieloryb</text>
+        <comment>duży ssak żyjący w morzu</comment>
+      </translation>
+      <translation id="1" >
+        <text>duży ssak żyjący w morzu</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>koń</text>
+        <comment>zwierze udomowione</comment>
+      </translation>
+      <translation id="1" >
+        <text>zwierze udomowione</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>goryl</text>
+        <comment>zwierze blisko spokrewnione z człowiekiem</comment>
+      </translation>
+      <translation id="1" >
+        <text>zwierze blisko spokrewnione z człowiekiem</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dzięcioł</text>
+        <comment>ptak który stuka w drzewo</comment>
+      </translation>
+      <translation id="1" >
+        <text>ptak który stuka w drzewo</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zimorodek</text>
+        <comment>ptak który nie odlatuje do ciepłych krajów</comment>
+      </translation>
+      <translation id="1" >
+        <text>ptak który nie odlatuje do ciepłych krajów</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>wąż</text>
+        <comment>niebezpieczny gad</comment>
+      </translation>
+      <translation id="1" >
+        <text>niebezpieczny gad</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>żyrafa</text>
+        <comment>afrykańskie zwierze z długą szyją</comment>
+      </translation>
+      <translation id="1" >
+        <text>afrykańskie zwierze z długą szyją</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>słoń</text>
+        <comment>największy ssak lądowy</comment>
+      </translation>
+      <translation id="1" >
+        <text>największy ssak lądowy</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mysz</text>
+        <comment>małe zwierze z długim cienkim ogonem</comment>
+      </translation>
+      <translation id="1" >
+        <text>małe zwierze z długim cienkim ogonem</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dżdżownica</text>
+        <comment>bezkręgowiec</comment>
+      </translation>
+      <translation id="1" >
+        <text>bezkręgowiec</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ważka</text>
+        <comment>owad z przezroczystymi skrzydłami</comment>
+      </translation>
+      <translation id="1" >
+        <text>owad z przezroczystymi skrzydłami</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pingwin</text>
+        <comment>ptak który nie lata</comment>
+      </translation>
+      <translation id="1" >
+        <text>ptak który nie lata</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>królik</text>
+        <comment>małe zwierze z długimi uszami</comment>
+      </translation>
+      <translation id="1" >
+        <text>małe zwierze z długimi uszami</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>chomik</text>
+        <comment>małe zwierze podobne do myszy</comment>
+      </translation>
+      <translation id="1" >
+        <text>małe zwierze podobne do myszy</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>prosię</text>
+        <comment>mała świnia</comment>
+      </translation>
+      <translation id="1" >
+        <text>mała świnia</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>wilk</text>
+        <comment>groźne zwierze z rodziny psów</comment>
+      </translation>
+      <translation id="1" >
+        <text>groźne zwierze z rodziny psów</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lew</text>
+        <comment>król zwierząt</comment>
+      </translation>
+      <translation id="1" >
+        <text>król zwierząt</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tygrys</text>
+        <comment>duże azjatyckie zwierze z rodziny kotów</comment>
+      </translation>
+      <translation id="1" >
+        <text>duże azjatyckie zwierze z rodziny kotów</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ośmiornica</text>
+        <comment>zwierze morskie z ośmioma ramionami</comment>
+      </translation>
+      <translation id="1" >
+        <text>zwierze morskie z ośmioma ramionami</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>nosorożec</text>
+        <comment>duże groźne zwierze afrykańskie z jednym rogiem</comment>
+      </translation>
+      <translation id="1" >
+        <text>duże groźne zwierze afrykańskie z jednym rogiem</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jeż</text>
+        <comment>zwierze z igłami na plecach</comment>
+      </translation>
+      <translation id="1" >
+        <text>zwierze z igłami na plecach</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>renifer</text>
+        <comment>ciągnie sanie mikołaja</comment>
+      </translation>
+      <translation id="1" >
+        <text>ciągnie sanie mikołaja</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>wiewiórka</text>
+        <comment>mały gryzoń leśny lubiący orzechy</comment>
+      </translation>
+      <translation id="1" >
+        <text>mały gryzoń leśny lubiący orzechy</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>żółw</text>
+        <comment>wolno poruszające się zwierze</comment>
+      </translation>
+      <translation id="1" >
+        <text>wolno poruszające się zwierze</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hipopotam</text>
+        <comment>duże afrykańskie zwierze wodno-lądowe</comment>
+      </translation>
+      <translation id="1" >
+        <text>duże afrykańskie zwierze wodno-lądowe</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dinozaur</text>
+        <comment>wymarły gad</comment>
+      </translation>
+      <translation id="1" >
+        <text>wymarły gad</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>indyk</text>
+        <comment>duży ptak z koralami</comment>
+      </translation>
+      <translation id="1" >
+        <text>duży ptak z koralami</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>orzeł</text>
+        <comment>drapieżny ptak</comment>
+      </translation>
+      <translation id="1" >
+        <text>drapieżny ptak</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rekin</text>
+        <comment>niebezpieczny ssak morski</comment>
+      </translation>
+      <translation id="1" >
+        <text>niebezpieczny ssak morski</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kaczka</text>
+        <comment>pływający ptak</comment>
+      </translation>
+      <translation id="1" >
+        <text>pływający ptak</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ryby</text>
+        <comment>żyją w wodzie</comment>
+      </translation>
+      <translation id="1" >
+        <text>żyją w wodzie</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>papuga</text>
+        <comment>mówiący ptak</comment>
+      </translation>
+      <translation id="1" >
+        <text>mówiący ptak</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>żaba</text>
+        <comment>małe zielone skaczące zwierze</comment>
+      </translation>
+      <translation id="1" >
+        <text>małe zielone skaczące zwierze</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ślimak</text>
+        <comment>nosi domek na plecach</comment>
+      </translation>
+      <translation id="1" >
+        <text>nosi domek na plecach</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>wielbłąd</text>
+        <comment>zwierze pustynne</comment>
+      </translation>
+      <translation id="1" >
+        <text>zwierze pustynne</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>aligator</text>
+        <comment>groźny gad rzeczny</comment>
+      </translation>
+      <translation id="1" >
+        <text>groźny gad rzeczny</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>komar</text>
+        <comment>owad który przenosi choroby</comment>
+      </translation>
+      <translation id="1" >
+        <text>owad który przenosi choroby</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>owca</text>
+        <comment>roślinożerne zwierze</comment>
+      </translation>
+      <translation id="1" >
+        <text>roślinożerne zwierze</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>skorupiak</text>
+        <comment>zwierze wodne ze skorupą</comment>
+      </translation>
+      <translation id="1" >
+        <text>zwierze wodne ze skorupą</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

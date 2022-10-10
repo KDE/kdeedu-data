@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>convert_kvtml1to2.sh</generator>
+    <title>Swoor</title>
+    <comment>Soor Begrepen</comment>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <locale>nds</locale>
+    </identifier>
+  </identifiers>
+	<entries>
+    <entry id="0">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Knövel</text>
+        <comment>En Böögsteed, de Hand un Foot hett</comment>
+      </translation>
+    </entry>
+    <entry id="1">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Katalüüs</text>
+        <comment>Hochtietdremmeln op Cheemsch</comment>
+      </translation>
+    </entry>
+    <entry id="2">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Smuck</text>
+        <comment>Tüdelkraams, den nüms bruukt, man elkeen hebben will</comment>
+      </translation>
+    </entry>
+    <entry id="3">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Füertoorn</text>
+        <comment>Wenn Een een namaakt, is dat Strandröveree</comment>
+      </translation>
+    </entry>
+    <entry id="4">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Verwiedern</text>
+        <comment>Ahn dit wasst keen Hüüs</comment>
+      </translation>
+    </entry>
+    <entry id="5">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Föderalismus</text>
+        <comment>De Delen geevt de wichtigen Saken af, man sik sülven nich op</comment>
+      </translation>
+    </entry>
+    <entry id="6">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Dogmatismus</text>
+        <comment>Wenn de Annahm de Wohrheit regeert</comment>
+      </translation>
+    </entry>
+    <entry id="7">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Dilettantismus</text>
+        <comment>De Glöven, dat en goot Plie för allens langt</comment>
+      </translation>
+    </entry>
+    <entry id="8">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Kloroform</text>
+        <comment>Hööftaktöör in vele Krimis</comment>
+      </translation>
+    </entry>
+    <entry id="9">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Etnografie</text>
+        <comment>De Navers wetenschaplich beschrieven</comment>
+      </translation>
+    </entry>
+    <entry id="10">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Kalligrafie</text>
+        <comment>Dor warrt ok de leegste Inholt noch mit moi</comment>
+      </translation>
+    </entry>
+    <entry id="11">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Ingeven</text>
+        <comment>De Benzoolstruktuur, de Swoorkraft un de Opdrift wöörn so funnen</comment>
+      </translation>
+    </entry>
+    <entry id="12">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Dullkars</text>
+        <comment>En böös veniensch Plant ut de Sippschap vun Tomaat, Steekappel un Dullkruut</comment>
+      </translation>
+    </entry>
+    <entry id="13">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Bumerang</text>
+        <comment>En böse Saak för Känguruhs un Koalaboren</comment>
+      </translation>
+    </entry>
+    <entry id="14">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Akkordeonspeler</text>
+        <comment>Een, de sien Klaveer alleen böhren kann</comment>
+      </translation>
+    </entry>
+    <entry id="15">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Nakamen</text>
+        <comment>Dor streevt allens wat leevt na</comment>
+      </translation>
+    </entry>
+    <entry id="16">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Ornitologie</text>
+        <comment>Wat för Lüüd, de mehr as bloots een Vagel hebbt</comment>
+      </translation>
+    </entry>
+    <entry id="17">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Osteopatie</text>
+        <comment>Wenn Een wat in de Knaken föhrt</comment>
+      </translation>
+    </entry>
+    <entry id="18">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Klapperslang</text>
+        <comment>Wenn de Kohjung ehr höört, is dat meist al to laat</comment>
+      </translation>
+    </entry>
+    <entry id="19">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Utstellen</text>
+        <comment>Vele Lüüd kiekt veel</comment>
+      </translation>
+    </entry>
+    <entry id="20">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Radiografie</text>
+        <comment>Gifft den Knakenbreker sien Partituur</comment>
+      </translation>
+    </entry>
+    <entry id="21">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Surrealismus</text>
+        <comment>Künst op de anner Siet vun de Wirklichkeit</comment>
+      </translation>
+    </entry>
+    <entry id="22">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Syllogismus</text>
+        <comment>Dreesatz för Denkers</comment>
+      </translation>
+    </entry>
+    <entry id="23">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Symposium</text>
+        <comment>En ool Drinkhöög, vundaag tomehrst bloots dröög</comment>
+      </translation>
+    </entry>
+    <entry id="24">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Teoloog</text>
+        <comment>Een, de dor an glöövt, wat he studeert hett</comment>
+      </translation>
+    </entry>
+    <entry id="25">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Taxidermie</text>
+        <comment>De Kunst, Deerten still stahn to laten</comment>
+      </translation>
+    </entry>
+    <entry id="26">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Trigonometrie</text>
+        <comment>De dreekantsche Welt</comment>
+      </translation>
+    </entry>
+    <entry id="27">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Dörschienen</text>
+        <comment>Wat Een bi sien Kledaasch nich hebben will</comment>
+      </translation>
+    </entry>
+    <entry id="28">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Wohrhaftigkeit</text>
+        <comment>Tüdeln warrt dor swoor mit</comment>
+      </translation>
+    </entry>
+    <entry id="29">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Troposfeer</text>
+        <comment>Dor steekt de Wulken binnen</comment>
+      </translation>
+    </entry>
+    <entry id="30">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Oprechtheit</text>
+        <comment>Fehlt Een dit, mag em draad keeneen mehr</comment>
+      </translation>
+    </entry>
+    <entry id="31">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Pulsters</text>
+        <comment>Moi för Rüch un Achtersteven</comment>
+      </translation>
+    </entry>
+    <entry id="32">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Arbeitsücht</text>
+        <comment>Wenn Een meent, he hett to veel Freetiet</comment>
+      </translation>
+    </entry>
+    <entry id="33">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Torüchtritt</text>
+        <comment>Wat Politikers roorst to de rechte Tiet torecht kriegt</comment>
+      </translation>
+    </entry>
+    <entry id="34">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Zoologie</text>
+        <comment>Allens, wat dat över Deerten to weten gifft</comment>
+      </translation>
+    </entry>
+    <entry id="35">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Schuuvkoor</text>
+        <comment>Gifft dat op elk Buusteed</comment>
+      </translation>
+    </entry>
+    <entry id="36">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Frömmenhaat</text>
+        <comment>Utlaat, wenn Een to ossig un bang vör de Folgen is</comment>
+      </translation>
+    </entry>
+    <entry id="37">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Janmaat</text>
+        <comment>Een Hand för't Schipp, de anner för't Leven</comment>
+      </translation>
+    </entry>
+    <entry id="38">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Överraschen</text>
+        <comment>Dat Leven is dor vull vun</comment>
+      </translation>
+    </entry>
+    <entry id="39">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Xylofoon</text>
+        <comment>En Klangreeg Holtstääv</comment>
+      </translation>
+    </entry>
+    <entry id="40">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Pseudonüm</text>
+        <comment>Wenn de egen Naam nich döcht</comment>
+      </translation>
+    </entry>
+    <entry id="41">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Wollstand</text>
+        <comment>Wat in de Melk to krömen hebben</comment>
+      </translation>
+    </entry>
+    <entry id="42">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Psychater</text>
+        <comment>En Dokter för de schaadhaftige Seel</comment>
+      </translation>
+    </entry>
+    <entry id="43">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Hööftfiguur</text>
+        <comment>Ahn lett sik keen Roman schrieven</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>
+

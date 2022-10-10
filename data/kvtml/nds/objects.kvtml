@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Saken</title>
+    <comment>Saken in'n Alldaag</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>nds</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Kiekschapp</text>
+        <comment>sik bewegen Biller</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Stohl</text>
+        <comment>dor sittst Du op</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Köhlschapp</text>
+        <comment>höllt Spiesen köhl</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Iesschapp</text>
+        <comment>höllt dat Water fast</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Heerd</text>
+        <comment>steiht in de Köök</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Füersteed</text>
+        <comment>maakt de Stuuv warm</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Disch</text>
+        <comment>höllt Saken vun'n Grund weg</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Schapp</text>
+        <comment>bargt Dien Saken</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Spegel</text>
+        <comment>wiest de Saken dor vör</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Klock</text>
+        <comment>wiest de Tiet</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Klederschapp</text>
+        <comment>bargt all Kledaasch</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Bökerboord</text>
+        <comment>dor laat sik Böker op setten</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Mangelmöhl</text>
+        <comment>maakt allens to en Deeg</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Sofa</text>
+        <comment>dor sitt un liggt Een op</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Spöölsteen</text>
+        <comment>dor kann Een Hannen un Gesicht an reenmaken</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Bruus</text>
+        <comment>sik in't Stahn reenmaken</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Baadbalje</text>
+        <comment>sik in't Liggen reenmaken</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Waterkoker</text>
+        <comment>maakt Water hitt</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Telefoon</text>
+        <comment>snacken de hele Welt rund </comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Warmsmaker</text>
+        <comment>maakt de Ruumtemperatuur höger</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Radio</text>
+        <comment>speelt Musik</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Reekner</text>
+        <comment>dor sittst Du vöran</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Huusdeerten</text>
+        <comment>leevt un sünd leeftallig</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Biller</text>
+        <comment>hebbt faken Rahmens</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Tähnböst</text>
+        <comment>maakt de Tähn reen</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Teppich</text>
+        <comment>week Grundlaag</comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Speelwark</text>
+        <comment>Saken för't Spelen</comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Tehrraat</text>
+        <comment>Saken ahn Funkschoon</comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Instrumenten</text>
+        <comment>Saken, op de sik Musik maken lett</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

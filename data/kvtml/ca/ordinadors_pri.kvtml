@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>converter</generator>
+    <title>Ordinadors</title>
+    <comment>Aparells que trobareu en una aula d'informàtica</comment>
+    <date>2018-12-17</date>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Original</name>
+      <locale>ca</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>pantalla</text>
+        <comment>On veiem la feina que fem, o els jocs que estem usant</comment>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>altaveus</text>
+        <comment>Per escoltar la música i els sons</comment>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>impressora</text>
+        <comment>Et permet traspassar la teva feina al paper</comment>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>ratolí</text>
+        <comment>T'ajudarà a seleccionar fitxers, arrossegar-los i fer clic sobre seu</comment>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>teclat</text>
+        <comment>Et permet escriure caràcters (lletres, números, etc) que vulguis</comment>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>sense fils</text>
+        <comment>Qualsevol aparell que es connecta amb un altre, sense cables</comment>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>módem</text>
+        <comment>Aparell que connecta el teu ordinador amb Internet</comment>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>xarxa</text>
+        <comment>Conjunt d'ordinadors connectats entre sí</comment>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>disquet</text>
+        <comment>Antic sistema per a desar informació fora de l'ordinador</comment>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>escànner</text>
+        <comment>T'ajuda a passar una imatge des del paper, a l'ordinador</comment>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>auriculars</text>
+        <comment>Et permet escoltar música sense molestar a ningú</comment>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>càmera web</text>
+        <comment>Et podran veure i sentir els teus amics, per Internet</comment>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>micròfon</text>
+        <comment>Grava la teva veu dintre de l'ordinador</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

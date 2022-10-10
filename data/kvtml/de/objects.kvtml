@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Objekte</title>
+    <comment>Objekte des Alltags</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>de</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Fernseher</text>
+        <comment>elektrisches Gerät mit bewegten Bildern</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Stuhl</text>
+        <comment>zum darauf sitzen</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Kühlschrank</text>
+        <comment>hält Lebensmittel kühl</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Tiefkühlschrank</text>
+        <comment>hält Eis vom Schmelzen ab</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Herd</text>
+        <comment>macht Essen warm</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Kamin</text>
+        <comment>hält warm an kalten Tagen</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Tisch</text>
+        <comment>hält Dinge vom Boden fern</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Schrank</text>
+        <comment>enthält persönliche Dinge</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Spiegel</text>
+        <comment>reflektiert die Dinge vor ihm</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Uhr</text>
+        <comment>zeigt die Zeit an</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Kleiderschrank</text>
+        <comment>verwahrt, was wir anziehen</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Bücherregal</text>
+        <comment>man kann Lesestoff daraufstellen</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Mixer</text>
+        <comment>mischt alles zu einem Teig</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Sofa</text>
+        <comment>eine komfortable Sitzgelegenheit</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Waschbecken</text>
+        <comment>zum Hände und Gesicht waschen</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Dusche</text>
+        <comment>zur Körperpflege im Stehen</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Badewanne</text>
+        <comment>zur Körperpflege im Liegen</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Wasserkocher</text>
+        <comment>macht Wasser heiß</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Telefon</text>
+        <comment>wird zur Kommunikation benutzt</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Heizung</text>
+        <comment>erhöht die Raumtemperatur</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Radio</text>
+        <comment>spielt Musik</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Computer</text>
+        <comment>interaktives elektronisches Gerät</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Haustiere</text>
+        <comment>lebendig und oft sehr kuschlig</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Bilder</text>
+        <comment>oft gerahmt</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Zahnbürste</text>
+        <comment>zum Zähne putzen</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Teppich</text>
+        <comment>weicher Bodenbelag</comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Spielzeug</text>
+        <comment>Dinge zum Spielen</comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Nippes</text>
+        <comment>Dinge ohne Funktion</comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Instrumente</text>
+        <comment>Dinge zum Musik machen</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

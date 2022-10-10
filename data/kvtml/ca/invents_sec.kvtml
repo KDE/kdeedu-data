@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>converter</generator>
+    <title>Invents</title>
+    <comment>Grans invents de la humanitat</comment>
+    <date>2018-12-17</date>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Original</name>
+      <locale>ca</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>pou</text>
+        <comment>Forat que es fa a terra per a cercar aigua</comment>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>antibiòtic</text>
+        <comment>Medicament que elimina les infeccions bacterianes</comment>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>roda</text>
+        <comment>Indispensable en els mitjans de transport terrestres</comment>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>bateria</text>
+        <comment>Emmagatzema energia elèctrica</comment>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>aixeta</text>
+        <comment>Vàlvula que fem servir a casa nostra perquè surti l'aigua</comment>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>bumerang</text>
+        <comment>Si el llences molt lluny amb força, retornarà</comment>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>rellotge</text>
+        <comment>Medeix el temps amb precisió</comment>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>ordinador</text>
+        <comment>Segurament en tens un al teu davant, o no</comment>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>calculadora</text>
+        <comment>Aparell que ens ajuda amb les operacions matemàtiques</comment>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>electricitat</text>
+        <comment>Energia que obtenim mitjançant la transmissió d'electrons</comment>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>ascensor</text>
+        <comment>Ens facilita el desplaçament vertical dintre d'un edifici</comment>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>bombeta</text>
+        <comment>Posa llum a la foscor</comment>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>forn</text>
+        <comment>Aparell per escalfar aliments o materials ceràmics</comment>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>microscopi</text>
+        <comment>Instrument òptic per observar coses molt petites</comment>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>internet</text>
+        <comment>Xarxa informatitzada de comunicació mundial</comment>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>impremta</text>
+        <comment>Serveix per imprimir llibres</comment>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>grua</text>
+        <comment>Màquina emprada per aixecar objectes de gran pes i volum</comment>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>fotografia</text>
+        <comment>Permet capturar una imatge estàtica, amb una càmera</comment>
+      </translation>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>plàstic</text>
+        <comment>Material obtingut a partir de polímers del petroli</comment>
+      </translation>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>fotocopiadora</text>
+        <comment>Ens permet fer còpies de textos i imatges</comment>
+      </translation>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>ràdio</text>
+        <comment>Reprodueix el so que rep de les ones electromagnètiques</comment>
+      </translation>
+    </entry>
+    <entry id="21">
+      <translation id="0">
+        <text>telèfon</text>
+        <comment>Aparell per parlar amb algú que està molt lluny</comment>
+      </translation>
+    </entry>
+    <entry id="22">
+      <translation id="0">
+        <text>televisor</text>
+        <comment>Aparell que mostra imatges amb so, en moviment</comment>
+      </translation>
+    </entry>
+    <entry id="23">
+      <translation id="0">
+        <text>rentadora</text>
+        <comment>La teva roba està ben neta gràcies a aquest aparell</comment>
+      </translation>
+    </entry>
+    <entry id="24">
+      <translation id="0">
+        <text>càmera</text>
+        <comment>Aparell que fa fotografies o enregistra vídeo</comment>
+      </translation>
+    </entry>
+    <entry id="25">
+      <translation id="0">
+        <text>rentavaixella</text>
+        <comment>Ens estalvia la feina de rentar els gots i els plats</comment>
+      </translation>
+    </entry>
+    <entry id="26">
+      <translation id="0">
+        <text>teler</text>
+        <comment>Màquina que fabrica peces de roba</comment>
+      </translation>
+    </entry>
+    <entry id="27">
+      <translation id="0">
+        <text>frigorífic</text>
+        <comment>Conserva frescos els aliments</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Ενδυμασία</title>
+    <comment>Πράγματα που οι άνθρωποι φορούν</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>el</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>σπορτέξ</text>
+        <comment>Αθλητικά παπούτσια</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μπότες</text>
+        <comment>Παπούτσια εργασίας</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>παντελόνι</text>
+        <comment>Καλύπτει τα πόδια</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>σορτς</text>
+        <comment>Κοντό κάλυμμα ποδιών</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>φούστα</text>
+        <comment>Το κάτω μισό ενός φορέματος</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>φόρεμα</text>
+        <comment>Ένα ολόσωμο κάλυμμα</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ζακέτα</text>
+        <comment>Ένα κάλυμμα σώματος ψυχρού καιρού</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>σακάκι</text>
+        <comment>Ελαφρύ κάλυμμα για το πάνω μέρος του σώματος</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>παλτό</text>
+        <comment>Χοντρό κάλυμμα για το πάνω μέρος του σώματος</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>καπέλο</text>
+        <comment>Ένα κάλυμμα για το κεφάλι</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>σκούφος</text>
+        <comment>Κάλυμμα για το κεφάλι όταν κάνει πολύ κρύο</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ωτοασπίδες</text>
+        <comment>Προστατεύουν τα αυτιά</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>γυαλιά</text>
+        <comment>Προστατεύουν τα μάτια</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>κάλτσες</text>
+        <comment>Προστατεύουν τα πόδια</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>σανδάλια</text>
+        <comment>Υποδήματα για την παραλία</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>γάντια</text>
+        <comment>Ζεσταίνουν τα χέρια</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ζώνη</text>
+        <comment>Για να μην πέφτει το παντελόνι</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

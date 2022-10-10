@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Arbeten</title>
+    <comment>Sĺnt folk jobbar som</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>en</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>true</inquery>
+      <translation id="0" >
+        <text>doktor</text>
+        <comment>hjälper och botar sjuka människor</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>true</inquery>
+      <translation id="0" >
+        <text>brandman</text>
+        <comment>släcker bränder</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>true</inquery>
+      <translation id="0" >
+        <text>fiskare</text>
+        <comment>fĺngar djur som lever i havet</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>true</inquery>
+      <translation id="0" >
+        <text>soldat</text>
+        <comment>person som strider och riskerar dö i krig</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>astronaut</text>
+        <comment>Person som reser i rymden</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>elektriker</text>
+        <comment>En person som hanterar elektriska system</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rörmokare</text>
+        <comment>Nĺgon som reparerar vattensystem</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>psykiatriker</text>
+        <comment>Hjärndoktor</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>polis</text>
+        <comment>Person som är anställd för att upprätthĺlla lag och ordning</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>författare</text>
+        <comment>Nĺgon som skriver längre litterära texter i sitt jobb</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>journalist</text>
+        <comment>En person som letar och skriver ned nyheter</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>programvaruutvecklare</text>
+        <comment>En person som skapar mjukvara för datorer</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+	<text>skĺdespelare/skĺdespelerska</text>
+        <comment>lĺtsas vara nĺgon annan pĺ en scen framför publik, eller pĺ film</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>musiker</text>
+        <comment>Spelar musik</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>komiker</text>
+        <comment>En person som genom tal och kroppssprĺk försöker locka människor till skratt</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kemist</text>
+        <comment>Vetenskapsman som specialiserat sig inom kemi</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lärare</text>
+        <comment>Undervisar elever och studenter</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mekaniker</text>
+        <comment>Reparerar maskineri</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bonde</text>
+        <comment>Odlar grödor eller föder upp djur</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>konstnär</text>
+        <comment>Utövar konst</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>försäljare</text>
+        <comment>Försöker sälja saker eller tjänster till privatpersoner och företag</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>skräddare</text>
+        <comment>Tillverkar och justerar kläder</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>smed</text>
+        <comment>Bearbetar järn och stĺl</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tandläkare</text>
+        <comment>specialist pĺ oralmedicin</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>designer</text>
+        <comment>Utvecklar och kommunicerar idéer</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vetenskapsman</text>
+        <comment>Expert inom ett vetenskapligt omrĺde</comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>uppfinnare</text>
+        <comment>Den som först kommer pĺ en sak man kan tillverka</comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ingenjör</text>
+        <comment>Använder vetenskaplig kunskap för att lösa praktiska problem</comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>revisor</text>
+        <comment>Tar hand om redovisningen av inkomster och utgifter hos företag</comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bagare</text>
+        <comment>Bakar bröd</comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>byggnadsarbetare</text>
+        <comment>Deltar i bygganded av byggnader</comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>snickare</text>
+        <comment>Tillverkar saker i trä</comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kock</text>
+        <comment>Förbereder och lagar mat</comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>frisör</text>
+        <comment>Klipper och stylar människors hĺr</comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>advokat</text>
+        <comment>Försvarar och ĺtalar människor genom rättsvästendet</comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>optiker</text>
+        <comment>Undersöker människors ögon</comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>reporter</text>
+        <comment>Hittar och rapporterar nyheter</comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sekreterare</text>
+        <comment>Arrangerar och bokar möten, organiserar, renskriver och svarar i telefonen ĺt en annan person.</comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>arkitekt</text>
+        <comment>Skapar ritningar för nya byggnadskonstruktioner</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

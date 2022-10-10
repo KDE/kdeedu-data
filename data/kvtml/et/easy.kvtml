@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>easy.kvtml</title>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>et</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>uneaeg</text>
+        <comment>aeg, millal inimesed magavad</comment>
+      </translation>
+      <translation id="1" >
+        <text>aeg, millal inimesed magavad</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mööbel</text>
+        <comment>asjad, mis on toas</comment>
+      </translation>
+      <translation id="1" >
+        <text>asjad, mis on toas</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>aed</text>
+        <comment>peenarde ja põõsastega maa-ala</comment>
+      </translation>
+      <translation id="1" >
+        <text>peenarde ja põõsastega maa-ala</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>õpilane</text>
+        <comment>inimene, kes istub koolipingis</comment>
+      </translation>
+      <translation id="1" >
+        <text>inimene, kes istub koolipingis</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>juurviljad</text>
+        <comment>taimed, mille alumine osa on söödav</comment>
+      </translation>
+      <translation id="1" >
+        <text>taimed, mille alumine osa on söödav</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>õun</text>
+        <comment>ümmargune kõva puuvili</comment>
+      </translation>
+      <translation id="1" >
+        <text>ümmargune kõva puuvili</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>taldrik</text>
+        <comment>ümmargune ja madal lauanõu</comment>
+      </translation>
+      <translation id="1" >
+        <text>ümmargune ja madal lauanõu</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>magus</text>
+        <comment>maitseb, nagu oleks suhkrut sisse pandud</comment>
+      </translation>
+      <translation id="1" >
+        <text>maitseb, nagu oleks suhkrut sisse pandud</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>köök</text>
+        <comment>ruum, kus tehakse süüa</comment>
+      </translation>
+      <translation id="1" >
+        <text>ruum, kus tehakse süüa</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>šokolaad</text>
+        <comment>maiusasi, mis tehakse kakaost</comment>
+      </translation>
+      <translation id="1" >
+        <text>maiusasi, mis tehakse kakaost</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>arvuti</text>
+        <comment>elektrooniline riistapuu</comment>
+      </translation>
+      <translation id="1" >
+        <text>elektrooniline riistapuu</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>porgand</text>
+        <comment>punane asi, mida armastavad jänesed</comment>
+      </translation>
+      <translation id="1" >
+        <text>punane asi, mida armastavad jänesed</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vihje</text>
+        <comment>kui midagi ei öelda otse</comment>
+      </translation>
+      <translation id="1" >
+        <text>kui midagi ei öelda otse</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>banaan</text>
+        <comment>kollane ja kõver puuvili</comment>
+      </translation>
+      <translation id="1" >
+        <text>kollane ja kõver puuvili</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>informatsioon</text>
+        <comment>teadmine</comment>
+      </translation>
+      <translation id="1" >
+        <text>teadmine</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>raha</text>
+        <comment>mündid ja pangatähed</comment>
+      </translation>
+      <translation id="1" >
+        <text>mündid ja pangatähed</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>seiklus</text>
+        <comment>põnev sündmus</comment>
+      </translation>
+      <translation id="1" >
+        <text>põnev sündmus</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>autojuht</text>
+        <comment>inimene, kes keerab rooli</comment>
+      </translation>
+      <translation id="1" >
+        <text>inimene, kes keerab rooli</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>politseinik</text>
+        <comment>korrakaitsja</comment>
+      </translation>
+      <translation id="1" >
+        <text>korrakaitsja</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ananass</text>
+        <comment>puuvili, mis näeb välja nagu granaat</comment>
+      </translation>
+      <translation id="1" >
+        <text>puuvili, mis näeb välja nagu granaat</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>postmark</text>
+        <comment>kleebitakse ümbrikule</comment>
+      </translation>
+      <translation id="1" >
+        <text>kleebitakse ümbrikule</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lõuna</text>
+        <comment>keskpäevane söögikord</comment>
+      </translation>
+      <translation id="1" >
+        <text>keskpäevane söögikord</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>limusiin</text>
+        <comment>auto, millega sõidavad rikkad ja kuulsad</comment>
+      </translation>
+      <translation id="1" >
+        <text>auto, millega sõidavad rikkad ja kuulsad</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>eskalaator</text>
+        <comment>liikuv trepp</comment>
+      </translation>
+      <translation id="1" >
+        <text>liikuv trepp</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hommikusöök</text>
+        <comment>päeva esimene toidukord</comment>
+      </translation>
+      <translation id="1" >
+        <text>päeva esimene toidukord</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lilleõis</text>
+        <comment>ilusa taime osa, kus arenevad seemned</comment>
+      </translation>
+      <translation id="1" >
+        <text>ilusa taime osa, kus arenevad seemned</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>haridus</text>
+        <comment>koolis antavad teadmised</comment>
+      </translation>
+      <translation id="1" >
+        <text>koolis antavad teadmised</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>laud</text>
+        <comment>lame plaat, millel on vähemalt üks jalg</comment>
+      </translation>
+      <translation id="1" >
+        <text>lame plaat, millel on vähemalt üks jalg</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>klass</text>
+        <comment>koht, kus õpilased õpivad</comment>
+      </translation>
+      <translation id="1" >
+        <text>koht, kus õpilased õpivad</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>televiisor</text>
+        <comment>aparaat, mis näitab pilti</comment>
+      </translation>
+      <translation id="1" >
+        <text>aparaat, mis näitab pilti</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>eksitus</text>
+        <comment>vale tegu või arvamus</comment>
+      </translation>
+      <translation id="1" >
+        <text>vale tegu või arvamus</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>eile</text>
+        <comment>päev enne tänast</comment>
+      </translation>
+      <translation id="1" >
+        <text>päev enne tänast</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rahvamass</text>
+        <comment>palju inimesi üheskoos</comment>
+      </translation>
+      <translation id="1" >
+        <text>palju inimesi üheskoos</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lapsed</text>
+        <comment>väikesed inimesed</comment>
+      </translation>
+      <translation id="1" >
+        <text>väikesed inimesed</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>üllatus</text>
+        <comment>midagi ootamatut</comment>
+      </translation>
+      <translation id="1" >
+        <text>midagi ootamatut</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jakk</text>
+        <comment>lühike ülerõivas</comment>
+      </translation>
+      <translation id="1" >
+        <text>lühike ülerõivas</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>juust</text>
+        <comment>piimast tehtud tahke toiduaine</comment>
+      </translation>
+      <translation id="1" >
+        <text>piimast tehtud tahke toiduaine</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tibu</text>
+        <comment>väike lind (näiteks kana laps)</comment>
+      </translation>
+      <translation id="1" >
+        <text>väike lind (näiteks kana laps)</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>õhtusöök</text>
+        <comment>toidukord, mida süüakse siis, kui kõik on juba koju jõudnud</comment>
+      </translation>
+      <translation id="1" >
+        <text>toidukord, mida süüakse siis, kui kõik on juba koju jõudnud</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mägi</text>
+        <comment>maast kõrgemale kerkiv suur pinnavorm</comment>
+      </translation>
+      <translation id="1" >
+        <text>maast kõrgemale kerkiv suur pinnavorm</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mets</text>
+        <comment>palju puid üheskoos</comment>
+      </translation>
+      <translation id="1" >
+        <text>palju puid üheskoos</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kartul</text>
+        <comment>taim, mis kasvatab all söödavaid mugulaid</comment>
+      </translation>
+      <translation id="1" >
+        <text>taim, mis kasvatab all söödavaid mugulaid</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vesi</text>
+        <comment>voolab kraanist</comment>
+      </translation>
+      <translation id="1" >
+        <text>voolab kraanist</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jõgi</text>
+        <comment>koht, kus kahe kalda vahel voolab palju vett</comment>
+      </translation>
+      <translation id="1" >
+        <text>koht, kus kahe kalda vahel voolab palju vett</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

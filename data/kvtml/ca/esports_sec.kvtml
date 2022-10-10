@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>converter</generator>
+    <title>Esports</title>
+    <comment>Mantenir el cos i la ment en forma és molt important</comment>
+    <date>2018-12-17</date>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Original</name>
+      <locale>ca</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>natació</text>
+        <comment>Pràctica de diferents estils de desplaçament aquàtic</comment>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>rafting</text>
+        <comment>Baixada per rius d'aigües braves, amb un bot pneumàtic</comment>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>futbol</text>
+        <comment>Dos equips d'onze jugadors, darrera d'una pilota</comment>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>esquaix</text>
+        <comment>Es juga amb raqueta, i la pista és una habitació de quatre parets</comment>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>escalada</text>
+        <comment>Ascens per les roques</comment>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>bàsquet</text>
+        <comment>S'ha d'introduir la pilota dins d'una cistella</comment>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>waterpolo</text>
+        <comment>Similar a l'handbol, però en el medi aquàtic</comment>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>triatló</text>
+        <comment>Cursa que consta de tres segments: natació, ciclisme i a peu</comment>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>ciclisme</text>
+        <comment>Curses de bicicleta</comment>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>atletisme</text>
+        <comment>Esport que inclou la pràctica de diferents proves olímpiques</comment>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>esgrima</text>
+        <comment>Es practica amb l'espasa</comment>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>windsurf</text>
+        <comment>Lliscar dalt de les onades, amb una planxa i una vela</comment>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>aeròbic</text>
+        <comment>Gimnàstica realitzada amb música i coreografia</comment>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>handbol</text>
+        <comment>Cal fer gol a la porteria, però amb la mà</comment>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>hoquei</text>
+        <comment>Has de fer gol portant la pilota amb un estic</comment>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>golf</text>
+        <comment>Cal ficar la boleta dintre d'un forat que hi ha a la gespa</comment>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>taekwondo</text>
+        <comment>Art marcial d'origen coreà</comment>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>tennis</text>
+        <comment>Cal jugar amb raqueta, i al mig del camp hi ha una xarxa</comment>
+      </translation>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>sumo</text>
+        <comment>Dos japonesos grassonets que lluiten vestits amb un mawashi</comment>
+      </translation>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>voleibol</text>
+        <comment>Envia la pilota a l'altra banda de la xarxa, amb les mans</comment>
+      </translation>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>halterofília</text>
+        <comment>Gent molt forçuda aixecant un gran pes per sobre el cap</comment>
+      </translation>
+    </entry>
+    <entry id="21">
+      <translation id="0">
+        <text>karate</text>
+        <comment>Art marcial d'origen japonès</comment>
+      </translation>
+    </entry>
+    <entry id="22">
+      <translation id="0">
+        <text>bobsleigh</text>
+        <comment>D'origen suís: cal tripular un trineu per un tobogan congelat</comment>
+      </translation>
+    </entry>
+    <entry id="23">
+      <translation id="0">
+        <text>marató</text>
+        <comment>Cursa en què els atletes recorren 42,195 quilòmetres</comment>
+      </translation>
+    </entry>
+    <entry id="24">
+      <translation id="0">
+        <text>patinatge</text>
+        <comment>Acrobàcies sobre patins</comment>
+      </translation>
+    </entry>
+    <entry id="25">
+      <translation id="0">
+        <text>esquí</text>
+        <comment>Descens per la neu, sense trineus</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

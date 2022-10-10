@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Винаходи</title>
+    <comment>Великі винаходи людства</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>uk</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>літак</text>
+        <comment>Машина для польоту з зафіксованими крилами</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>антибіотики</text>
+        <comment>Ліки, які вбивають бактерій</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>автомобіль</text>
+        <comment>Засіб пересування на колесах з мотором</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>батарейки</text>
+        <comment>Зберігачі електричної енергії</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>велосипед</text>
+        <comment>Ефективний засіб пересування людини з двома колесами</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>бумеранг</text>
+        <comment>Кинутий, повертається до господаря</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>годинник</text>
+        <comment>Точно показує час</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>комп’ютери</text>
+        <comment>Поряд з одним з таких пристроїв ви зараз знаходитеся</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>динаміт</text>
+        <comment>Дуже потужна вибухівка</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>електрика</text>
+        <comment>Потік електронів</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ліфт</text>
+        <comment>Дозволяє швидке вертикальне пересування високими будинками</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>пошта</text>
+        <comment>Швидкий метод обміну інформацією</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>вертоліт</text>
+        <comment>Лопаті, що обертаються, забезпечують політ цього засобу пересування</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>пилосос</text>
+        <comment>Пристрій, що всмоктує пил з повітря</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>інтернет</text>
+        <comment>Всесвітня мережа, що з’єднує комп’ютери</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>лазер</text>
+        <comment>Інтенсивний промінь світла</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>скріпка</text>
+        <comment>Тимчасово з’єднує аркуші паперу</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>фотографія</text>
+        <comment>Знімки моментів життя</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>пластмаси</text>
+        <comment>Полімери — продукти переробки бензину з багатьма корисними властивостями</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>радар</text>
+        <comment>Радіохвилі, що забезпечують просторову орієнтацію об’єктів</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>радіо</text>
+        <comment>Звук, що надсилається за допомогою електромагнітних хвиль</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>паровоз</text>
+        <comment>Локомотив, що рухається силою пари води</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>телефон</text>
+        <comment>Пристрій для спілкування на відстані</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>телевізор</text>
+        <comment>Електричний пристрій, що відображає рухомі зображення</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>тетріс</text>
+        <comment>Гра, відома з часів консолі Gameboy</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>транзистор</text>
+        <comment>Основа сучасної електроніки</comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>липучка</text>
+        <comment>Замінник ґудзиків та зав’язок</comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>колесо</text>
+        <comment>Круглий об’єкт, що дозволяє рух з низьким тертям</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

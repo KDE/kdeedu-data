@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Medium</title>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <name>Original</name>
+      <locale>ro</locale>
+      <personalpronouns>
+        <singular>
+          <firstperson></firstperson>
+          <secondperson></secondperson>
+          <thirdpersonmale></thirdpersonmale>
+          <thirdpersonfemale></thirdpersonfemale>
+          <thirdpersonneutralcommon></thirdpersonneutralcommon>
+        </singular>
+        <dual>
+          <firstperson></firstperson>
+          <secondperson></secondperson>
+          <thirdpersonmale></thirdpersonmale>
+          <thirdpersonfemale></thirdpersonfemale>
+          <thirdpersonneutralcommon></thirdpersonneutralcommon>
+        </dual>
+        <plural>
+          <firstperson></firstperson>
+          <secondperson></secondperson>
+          <thirdpersonmale></thirdpersonmale>
+          <thirdpersonfemale></thirdpersonfemale>
+          <thirdpersonneutralcommon></thirdpersonneutralcommon>
+        </plural>
+      </personalpronouns>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <translation id="0" >
+        <text>sofisticat</text>
+        <comment>Complicat</comment>
+      </translation>
+      <translation id="1" >
+        <text>Complicat</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <translation id="0" >
+        <text>cataclism</text>
+        <comment>Schimbare brusca in conditiile naturii si vietii pe pamint</comment>
+      </translation>
+      <translation id="1" >
+        <text>Schimbare brusca in conditiile naturii si vietii pe pamint</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <translation id="0" >
+        <text>efect</text>
+        <comment>Consecinta</comment>
+      </translation>
+      <translation id="1" >
+        <text>Consecinta</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <translation id="0" >
+        <text>ornitorinc</text>
+        <comment>Animal mamifer semiacvatic din Australia</comment>
+      </translation>
+      <translation id="1" >
+        <text>Animal mamifer semiacvatic din Australia</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <translation id="0" >
+        <text>repertoar</text>
+        <comment>Registru</comment>
+      </translation>
+      <translation id="1" >
+        <text>Registru</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <translation id="0" >
+        <text>tipografie</text>
+        <comment>Imprimerie</comment>
+      </translation>
+      <translation id="1" >
+        <text>Imprimerie</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <translation id="0" >
+        <text>aspirator</text>
+        <comment>Aparat care face curatenie</comment>
+      </translation>
+      <translation id="1" >
+        <text>Aparat care face curatenie</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <translation id="0" >
+        <text>lingvistica</text>
+        <comment>Stiinta care studiaza limba</comment>
+      </translation>
+      <translation id="1" >
+        <text>Stiinta care studiaza limba</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <translation id="0" >
+        <text>cascadorie</text>
+        <comment>Meserie primejdioasa</comment>
+      </translation>
+      <translation id="1" >
+        <text>Meserie primejdioasa</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <translation id="0" >
+        <text>componenta</text>
+        <comment>Care intra ca parte intr-un intreg</comment>
+      </translation>
+      <translation id="1" >
+        <text>Care intra ca parte intr-un intreg</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <translation id="0" >
+        <text>caligrafie</text>
+        <comment>Arta si deprinderea de a scrie frumos</comment>
+      </translation>
+      <translation id="1" >
+        <text>Arta si deprinderea de a scrie frumos</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <translation id="0" >
+        <text>asfalt</text>
+        <comment>Imbracaminte rutiera</comment>
+      </translation>
+      <translation id="1" >
+        <text>Imbracaminte rutiera</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <translation id="0" >
+        <text>caracterizare</text>
+        <comment>Individualizare</comment>
+      </translation>
+      <translation id="1" >
+        <text>Individualizare</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <translation id="0" >
+        <text>radiografie</text>
+        <comment>Fotografierea interiorului corpului omenesc</comment>
+      </translation>
+      <translation id="1" >
+        <text>Fotografierea interiorului corpului omenesc</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <translation id="0" >
+        <text>simpozion</text>
+        <comment>Discutie asupra unei teme stiintifice sau literare</comment>
+      </translation>
+      <translation id="1" >
+        <text>Discutie asupra unei teme stiintifice sau literare</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <translation id="0" >
+        <text>acordeon</text>
+        <comment>Instrument muzical cu burduf</comment>
+      </translation>
+      <translation id="1" >
+        <text>Instrument muzical cu burduf</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <translation id="0" >
+        <text>autostrada</text>
+        <comment>Sosea moderna</comment>
+      </translation>
+      <translation id="1" >
+        <text>Sosea moderna</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <translation id="0" >
+        <text>antonim</text>
+        <comment>Cuvant care, considerat în raport cu altul, are sens contrar</comment>
+      </translation>
+      <translation id="1" >
+        <text>Cuvant care, considerat în raport cu altul, are sens contrar</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <translation id="0" >
+        <text>troleibuz</text>
+        <comment>Vehicul de transport in comun, cu tractiune electrica</comment>
+      </translation>
+      <translation id="1" >
+        <text>Vehicul de transport in comun, cu tractiune electrica</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <translation id="0" >
+        <text>dezvoltare</text>
+        <comment>Crestere</comment>
+      </translation>
+      <translation id="1" >
+        <text>Crestere</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <translation id="0" >
+        <text>sandrama</text>
+        <comment>Constructie primitiva de scanduri</comment>
+      </translation>
+      <translation id="1" >
+        <text>Constructie primitiva de scanduri</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <translation id="0" >
+        <text>armator</text>
+        <comment>Proprietar de nava</comment>
+      </translation>
+      <translation id="1" >
+        <text>Proprietar de nava</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <translation id="0" >
+        <text>protagonist</text>
+        <comment>Persoana care joaca rolul principal</comment>
+      </translation>
+      <translation id="1" >
+        <text>Persoana care joaca rolul principal</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <translation id="0" >
+        <text>sarpe</text>
+        <comment>Reptila fara picioare</comment>
+      </translation>
+      <translation id="1" >
+        <text>Reptila fara picioare</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <translation id="0" >
+        <text>dogma</text>
+        <comment>Principiu de baza al unei filozofii sau religii</comment>
+      </translation>
+      <translation id="1" >
+        <text>Principiu de baza al unei filozofii sau religii</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <translation id="0" >
+        <text>cloroform</text>
+	<comment>Compus organic intrebuintat in medicina ca narcotic, anestezic</comment>
+      </translation>
+      <translation id="1" >
+        <text>Compus organic intrebuintat in medicina ca narcotic, anestezic</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <translation id="0" >
+        <text>contrafacut</text>
+        <comment>Reprodus</comment>
+      </translation>
+      <translation id="1" >
+        <text>Reprodus</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <translation id="0" >
+        <text>fanfara</text>
+        <comment>Ansamblu muzical militar</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ansamblu muzical militar</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <translation id="0" >
+        <text>faraon</text>
+        <comment>Titlu pe care il purtau vechii regi</comment>
+      </translation>
+      <translation id="1" >
+        <text>Titlu pe care il purtau vechii regi</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <translation id="0" >
+        <text>frauda</text>
+        <comment>Inselaciune</comment>
+      </translation>
+      <translation id="1" >
+        <text>Inselaciune</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <translation id="0" >
+        <text>gastronomie</text>
+        <comment>Arta de a prepara mancaruri</comment>
+      </translation>
+      <translation id="1" >
+        <text>Arta de a prepara mancaruri</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <translation id="0" >
+        <text>fundatie</text>
+        <comment>Temelie</comment>
+      </translation>
+      <translation id="1" >
+        <text>Temelie</text>*
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <translation id="0" >
+        <text>spanzuratoare</text>
+        <comment>Instrument de executie alcătuit</comment>
+      </translation>
+      <translation id="1" >
+        <text>Instrument de executie alcătuit</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <translation id="0" >
+        <text>cutremur</text>
+	<comment>Miscare puternica a scoartei pamantului</comment>
+      </translation>
+      <translation id="1" >
+        <text>Miscare puternica a scoartei pamantului</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <translation id="0" >
+        <text>camuflaj</text>
+        <comment>Ansamblu de procedee si de metode pentru a ascunde</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ansamblu de procedee si de metode pentru a ascunde</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+  <wordtypes>
+    <container>
+      <name>Verb</name>
+      <specialwordtype>verb</specialwordtype>
+      <container>
+        <name>Regular</name>
+        <specialwordtype>verb</specialwordtype>
+      </container>
+      <container>
+        <name>Irregular</name>
+        <specialwordtype>verb</specialwordtype>
+      </container>
+    </container>
+    <container>
+      <name>Noun</name>
+      <specialwordtype>noun</specialwordtype>
+      <container>
+        <name>Male</name>
+        <specialwordtype>noun/male</specialwordtype>
+      </container>
+      <container>
+        <name>Female</name>
+        <specialwordtype>noun/female</specialwordtype>
+      </container>
+      <container>
+        <name>Neutral</name>
+        <specialwordtype>noun/neutral</specialwordtype>
+      </container>
+    </container>
+    <container>
+      <name>Name</name>
+    </container>
+    <container>
+      <name>Article</name>
+      <container>
+        <name>Definite</name>
+      </container>
+      <container>
+        <name>Indefinite</name>
+      </container>
+    </container>
+    <container>
+      <name>Adjective</name>
+      <specialwordtype>adjective</specialwordtype>
+    </container>
+    <container>
+      <name>Adverb</name>
+      <specialwordtype>adverb</specialwordtype>
+    </container>
+    <container>
+      <name>Pronoun</name>
+      <container>
+        <name>Possessive</name>
+      </container>
+      <container>
+        <name>Personal</name>
+      </container>
+    </container>
+    <container>
+      <name>Phrase</name>
+    </container>
+    <container>
+      <name>Numeral</name>
+      <container>
+        <name>Ordinal</name>
+      </container>
+      <container>
+        <name>Cardinal</name>
+      </container>
+    </container>
+    <container>
+      <name>Conjunction</name>
+    </container>
+    <container>
+      <name>Preposition</name>
+    </container>
+    <container>
+      <name>Question</name>
+    </container>
+  </wordtypes>
+</kvtml>

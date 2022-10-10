@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Easy</title>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <name>Original</name>
+      <locale>ro</locale>
+      <personalpronouns>
+        <singular>
+          <firstperson></firstperson>
+          <secondperson></secondperson>
+          <thirdpersonmale></thirdpersonmale>
+          <thirdpersonfemale></thirdpersonfemale>
+          <thirdpersonneutralcommon></thirdpersonneutralcommon>
+        </singular>
+        <dual>
+          <firstperson></firstperson>
+          <secondperson></secondperson>
+          <thirdpersonmale></thirdpersonmale>
+          <thirdpersonfemale></thirdpersonfemale>
+          <thirdpersonneutralcommon></thirdpersonneutralcommon>
+        </dual>
+        <plural>
+          <firstperson></firstperson>
+          <secondperson></secondperson>
+          <thirdpersonmale></thirdpersonmale>
+          <thirdpersonfemale></thirdpersonfemale>
+          <thirdpersonneutralcommon></thirdpersonneutralcommon>
+        </plural>
+      </personalpronouns>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <translation id="0" >
+        <text>vatman</text>
+	<comment>Conduce autobuzul</comment>
+      </translation>
+      <translation id="1" >
+        <text>Conduce autobuzul</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <translation id="0" />
+      <translation id="1" />
+    </entry>
+    <entry id="2" >
+      <translation id="0" >
+        <text>femeia</text>
+	<comment>Jumatatea lui</comment>
+      </translation>
+      <translation id="1" >
+        <text>Jumatatea lui</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <translation id="0" >
+        <text>indicator</text>
+	<comment>Iti arata drumul</comment>
+      </translation>
+      <translation id="1" >
+        <text>Iti arata drumul</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <translation id="0" >
+        <text>draperie</text>
+	<comment>Impiedica lumina soarelui</comment>
+      </translation>
+      <translation id="1" >
+        <text>Impiedica lumina soarelui</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <translation id="0" >
+        <text>frigider</text>
+	<comment>Mentine alimentele proaspete</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mentine alimentele proaspete</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <translation id="0" >
+        <text>parfumul</text>
+        <comment>Miroase frumos</comment>
+      </translation>
+      <translation id="1" >
+        <text>Miroase frumos</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <translation id="0" >
+        <text>gresala</text>
+        <comment>Idee sau opinie eronata</comment>
+      </translation>
+      <translation id="1" >
+        <text>Idee sau opinie eronata</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <translation id="0" >
+        <text>cuptor</text>
+        <comment>Coace mancarea</comment>
+      </translation>
+      <translation id="1" >
+        <text>Coace mancarea</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <translation id="0" >
+        <text>perdea</text>
+        <comment>Infrumuseteaza camera</comment>
+      </translation>
+      <translation id="1" >
+        <text>Infrumuseteaza camera</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <translation id="0" >
+        <text>autobuz</text>
+        <comment>Te duce la serviciu</comment>
+      </translation>
+      <translation id="1" >
+        <text>Te duce la serviciu</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <translation id="0" >
+        <text>bicicleta</text>
+        <comment>Te deplasezi pe doua roti</comment>
+      </translation>
+      <translation id="1" >
+        <text>Te deplasezi pe doua roti</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <translation id="0" >
+        <text>surpriza</text>
+        <comment>Ceva neasteptat</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ceva neasteptat</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <translation id="0" >
+        <text>gradina</text>
+        <comment>Pamant cultivat</comment>
+      </translation>
+      <translation id="1" >
+        <text>Pamant cultivat</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <translation id="0" >
+        <text>telefon</text>
+        <comment>Vorbesti la distanta</comment>
+      </translation>
+      <translation id="1" >
+        <text>Vorbesti la distanta</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <translation id="0" >
+        <text>biblioteca</text>
+        <comment>Tine cartile in ordine</comment>
+      </translation>
+      <translation id="1" >
+        <text>Tine cartile in ordine</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <translation id="0" >
+        <text>plapuma</text>
+        <comment>Te acopera in noptile de iarna</comment>
+      </translation>
+      <translation id="1" >
+        <text>Te acopera in noptile de iarna</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <translation id="0" >
+        <text>bucatarie</text>
+        <comment>Camera gospodinei</comment>
+      </translation>
+      <translation id="1" >
+        <text>Camera gospodinei</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <translation id="0" >
+        <text>ascensor</text>
+        <comment>Urca la etaj</comment>
+      </translation>
+      <translation id="1" >
+        <text>Urca la etaj</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <translation id="0" >
+        <text>padure</text>
+        <comment>Plina cu pomi</comment>
+      </translation>
+      <translation id="1" >
+        <text>Plina cu pomi</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <translation id="0" >
+        <text>mobila</text>
+        <comment>Obiecte in camera</comment>
+      </translation>
+      <translation id="1" >
+        <text>Obiecte in camera</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <translation id="0" >
+        <text>scaun</text>
+        <comment>Stai pe el</comment>
+      </translation>
+      <translation id="1" >
+        <text>Stai pe el</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <translation id="0" >
+        <text>limuzina</text>
+        <comment>Masina pentru celebritati</comment>
+      </translation>
+      <translation id="1" >
+        <text>Masina pentru celebritati</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <translation id="0" >
+        <text>semafor</text>
+        <comment>Nu ai voie sa treci pe rosu</comment>
+      </translation>
+      <translation id="1" >
+        <text>Nu ai voie sa treci pe rosu</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <translation id="0" >
+        <text>politist</text>
+        <comment>Asigura ordinea</comment>
+      </translation>
+      <translation id="1" >
+        <text>Asigura ordinea</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <translation id="0" >
+        <text>masa</text>
+        <comment>Sta pe patru picioare</comment>
+      </translation>
+      <translation id="1" >
+        <text>Sta pe patru picioare</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+  <wordtypes>
+    <container>
+      <name>Verb</name>
+      <specialwordtype>verb</specialwordtype>
+      <container>
+        <name>Regular</name>
+        <specialwordtype>verb</specialwordtype>
+      </container>
+      <container>
+        <name>Irregular</name>
+        <specialwordtype>verb</specialwordtype>
+      </container>
+    </container>
+    <container>
+      <name>Noun</name>
+      <specialwordtype>noun</specialwordtype>
+      <container>
+        <name>Male</name>
+        <specialwordtype>noun/male</specialwordtype>
+      </container>
+      <container>
+        <name>Female</name>
+        <specialwordtype>noun/female</specialwordtype>
+      </container>
+      <container>
+        <name>Neutral</name>
+        <specialwordtype>noun/neutral</specialwordtype>
+      </container>
+    </container>
+    <container>
+      <name>Name</name>
+    </container>
+    <container>
+      <name>Article</name>
+      <container>
+        <name>Definite</name>
+      </container>
+      <container>
+        <name>Indefinite</name>
+      </container>
+    </container>
+    <container>
+      <name>Adjective</name>
+      <specialwordtype>adjective</specialwordtype>
+    </container>
+    <container>
+      <name>Adverb</name>
+      <specialwordtype>adverb</specialwordtype>
+    </container>
+    <container>
+      <name>Pronoun</name>
+      <container>
+        <name>Possessive</name>
+      </container>
+      <container>
+        <name>Personal</name>
+      </container>
+    </container>
+    <container>
+      <name>Phrase</name>
+    </container>
+    <container>
+      <name>Numeral</name>
+      <container>
+        <name>Ordinal</name>
+      </container>
+      <container>
+        <name>Cardinal</name>
+      </container>
+    </container>
+    <container>
+      <name>Conjunction</name>
+    </container>
+    <container>
+      <name>Preposition</name>
+    </container>
+    <container>
+      <name>Question</name>
+    </container>
+  </wordtypes>
+</kvtml>

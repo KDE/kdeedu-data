@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Πρωτεύουσες κρατών</title>
+    <comment>Πρωτεύουσες κρατών του κόσμου</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>el</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>λονδίνο</text>
+        <comment>Πρωτεύουσα της Αγγλίας και των Ην. Βασιλείων</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>παρίσι</text>
+        <comment>Πρωτεύουσα της Γαλλίας</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>βερολίνο</text>
+        <comment>Πρωτεύουσα της Γερμανίας</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>δουβλίνο</text>
+        <comment>Πρωτεύουσα της Ιρλανδίας</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>κάρντιφ</text>
+        <comment>Πρωτεύουσα της Ουαλίας</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μαδρίτη</text>
+        <comment>Πρωτεύουσα της Ισπανίας</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μόσχα</text>
+        <comment>Πρωτεύουσα της Ρωσίας</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>καμπούλ</text>
+        <comment>Πρωτεύουσα του Αφγανιστάν</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>χαρτούμ</text>
+        <comment>Πρωτεύουσα του Σουδάν</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ουάσιγκτον</text>
+        <comment>Πρωτεύουσα των ΗΠΑ</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>καμπέρα</text>
+        <comment>Πρωτεύουσα της Αυστραλίας</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τόκιο</text>
+        <comment>Πρωτεύουσα της Ιαπωνίας</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Λισαβόνα</text>
+        <comment>Πρωτεύουσα της Πορτογαλίας</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>εδιμβούργο</text>
+        <comment>Πρωτεύουσα της Σκωτίας</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>βαγδάτη</text>
+        <comment>Πρωτεύουσα του Ιράκ</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>πεκίνο</text>
+        <comment>Πρωτεύουσα της Κίνας</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>σεούλ</text>
+        <comment>Πρωτεύουσα της Ν.Κορέας</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τεχεράνη</text>
+        <comment>Πρωτεύουσα του Ιράν</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>οτάβα</text>
+        <comment>Πρωτεύουσα του Καναδά</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>αθήνα</text>
+        <comment>Πρωτεύουσα της Ελλάδας</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>στοκχόλμη</text>
+        <comment>Πρωτεύουσα της Σουηδίας</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>όσλο</text>
+        <comment>Πρωτεύουσα της Νορβηγίας</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>σόφια</text>
+        <comment>Πρωτεύουσα της Βουλγαρίας</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>άμστερνταμ</text>
+        <comment>Πρωτεύουσα της Ολλανδίας</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ρώμη</text>
+        <comment>Πρωτεύουσα της Ιταλίας</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>βιέννη</text>
+        <comment>Πρωτεύουσα της Αυστρίας</comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>σαντιάγο</text>
+        <comment>Πρωτεύουσα της Χιλής</comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τίρανα</text>
+        <comment>Πρωτεύουσα της Αλβανίας</comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>βρυξέλλες</text>
+        <comment>Πρωτεύουσα του Βελγίου</comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ζάγκρεμπ</text>
+        <comment>Πρωτεύουσα της Κροατίας</comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ταλίν</text>
+        <comment>Πρωτεύουσα της Εσθονίας</comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ελσίνκι</text>
+        <comment>Πρωτεύουσα της Φιλανδίας</comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ρέικιαβικ</text>
+        <comment>Πρωτεύουσα της Ισλανδίας</comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>βουδαπέστη</text>
+        <comment>Πρωτεύουσα της Ουγγαρίας</comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>άγκυρα</text>
+        <comment>Πρωτεύουσα της Τουρκίας</comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τζακάρτα</text>
+        <comment>Πρωτεύουσα της Ινδονησίας</comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>κίνγκστον</text>
+        <comment>Πρωτεύουσα της Τζαμάικας</comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ναϊρόμπι</text>
+        <comment>Πρωτεύουσα της Κένυας</comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ρίγα</text>
+        <comment>Πρωτεύουσα της Λεττονίας</comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>βηρυτός</text>
+        <comment>Πρωτεύουσα του Λιβάνου</comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τρίπολη</text>
+        <comment>Πρωτεύουσα της Λιβύης</comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>σκόπια</text>
+        <comment>Πρωτεύουσα της πρώην Γιουγκοσλαβικής Δημοκρατίας της Μακεδονίας</comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>κατμαντού</text>
+        <comment>Πρωτεύουσα του Νεπάλ</comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>λίμα</text>
+        <comment>Πρωτεύουσα του Περού</comment>
+      </translation>
+    </entry>
+    <entry id="44" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>βαρσοβία</text>
+        <comment>Πρωτεύουσα της Πολωνίας</comment>
+      </translation>
+    </entry>
+    <entry id="45" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>βουκουρέστι</text>
+        <comment>Πρωτεύουσα της Ρουμανίας</comment>
+      </translation>
+    </entry>
+    <entry id="46" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μπρατισλάβα</text>
+        <comment>Πρωτεύουσα της Σλοβακίας</comment>
+      </translation>
+    </entry>
+    <entry id="47" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μογκαντίσου</text>
+        <comment>Πρωτεύουσα της Σομαλίας</comment>
+      </translation>
+    </entry>
+    <entry id="48" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>δαμασκός</text>
+        <comment>Πρωτεύουσα της Συρίας</comment>
+      </translation>
+    </entry>
+    <entry id="49" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>βέρνη</text>
+        <comment>Πρωτεύουσα της Ελβετίας</comment>
+      </translation>
+    </entry>
+    <entry id="50" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μπανγκόκ</text>
+        <comment>Πρωτεύουσα της Ταϊλάνδης</comment>
+      </translation>
+    </entry>
+    <entry id="51" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>κοπεγχάγη</text>
+        <comment>Πρωτεύουσα της Δανίας</comment>
+      </translation>
+    </entry>
+    <entry id="52" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>βρυξέλλες</text>
+        <comment>Πρωτεύουσα της Ευρωπαϊκής Ένωσης</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

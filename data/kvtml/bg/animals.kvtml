@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>animals.kvtml</title>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>bg</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>мечка</text>
+        <comment>Голямо, кафяво и спи през зимата</comment>
+      </translation>
+      <translation id="1" >
+        <text>Голямо, кафяво и спи през зимата</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>делфин</text>
+        <comment>Морски бозайник</comment>
+      </translation>
+      <translation id="1" >
+        <text>Морски бозайник</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>зебра</text>
+        <comment>Живее в Африка и е на бели и черни ивици</comment>
+      </translation>
+      <translation id="1" >
+        <text>Живее в Африка и е на бели и черни ивици</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>кенгуру</text>
+        <comment>Живее в Австралия и скача</comment>
+      </translation>
+      <translation id="1" >
+        <text>Живее в Австралия и скача</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>магаре</text>
+        <comment>Реве много силно</comment>
+      </translation>
+      <translation id="1" >
+        <text>Реве много силно</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>кон</text>
+        <comment>Може да се язди</comment>
+      </translation>
+      <translation id="1" >
+        <text>Може да се язди</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>маймуна</text>
+        <comment>Прародственик на човека</comment>
+      </translation>
+      <translation id="1" >
+        <text>Прародственик на човека</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>кълвач</text>
+        <comment>Горски лекар</comment>
+      </translation>
+      <translation id="1" >
+        <text>Горски лекар</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>лястовица</text>
+        <comment>Малка, прелетна птица</comment>
+      </translation>
+      <translation id="1" >
+        <text>Малка, прелетна птица</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>змия</text>
+        <comment>Съска и е отровно</comment>
+      </translation>
+      <translation id="1" >
+        <text>Съска и е отровно</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>жираф</text>
+        <comment>Има дълга шия</comment>
+      </translation>
+      <translation id="1" >
+        <text>Има дълга шия</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>слон</text>
+        <comment>Най-големия сухоземен бозайник</comment>
+      </translation>
+      <translation id="1" >
+        <text>Най-големия сухоземен бозайник</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>мишка</text>
+        <comment>Малко сиво с дълга опашка</comment>
+      </translation>
+      <translation id="1" >
+        <text>Малко сиво с дълга опашка</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>червей</text>
+        <comment>Живее в пръстта и рибарите го използват като ходят за риба</comment>
+      </translation>
+      <translation id="1" >
+        <text>Живее в пръстта и рибарите го използват като ходят за риба</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>прилеп</text>
+        <comment>Летяща мишка</comment>
+      </translation>
+      <translation id="1" >
+        <text>Летяща мишка</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>пингвин</text>
+        <comment>Морска птица от Южния полюс</comment>
+      </translation>
+      <translation id="1" >
+        <text>Морска птица от Южния полюс</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>заек</text>
+        <comment>Има дълги уши и скача</comment>
+      </translation>
+      <translation id="1" >
+        <text>Има дълги уши и скача</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>хамстер</text>
+        <comment>Домашна мишка, любимец</comment>
+      </translation>
+      <translation id="1" >
+        <text>Домашна мишка, любимец</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>кокошка</text>
+        <comment>Снася яйца</comment>
+      </translation>
+      <translation id="1" >
+        <text>Снася яйца</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>петел</text>
+        <comment>Може да кукурига</comment>
+      </translation>
+      <translation id="1" >
+        <text>Може да кукурига</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>вълк</text>
+        <comment>Диво животно от семейството на кучетата</comment>
+      </translation>
+      <translation id="1" >
+        <text>Диво животно от семейството на кучетата</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>лъв</text>
+        <comment>Царят на животните</comment>
+      </translation>
+      <translation id="1" >
+        <text>Царят на животните</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>тигър</text>
+        <comment>Живее в Азия и е най-голямото животно от семейството на котките</comment>
+      </translation>
+      <translation id="1" >
+        <text>Живее в Азия и е най-голямото животно от семейството на котките</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>октопод</text>
+        <comment>Морско животно с пипала</comment>
+      </translation>
+      <translation id="1" >
+        <text>Морско животно с пипала</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>носорог</text>
+        <comment>Има нос</comment>
+      </translation>
+      <translation id="1" >
+        <text>Има нос</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>хипопотам</text>
+        <comment>Дебело, добродушно животно, живее в Африка във водни басейни</comment>
+      </translation>
+      <translation id="1" >
+        <text>Дебело, добродушно животно, живее в Африка във водни басейни</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>елен</text>
+        <comment>Красиво животно с рога</comment>
+      </translation>
+      <translation id="1" >
+        <text>Красиво животно с рога</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>катерица</text>
+        <comment>Малко, кафяво с голяма опашка, скача от дърво на дърво</comment>
+      </translation>
+      <translation id="1" >
+        <text>Малко, кафяво с голяма опашка, скача от дърво на дърво</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>костенурка</text>
+        <comment>Бавноподвижно животно, носи си къщичката на гърба</comment>
+      </translation>
+      <translation id="1" >
+        <text>Бавноподвижно животно, носи си къщичката на гърба</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>динозавър</text>
+        <comment>Изчезнал вид влечуги</comment>
+      </translation>
+      <translation id="1" >
+        <text>Изчезнал вид влечуги</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>пуйка</text>
+        <comment>Голяма птица, която се сервира по Коледа</comment>
+      </translation>
+      <translation id="1" >
+        <text>Голяма птица, която се сервира по Коледа</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>орел</text>
+        <comment>Голяма, хищна птица</comment>
+      </translation>
+      <translation id="1" >
+        <text>Голяма, хищна птица</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>акула</text>
+        <comment>Голям, морски хищник</comment>
+      </translation>
+      <translation id="1" >
+        <text>Голям, морски хищник</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>патка</text>
+        <comment>Птица, която може да плува</comment>
+      </translation>
+      <translation id="1" >
+        <text>Птица, която може да плува</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>риба</text>
+        <comment>Живее във водата</comment>
+      </translation>
+      <translation id="1" >
+        <text>Живее във водата</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>папагал</text>
+        <comment>Може да повтаря след Вас</comment>
+      </translation>
+      <translation id="1" >
+        <text>Може да повтаря след Вас</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>жаба</text>
+        <comment>Малко, зелено, скачащо животно</comment>
+      </translation>
+      <translation id="1" >
+        <text>Малко, зелено, скачащо животно</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>охлюв</text>
+        <comment>Бавноподвижно животно, носи си къщичката на гърба и пълзи</comment>
+      </translation>
+      <translation id="1" >
+        <text>Бавноподвижно животно, носи си къщичката на гърба и пълзи</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>камила</text>
+        <comment>Има гърбица(и)</comment>
+      </translation>
+      <translation id="1" >
+        <text>Има гърбица(и)</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>крокодил</text>
+        <comment>Голямо, хищно, зелено животно, живее във водни басейни</comment>
+      </translation>
+      <translation id="1" >
+        <text>Голямо, хищно, зелено животно, живее във водни басейни</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>комар</text>
+        <comment>Насекомо, което смуче кръв</comment>
+      </translation>
+      <translation id="1" >
+        <text>Насекомо, което смуче кръв</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>овца</text>
+        <comment>Тревопасно животно, което дава вълна и мляко</comment>
+      </translation>
+      <translation id="1" >
+        <text>Тревопасно животно, което дава вълна и мляко</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>рак</text>
+        <comment>Може да ходи назад</comment>
+      </translation>
+      <translation id="1" >
+        <text>Може да ходи назад</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>щъркел</text>
+        <comment>Прелетна птица, с дълги крака и голям клюн</comment>
+      </translation>
+      <translation id="1" >
+        <text>Прелетна птица, с дълги крака и голям клюн</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="44" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>крава</text>
+        <comment>Вика муу</comment>
+      </translation>
+      <translation id="1" >
+        <text>Вика муу</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="45" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>пчела</text>
+        <comment>Събира мед</comment>
+      </translation>
+      <translation id="1" >
+        <text>Събира мед</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="46" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>агънце</text>
+        <comment>Малкото на овцата</comment>
+      </translation>
+      <translation id="1" >
+        <text>Малкото на овцата</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="47" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>врабче</text>
+        <comment>Малка птица, вика чик-чирик</comment>
+      </translation>
+      <translation id="1" >
+        <text>Малка птица, вика чик-чирик</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="48" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>лисица</text>
+        <comment>Хитро животно, което си замита следите</comment>
+      </translation>
+      <translation id="1" >
+        <text>Хитро животно, което си замита следите</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="49" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>куче</text>
+        <comment>Домашен любимец</comment>
+      </translation>
+      <translation id="1" >
+        <text>Домашен любимец</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="50" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>котка</text>
+        <comment>Хваща мишки</comment>
+      </translation>
+      <translation id="1" >
+        <text>Хваща мишки</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="51" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>таралеж</text>
+        <comment>Бавноподвижно животно с бодли</comment>
+      </translation>
+      <translation id="1" >
+        <text>Бавноподвижно животно с бодли</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="52" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>паун</text>
+        <comment>Птица с голяма опашка</comment>
+      </translation>
+      <translation id="1" >
+        <text>Птица с голяма опашка</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="53" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>щраус</text>
+        <comment>Птица, която си крие главата в пясъка</comment>
+      </translation>
+      <translation id="1" >
+        <text>Птица, която си крие главата в пясъка</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="54" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>пиле</text>
+        <comment>Малкото на кокошката</comment>
+      </translation>
+      <translation id="1" >
+        <text>Малкото на кокошката</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

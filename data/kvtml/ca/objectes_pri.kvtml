@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>converter</generator>
+    <title>La casa</title>
+    <comment>Parts de la casa, i objectes que hi fem servir</comment>
+    <date>2018-12-17</date>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Original</name>
+      <locale>ca</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>televisor</text>
+        <comment>Aparell elèctric on podem veure imatges en moviment, amb so</comment>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>cadira</text>
+        <comment>Té quatre potes, i serveix per seure</comment>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>congelador</text>
+        <comment>Per a mantenir congelats els aliments</comment>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>frigorífic</text>
+        <comment>Conserva freds els aliments</comment>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>finestra</text>
+        <comment>Deixa entrar la llum i l'aire fresc a una habitació</comment>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>forn</text>
+        <comment>Escalfa el menjar que posem en una safata</comment>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>taula</text>
+        <comment>A sobre hi podem menjar, o fer feina de l'escola</comment>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>catifa</text>
+        <comment>Tela gruixuda que serveix per a decorar el terra d'una habitació</comment>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>mirall</text>
+        <comment>Ens hi mirem cada matí per a pentinar-nos i posar-nos macos</comment>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>rellotge</text>
+        <comment>Ens diu l'hora i mesura el temps</comment>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>manta</text>
+        <comment>Ens protgeix del fred a l'hivern, quan som al llit</comment>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>llençol</text>
+        <comment>Peça de roba que es posa sobre el llit</comment>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>pinta</text>
+        <comment>La fem servir per a pentinar-nos</comment>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>sofà</text>
+        <comment>Per seure còmodament a casa</comment>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>porta</text>
+        <comment>Per on entrem i sortim de casa</comment>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>dutxa</text>
+        <comment>Ens rentem de dalt a baix, tot el cos</comment>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>paella</text>
+        <comment>Si hi posem oli, podem fregir aliments</comment>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>olla</text>
+        <comment>Recipient gros que es fa servir per bullir els aliments</comment>
+      </translation>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>telèfon</text>
+        <comment>Aparell elèctric que fem servir per parlar amb gent que està lluny</comment>
+      </translation>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>armari</text>
+        <comment>Hi guardem la roba, les sabates i altres coses de casa</comment>
+      </translation>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>habitació</text>
+        <comment>Part de la casa on anem a dormir</comment>
+      </translation>
+    </entry>
+    <entry id="21">
+      <translation id="0">
+        <text>menjador</text>
+        <comment>Part de la casa on hi ha la taula per a fer les reunions familiars</comment>
+      </translation>
+    </entry>
+    <entry id="22">
+      <translation id="0">
+        <text>cuina</text>
+        <comment>Lloc on es prepara el menjar</comment>
+      </translation>
+    </entry>
+    <entry id="23">
+      <translation id="0">
+        <text>rebedor</text>
+        <comment>Petit espai de passadís que hi ha a l'entrada de casa</comment>
+      </translation>
+    </entry>
+    <entry id="24">
+      <translation id="0">
+        <text>lavabo</text>
+        <comment>Lloc de la casa on ens rentem i pentinem</comment>
+      </translation>
+    </entry>
+    <entry id="25">
+      <translation id="0">
+        <text>passadís</text>
+        <comment>Espai de la casa que fem servir per anar d'una habitació a l'altra</comment>
+      </translation>
+    </entry>
+    <entry id="26">
+      <translation id="0">
+        <text>cortina</text>
+        <comment>Peça de roba que es penja a sobre d'una finestra</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

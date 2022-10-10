@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Διάστημα</title>
+    <comment>Διαστημικά αντικείμενα, όροι και αποστολές</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>el</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>apollo</text>
+        <comment>Το αμερικανικό πρόγραμμα αποστολής στο φεγγάρι</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>αστεροειδής</text>
+        <comment>Μικρές πλανητικό σώμα σε τροχιά γύρω από τον Ήλιο</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>αστροναύτης</text>
+        <comment>Άτομο από μια δυτική χώρα που ταξιδεύει στο διάστημα</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>buran</text>
+        <comment>Ρωσικό επαναχρησιμοποιήσιμο πρόγραμμα διαστημόπλοιου</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>κομήτης</text>
+        <comment>Μεσαίου μεγέθους παγωμένο αντικείμενο σε τροχιά γύρω από τον Ήλιο</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>αστερισμός</text>
+        <comment>Ομάδα αστεριών που σχηματίζουν ένα σχήμα ή μοτίβο</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>κοσμοναύτης</text>
+        <comment>Άτομο από μια ανατολική χώρα που ταξιδεύει στο διάστημα</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>γη</text>
+        <comment>Ο πλανήτης στον οποίο ζούμε</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>έκλειψη</text>
+        <comment>Όταν ένα ουράνιο σώμα κρύβει ένα άλλο</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>γαλαξίας</text>
+        <comment>Πολύ μεγάλο σύμπλεγμα αστεριών</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>δίας</text>
+        <comment>Πέμπτος από τον ήλιο, ο μεγαλύτερος πλανήτης</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>άρης</text>
+        <comment>Ο τέταρτος πλανήτης από τον ήλιο</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ερμής</text>
+        <comment>Ο μικρότερος πλανήτης και ο κοντινότερος στον ήλιο</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>meteor</text>
+        <comment>Meteoroid that burns up in the Earth's atmosphere</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μετεωρίτης</text>
+        <comment>Η ύλη που έχει φθάσει στη Γη από το διάστημα</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mir</text>
+        <comment>Ρωσικός διαστημικός σταθμός, που ξεκίνησε το 1986</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>φεγγάρι</text>
+        <comment>Ο φυσικός δορυφόρος της Γης</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ποσειδώνας</text>
+        <comment>Γιγάντιος πλανήτης, όγδοος από τον ήλιο</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τροχιά</text>
+        <comment>Διαδρομή ενός αντικειμένου γύρω από ένα άλλο</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>πλούτων</text>
+        <comment>Ο δεύτερος μεγαλύτερος γνωστός πλανήτης νάνος</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>δορυφόρος</text>
+        <comment>Ένα αντικείμενο που περιστρέφεται γύρω από έναν πλανήτη</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>κρόνος</text>
+        <comment>Γιγάντιος πλανήτης με δακτυλίους, έκτος από τον ήλιο</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>skylab</text>
+        <comment>Ο πρώτος αμερικανικός διαστημικός σταθμός, που ξεκίνησε το 1973</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sputnik</text>
+        <comment>Ο πρώτος τεχνητός δορυφόρος της Γης, που εκτοξεύτηκε το 1957</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ήλιος</text>
+        <comment>Το αστέρι στο κέντρο του ηλιακού συστήματος</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>taikonaut</text>
+        <comment>Άτομο από την Κίνα που ταξιδεύει στο διάστημα</comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ουρανός</text>
+        <comment>Ο έβδομος πλανήτης από τον ήλιο</comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>αφροδίτη</text>
+        <comment>Δεύτερος πλανήτης από τον ήλιο</comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>βόγιατζερ</text>
+        <comment>Μη επανδρωμένο διαπλανητικό διαστημόπλοιο που εκτοξεύτηκε το 1977</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

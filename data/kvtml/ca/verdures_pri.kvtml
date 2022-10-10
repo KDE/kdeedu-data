@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>converter</generator>
+    <title>Verdures</title>
+    <comment>Verdures i llegums</comment>
+    <date>2018-12-17</date>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Original</name>
+      <locale>ca</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>tomàquet</text>
+        <comment>És vermell i el posem a l'amanida</comment>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>enciam</text>
+        <comment>Les seves fulles es posen a l'amanida</comment>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>ceba</text>
+        <comment>Si la vols tallar, et farà plorar</comment>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>albergínia</text>
+        <comment>La seva pell és morada</comment>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>carbassó</text>
+        <comment>És allargat, i la seva pell és verda</comment>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>cogombre</text>
+        <comment>És allargat, i la seva pell és verda</comment>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>pebrot</text>
+        <comment>El pots trobar a l'amanida, i també dintre d'un plat calent</comment>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>carbassa</text>
+        <comment>Per Halloween s'acostuma a fer-li ulls i boca, amb un ganivet</comment>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>pastanaga</text>
+        <comment>Als conills els encanta menjar-ne</comment>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>espinacs</text>
+        <comment>El Popeye agafa tota la seva força quan en menja</comment>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>bleda</text>
+        <comment>Un grapat de fulles, de color verd fosc</comment>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>carxofa</text>
+        <comment>Té forma de flor, de color verd</comment>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>espàrrec</text>
+        <comment>El que mengem és la seva tija</comment>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>blat de moro</text>
+        <comment>Si l'escalfes a la paella, faràs crispetes</comment>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>xampinyó</text>
+        <comment>Bolet blanc</comment>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>mongeta</text>
+        <comment>El que en mengem són les llavors, verdes o seques</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

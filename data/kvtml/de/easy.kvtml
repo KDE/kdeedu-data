@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Leicht</title>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>de</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Möbel</text>
+        <comment>Sofas, Tische und Stühle sind ...</comment>
+      </translation>
+      <translation id="1" >
+        <text>Sofas, Tische und Stühle sind ...</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Schüler</text>
+        <comment>Wer in die Schule geht, ist ein ...</comment>
+      </translation>
+      <translation id="1" >
+        <text>Wer in die Schule geht, ist ein ...</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Gemüse</text>
+        <comment>Wenn man viel davon isst, wird man groß und stark.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Wenn man viel davon isst, wird man groß und stark.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Küche</text>
+        <comment>Hier wird das leckere Abendessen zubereitet :)</comment>
+      </translation>
+      <translation id="1" >
+        <text>Hier wird das leckere Abendessen zubereitet :)</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Schokolade</text>
+        <comment>Die Lieblings-Süßigkeit von Kindern</comment>
+      </translation>
+      <translation id="1" >
+        <text>Die Lieblings-Süßigkeit von Kindern</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Computer</text>
+        <comment>Ein technisches Gerät, von dem viele Erwachsene keine Ahnung haben ;-)</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ein technisches Gerät, von dem viele Erwachsene keine Ahnung haben ;-)</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Banane</text>
+        <comment>Warum ist die ... krumm?</comment>
+      </translation>
+      <translation id="1" >
+        <text>Warum ist die ... krumm?</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Brille</text>
+        <comment>Man kann durchschauen und wenn man sie sucht, hat man sie meistens auf dem Kopf</comment>
+      </translation>
+      <translation id="1" >
+        <text>Man kann durchschauen und wenn man sie sucht, hat man sie meistens auf dem Kopf</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Glas</text>
+        <comment>Vorsicht, zerbrechlich!!!</comment>
+      </translation>
+      <translation id="1" >
+        <text>Vorsicht, zerbrechlich!!!</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Haus</text>
+        <comment>Anderes Wort für Gebäude</comment>
+      </translation>
+      <translation id="1" >
+        <text>Anderes Wort für Gebäude</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Geld</text>
+        <comment>Davon hat man immer zu wenig in der Tasche</comment>
+      </translation>
+      <translation id="1" >
+        <text>Davon hat man immer zu wenig in der Tasche</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Fahrer</text>
+        <comment>Er sitzt im Auto vorne links</comment>
+      </translation>
+      <translation id="1" >
+        <text>Er sitzt im Auto vorne links</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Polizist</text>
+        <comment>Er ist grün oder blau angezogen und dein Freund und Helfer</comment>
+      </translation>
+      <translation id="1" >
+        <text>Er ist grün oder blau angezogen und dein Freund und Helfer</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Ananas</text>
+        <comment>Exotische Frucht. Schmeckt süß.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Exotische Frucht. Schmeckt süß.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Briefmarke</text>
+        <comment>Sie ist klein, rechteckig, hat viele Zähne und man klebt sie auf einen Brief</comment>
+      </translation>
+      <translation id="1" >
+        <text>Sie ist klein, rechteckig, hat viele Zähne und man klebt sie auf einen Brief</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Mittagessen</text>
+        <comment>Frühstück, ..., und Abendessen</comment>
+      </translation>
+      <translation id="1" >
+        <text>Frühstück, ..., und Abendessen</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Limousine</text>
+        <comment>Ein schönes und bequemes Auto</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ein schönes und bequemes Auto</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Rolltreppe</text>
+        <comment>Diese Treppe findet man in Kaufhäusern</comment>
+      </translation>
+      <translation id="1" >
+        <text>Diese Treppe findet man in Kaufhäusern</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Frühstück</text>
+        <comment>Vor der Schule isst man erst einmal ...</comment>
+      </translation>
+      <translation id="1" >
+        <text>Vor der Schule isst man erst einmal ...</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Bär</text>
+        <comment>Der Braun... ist bei Kindern beliebt, doch dem Grizzly... sollte man nicht zu nahe kommen!</comment>
+      </translation>
+      <translation id="1" >
+        <text>Der Braun... ist bei Kindern beliebt, doch dem Grizzly... sollte man nicht zu nahe kommen!</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Katze</text>
+        <comment>Dieses liebe Tier macht schnurrrrrr ...</comment>
+      </translation>
+      <translation id="1" >
+        <text>Dieses liebe Tier macht schnurrrrrr ...</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Erziehung</text>
+        <comment>Das ist, wenn Mama und Papa dem Kind etwas beibringen möchten.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Das ist, wenn Mama und Papa dem Kind etwas beibringen möchten.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Tisch</text>
+        <comment>Dieses Möbelstück hat vier Beine und man kann darauf zu Mittag essen.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Dieses Möbelstück hat vier Beine und man kann darauf zu Mittag essen.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Klassenzimmer</text>
+        <comment>In diesem Raum treffen sich Schüler und Lehrer.</comment>
+      </translation>
+      <translation id="1" >
+        <text>In diesem Raum treffen sich Schüler und Lehrer.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Fernsehen</text>
+        <comment>Davon bekommt man viereckige Augen ;P</comment>
+      </translation>
+      <translation id="1" >
+        <text>Davon bekommt man viereckige Augen ;P</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Jacke</text>
+        <comment>Dieses Kleidungsstück hält draußen warm.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Dieses Kleidungsstück hält draußen warm.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Käse</text>
+        <comment>Gouda, Emmentaler, Schweizer ...</comment>
+      </translation>
+      <translation id="1" >
+        <text>Gouda, Emmentaler, Schweizer ...</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Hühner</text>
+        <comment>Ohne sie gibt es Sonntags zum Frühstück kein Ei.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ohne sie gibt es Sonntags zum Frühstück kein Ei.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Hauptmahlzeit</text>
+        <comment>Eine wichtige Mahlzeit am Tag</comment>
+      </translation>
+      <translation id="1" >
+        <text>Eine wichtige Mahlzeit am Tag</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Berg</text>
+        <comment>Das Gegenteil von Tal</comment>
+      </translation>
+      <translation id="1" >
+        <text>Das Gegenteil von Tal</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Kartoffel</text>
+        <comment>Ein typisch deutsches Gemüse aus dem man Pürree machen kann.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ein typisch deutsches Gemüse aus dem man Pürree machen kann.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Wasser</text>
+        <comment>Wenn man den Hahn aufdreht, kommt es aus der Leitung.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Wenn man den Hahn aufdreht, kommt es aus der Leitung.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Fluß</text>
+        <comment>Hier fließt Wasser, doch ist nicht das Wasserrohr gemeint ;-)</comment>
+      </translation>
+      <translation id="1" >
+        <text>Hier fließt Wasser, doch ist nicht das Wasserrohr gemeint ;-)</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Kalender</text>
+        <comment>Wenn man nicht weiß, welcher Tag heute ist, dann schaut man da hinein.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Wenn man nicht weiß, welcher Tag heute ist, dann schaut man da hinein.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Garten</text>
+        <comment>An diesem Ort spielen Kinder und es wachsen schöne Blumen.</comment>
+      </translation>
+      <translation id="1" >
+        <text>An diesem Ort spielen Kinder und es wachsen schöne Blumen.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Lampe</text>
+        <comment>Wenn es draußen dunkel wird, schaltet man sie ein.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Wenn es draußen dunkel wird, schaltet man sie ein.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Konferenz</text>
+        <comment>Ein anderes Wort für Tagung oder Besprechung</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ein anderes Wort für Tagung oder Besprechung</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Eltern</text>
+        <comment>So nennt man ein Paar, das Kinder hat.</comment>
+      </translation>
+      <translation id="1" >
+        <text>So nennt man ein Paar, das Kinder hat.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Vater</text>
+        <comment>Wie der ... so der Sohn.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Wie der ... so der Sohn.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Großvater</text>
+        <comment>Anderes Wort für Opa</comment>
+      </translation>
+      <translation id="1" >
+        <text>Anderes Wort für Opa</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Telefon</text>
+        <comment>Es klingelt, bevor man sich unterhalten kann.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Es klingelt, bevor man sich unterhalten kann.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Sofa</text>
+        <comment>Auf diesem gemütlichen Möbel kann man sitzen.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Auf diesem gemütlichen Möbel kann man sitzen.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Rosen</text>
+        <comment>Rote Blumen, die sich verliebte gegenseitig schenken.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Rote Blumen, die sich verliebte gegenseitig schenken.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Buch</text>
+        <comment>Es hat viele Seiten und man kann darin lesen.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Es hat viele Seiten und man kann darin lesen.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="44" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Besteck</text>
+        <comment>Das benötigt man, wenn man nicht mit den Fingern essen will.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Das benötigt man, wenn man nicht mit den Fingern essen will.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="45" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Schnee</text>
+        <comment>Er ist weiß und man kann darauf Rodeln.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Er ist weiß und man kann darauf Rodeln.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

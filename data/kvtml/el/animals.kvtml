@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Ζώα</title><!--Translate tag content-->
+    <comment>Ζώα από ολόκληρο τον πλανήτη</comment><!--Translate tag content-->
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>el</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>αρκούδα</text><!--Translate all text tags content-->
+        <comment>Μεγάλο ζώο με πυκνό τρίχωμα</comment><!--Translate all comment tags content-->
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>δελφίνι</text>
+        <comment>Θαλάσσιο θηλαστικό</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ζέβρα</text>
+        <comment>Αφρικανικό ζώο με μαύρες και λευκές ρίγες</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>καγκουρό</text>
+        <comment>Αυστραλέζικο ζώο που πηδάει</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>φάλαινα</text>
+        <comment>Μεγάλο θαλάσσιο θηλαστικό</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>άλογο</text>
+        <comment>Τετράποδο ζώο που χρησιμοποιείται για ιππασία</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>πίθηκος</text>
+        <comment>Κοντινός συγγενής των ανθρώπων</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τρυποκάρυδος</text>
+        <comment>Πουλί που τρυπάει το ξύλο</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>φίδι</text>
+        <comment>Ερπετό χωρίς πόδια</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>καμηλοπάρδαλη</text>
+        <comment>Αφρικανικό ζώο με μεγάλο λαιμό</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ελέφαντας</text>
+        <comment>Μεγάλο ζώο με προβοσκίδα</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ποντίκι</text>
+        <comment>Μικρό τρωκτικό με μια μεγάλη ουρά</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>σκουλήκι</text>
+        <comment>Ζώο χωρίς ράχη και πλευρά</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>λιβελούλη</text>
+        <comment>Μεγάλο έντομο με διαφανή φτερά</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>πιγκουίνος</text>
+        <comment>Θαλάσσιο πουλί της Ανταρκτικής</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>λαγός</text>
+        <comment>Ένα ζώο με μακρυά αυτιά</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>αρουραίος</text>
+        <comment>μεγάλο τρωκτικό</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>λύκος</text>
+        <comment>Άγριο ζώο της οικογένειας των σκύλων</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>λιοντάρι</text>
+        <comment>Μεγάλο, δυνατό ζώο της οικογένειας των αιλουροειδών</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τίγρη</text>
+        <comment>Μεγάλο ασιατικό ζώο της οικογένειας των αιλουροειδών</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>χταπόδι</text>
+        <comment>Θαλάσσιο ζώο με οκτώ μεγάλα πλοκάμια</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ρινόκερος</text>
+        <comment>Μεγάλο, παχύδερμο ζώο της Αφρικής</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>σκαντζόχοιρος</text>
+        <comment>Μικρό ζώο, με μαύρα σκληρά αγκάθια</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τάρανδος</text>
+        <comment>Ελάφι με μεγάλα κέρατα</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>σκίουρος</text>
+        <comment>Μικρό ζώο με φουντωτή ουρά που ζει στα δέντρα</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>χελώνα</text>
+        <comment>Ένα αργοκίνητο, τετράποδο ερπετό</comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ιπποπόταμος</text>
+        <comment>Μεγάλο Αφρικανικό ποταμίσιο ζώο</comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>δεινόσαυρος</text>
+        <comment>Ερπετό που εξαφανίστηκε</comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>αετός</text>
+        <comment>Μεγάλο πουλί αρπακτικό</comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>καρχαρίας</text>
+        <comment>Μεγάλο θαλάσσιο ψάρι με τριγωνικό πτερύγιο</comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>πάπια</text>
+        <comment>Πουλί που κολυμπάει</comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ψάρι</text>
+        <comment>Ζει μέσα στο νερό</comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>παπαγάλος</text>
+        <comment>Επαναλαμβάνει λέξεις</comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>βάτραχος</text>
+        <comment>Μικρό πράσινο ζωάκι που πηδάει</comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>σαλιγκάρι</text>
+        <comment>Αργοκίνητο ζώο, με σπειροειδές καβούκι</comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>καμήλα</text>
+        <comment>Μπορεί να ζήσει πολύ μεγάλο διάστημα στην έρημο</comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>κροκόδειλος</text>
+        <comment>Μεγάλο ερπετό, σαρκοφάγο</comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>κουνούπι</text>
+        <comment>Όταν τσιμπάει μεταφέρει αρρώστιες</comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>πρόβατο</text>
+        <comment>Χορτοφάγο ζώο με παχιά μάλλινη κάπα</comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>κοχύλι</text>
+        <comment>Μικρό όστρακο μέσα στο νερό</comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>γατάκι</text>
+        <comment>η νεαρή γάτα</comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ψαροπούλι</text>
+        <comment>Μικρό πουλί που τρέφεται με ψάρια</comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>γουρούνι</text>
+        <comment>ζώο που του αρέσει η λάσπη</comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>παγόνι</text>
+        <comment>μεγάλο πουλί με φανταχτερά φτερά</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>medium.kvtml</title>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>et</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>masin</text>
+        <comment>aparaat</comment>
+      </translation>
+      <translation id="1" >
+        <text>aparaat</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>magamistuba</text>
+        <comment>ruum, kus viibitakse öösel</comment>
+      </translation>
+      <translation id="1" >
+        <text>ruum, kus viibitakse öösel</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kohtunik</text>
+        <comment>ametimees, kes võib vangi panna, aga ka vabaks lasta</comment>
+      </translation>
+      <translation id="1" >
+        <text>ametimees, kes võib vangi panna, aga ka vabaks lasta</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>spordisaal</text>
+        <comment>koht, kus saab tegelda kehakultuuriga</comment>
+      </translation>
+      <translation id="1" >
+        <text>koht, kus saab tegelda kehakultuuriga</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kohtumine</text>
+        <comment>kellegagi kokkusaamine kokkulepitud ajal ja kohas</comment>
+      </translation>
+      <translation id="1" >
+        <text>kellegagi kokkusaamine kokkulepitud ajal ja kohas</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>antibiootikum</text>
+        <comment>aine, mis suudab tappa baktereid</comment>
+      </translation>
+      <translation id="1" >
+        <text>aine, mis suudab tappa baktereid</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>delegatsioon</text>
+        <comment>palju delegaate üheskoos</comment>
+      </translation>
+      <translation id="1" >
+        <text>palju delegaate üheskoos</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>apteeker</text>
+        <comment>isik, kes on õppinud rohuteadust</comment>
+      </translation>
+      <translation id="1" >
+        <text>isik, kes on õppinud rohuteadust</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>juustuburger</text>
+        <comment>hamburger juustuga</comment>
+      </translation>
+      <translation id="1" >
+        <text>hamburger juustuga</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>täpsustus</text>
+        <comment>millegi koguse või hinnangu parandamine</comment>
+      </translation>
+      <translation id="1" >
+        <text>millegi koguse või hinnangu parandamine</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ümbruskond</text>
+        <comment>inimest ümbritsevad asjad või tingimused</comment>
+      </translation>
+      <translation id="1" >
+        <text>inimest ümbritsevad asjad või tingimused</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>supermarket</text>
+        <comment>suur iseteenindav pood</comment>
+      </translation>
+      <translation id="1" >
+        <text>suur iseteenindav pood</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>märguanne</text>
+        <comment>millegi teatamine või näitamine</comment>
+      </translation>
+      <translation id="1" >
+        <text>millegi teatamine või näitamine</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>röntgenipilt</text>
+        <comment>pilt, millel näeb luumurde ja muud sellist</comment>
+      </translation>
+      <translation id="1" >
+        <text>pilt, millel näeb luumurde ja muud sellist</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>informatsioon</text>
+        <comment>teadaolevad või teadasaadud faktid</comment>
+      </translation>
+      <translation id="1" >
+        <text>teadaolevad või teadasaadud faktid</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hakkliha</text>
+        <comment>pisikesteks tükkideks hakitud mass pirukates</comment>
+      </translation>
+      <translation id="1" >
+        <text>pisikesteks tükkideks hakitud mass pirukates</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>allkiri</text>
+        <comment>inimese enda käega kirja pandud nimi</comment>
+      </translation>
+      <translation id="1" >
+        <text>inimese enda käega kirja pandud nimi</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vaimustus</text>
+        <comment>suur rõõm ja tahtmine midagi teha</comment>
+      </translation>
+      <translation id="1" >
+        <text>suur rõõm ja tahtmine midagi teha</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kibuvits</text>
+        <comment>taim, mille marjadest saab teha tervistavat teed</comment>
+      </translation>
+      <translation id="1" >
+        <text>taim, mille marjadest saab teha tervistavat teed</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sõnastik</text>
+        <comment>raamat, mille sees on sõnad koos tähendusega</comment>
+      </translation>
+      <translation id="1" >
+        <text>raamat, mille sees on sõnad koos tähendusega</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>valitsus</text>
+        <comment>inimesed, kes valitsevad riiki</comment>
+      </translation>
+      <translation id="1" >
+        <text>inimesed, kes valitsevad riiki</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kasvuhoone</text>
+        <comment>ehitis, kus sirguvad taimed</comment>
+      </translation>
+      <translation id="1" >
+        <text>ehitis, kus sirguvad taimed</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>raamaturiiul</text>
+        <comment>mööbliese, kuhu saab panna raamatuid</comment>
+      </translation>
+      <translation id="1" >
+        <text>mööbliese, kuhu saab panna raamatuid</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>foto</text>
+        <comment>pilt, mis tekib valguse mõjul aparaati pandud lindile</comment>
+      </translation>
+      <translation id="1" >
+        <text>pilt, mis tekib valguse mõjul aparaati pandud lindile</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mõistus</text>
+        <comment>vaimsed võimed</comment>
+      </translation>
+      <translation id="1" >
+        <text>vaimsed võimed</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>muruniiduk</text>
+        <comment>masin, millega saab õuest rohtu kõrvaldada</comment>
+      </translation>
+      <translation id="1" >
+        <text>masin, millega saab õuest rohtu kõrvaldada</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>matemaatika</text>
+        <comment>arvuteadus</comment>
+      </translation>
+      <translation id="1" >
+        <text>arvuteadus</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>liikmepilet</text>
+        <comment>dokument, mis näitab kuulumist kuhugi</comment>
+      </translation>
+      <translation id="1" >
+        <text>dokument, mis näitab kuulumist kuhugi</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rahulik</text>
+        <comment>tasakaalukas</comment>
+      </translation>
+      <translation id="1" >
+        <text>tasakaalukas</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>koostöö</text>
+        <comment>millegi tegemine koos teistega</comment>
+      </translation>
+      <translation id="1" >
+        <text>millegi tegemine koos teistega</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>semikoolon</text>
+        <comment>kirjavahemärk</comment>
+      </translation>
+      <translation id="1" >
+        <text>kirjavahemärk</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lõbu</text>
+        <comment>hea tunne</comment>
+      </translation>
+      <translation id="1" >
+        <text>hea tunne</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vihmavari</text>
+        <comment>kaitseb sademete eest</comment>
+      </translation>
+      <translation id="1" >
+        <text>kaitseb sademete eest</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ilutulestik</text>
+        <comment>inimeste tehtud valgusmäng taevas</comment>
+      </translation>
+      <translation id="1" >
+        <text>inimeste tehtud valgusmäng taevas</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>toll</text>
+        <comment>2.54 sentimeetrit</comment>
+      </translation>
+      <translation id="1" >
+        <text>2.54 sentimeetrit</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>milligramm</text>
+        <comment>tuhandik grammi</comment>
+      </translation>
+      <translation id="1" >
+        <text>tuhandik grammi</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>akvaarium</text>
+        <comment>kast, milles elavad kalad</comment>
+      </translation>
+      <translation id="1" >
+        <text>kast, milles elavad kalad</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>valearvestus</text>
+        <comment>möödapanek</comment>
+      </translation>
+      <translation id="1" >
+        <text>möödapanek</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>elanikkond</text>
+        <comment>ühe koha või riigi inimesed</comment>
+      </translation>
+      <translation id="1" >
+        <text>ühe koha või riigi inimesed</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>leiutis</text>
+        <comment>mingi uus asi</comment>
+      </translation>
+      <translation id="1" >
+        <text>mingi uus asi</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>solvamine</text>
+        <comment>kellelegi halvasti ütlemine</comment>
+      </translation>
+      <translation id="1" >
+        <text>kellelegi halvasti ütlemine</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>maasikas</text>
+        <comment>punane mari, mis maitseb eriti hästi vahukoorega</comment>
+      </translation>
+      <translation id="1" >
+        <text>punane mari, mis maitseb eriti hästi vahukoorega</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vanavanemad</text>
+        <comment>ema või isa ema ja isa</comment>
+      </translation>
+      <translation id="1" >
+        <text>ema või isa ema ja isa</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>linlased</text>
+        <comment>inimesed, kes elavad suurtes asulates</comment>
+      </translation>
+      <translation id="1" >
+        <text>inimesed, kes elavad suurtes asulates</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="44" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kollektsion</text>
+        <comment>paljude asjade kogu</comment>
+      </translation>
+      <translation id="1" >
+        <text>paljude asjade kogu</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>converter</generator>
+    <title>Professions</title>
+    <comment>Feines que fa la gent</comment>
+    <date>2018-12-17</date>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Original</name>
+      <locale>ca</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>metgessa</text>
+        <comment>Senyora que comprova que no estiguis malalt</comment>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>bomber</text>
+        <comment>Senyor que apaga el foc</comment>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>pescador</text>
+        <comment>Senyor que ens treu el peix de l'aigua</comment>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>arquitecte</text>
+        <comment>Persona que fa projectes per a poder construir edificis</comment>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>astronauta</text>
+        <comment>Persona que viatja per l'espai</comment>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>electricista</text>
+        <comment>Soluciona problemes amb l'electricitat</comment>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>jardiner</text>
+        <comment>Senyor que té cura d'un jardí</comment>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>psicòleg</text>
+        <comment>Metge que soluciona problemes emocionals</comment>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>policia</text>
+        <comment>Persona que vigila que es compleixin les lleis</comment>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>forner</text>
+        <comment>Senyor que es lleva molt d'hora per a fer el pa</comment>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>periodista</text>
+        <comment>Persona que escriu notícies, per a publicar-les en un diari</comment>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>informàtic</text>
+        <comment>Senyor que treballa amb ordinadors</comment>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>escriptora</text>
+        <comment>Senyora que escriu llibres</comment>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>conserge</text>
+        <comment>Persona que controla l'entrada d'un edifici</comment>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>conductor</text>
+        <comment>Senyor que condueix un camió, un autobús o una furgoneta</comment>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>rellotger</text>
+        <comment>Senyor que arregla rellotges</comment>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>mestra</text>
+        <comment>Senyora que ensenya als estudiants</comment>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>mecànic</text>
+        <comment>Senyor que repara cotxes que no funcionen</comment>
+      </translation>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>pagès</text>
+        <comment>Senyor que treballa el camp i té cura d'una granja</comment>
+      </translation>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>farmacèutica</text>
+        <comment>Senyora que ens dóna les medicines</comment>
+      </translation>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>venedora</text>
+        <comment>Senyora que treballa en una botiga</comment>
+      </translation>
+    </entry>
+    <entry id="21">
+      <translation id="0">
+        <text>veterinari</text>
+        <comment>Senyor que té cura de la salut dels animals</comment>
+      </translation>
+    </entry>
+    <entry id="22">
+      <translation id="0">
+        <text>carnisser</text>
+        <comment>Senyor que talla la carn</comment>
+      </translation>
+    </entry>
+    <entry id="23">
+      <translation id="0">
+        <text>dentista</text>
+        <comment>Metge o metgessa que soluciona problemes de les dents</comment>
+      </translation>
+    </entry>
+    <entry id="24">
+      <translation id="0">
+        <text>joier</text>
+        <comment>Senyor que fa joies</comment>
+      </translation>
+    </entry>
+    <entry id="25">
+      <translation id="0">
+        <text>científica</text>
+        <comment>Senyora que sap moltes coses de ciència</comment>
+      </translation>
+    </entry>
+    <entry id="26">
+      <translation id="0">
+        <text>pastor</text>
+        <comment>Senyor que guia les cabres o les ovelles per la muntanya</comment>
+      </translation>
+    </entry>
+    <entry id="27">
+      <translation id="0">
+        <text>paleta</text>
+        <comment>Senyor que construeix i arregla vivendes</comment>
+      </translation>
+    </entry>
+    <entry id="28">
+      <translation id="0">
+        <text>fuster</text>
+        <comment>Senyor que fabrica cadires, taules i finestres</comment>
+      </translation>
+    </entry>
+    <entry id="29">
+      <translation id="0">
+        <text>cuinera</text>
+        <comment>Senyora que prepara menjars en una cuina</comment>
+      </translation>
+    </entry>
+    <entry id="30">
+      <translation id="0">
+        <text>infermer</text>
+        <comment>Senyor que ajuda els metges, en un hospital</comment>
+      </translation>
+    </entry>
+    <entry id="31">
+      <translation id="0">
+        <text>perruquera</text>
+        <comment>Senyora que talla el cabell i pentina molt bé</comment>
+      </translation>
+    </entry>
+    <entry id="32">
+      <translation id="0">
+        <text>oculista</text>
+        <comment>Metge o metgessa que soluciona problemes de la vista</comment>
+      </translation>
+    </entry>
+    <entry id="33">
+      <translation id="0">
+        <text>fotògraf</text>
+        <comment>Senyor que fa fotografies</comment>
+      </translation>
+    </entry>
+    <entry id="34">
+      <translation id="0">
+        <text>dibuixant</text>
+        <comment>Persona que fa dibuixos per a llibres o còmics</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

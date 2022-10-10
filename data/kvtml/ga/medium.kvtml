@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Measartha</title>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>ga</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>inneall</text>
+        <comment>apparatus for applying mechanical power</comment>
+      </translation>
+      <translation id="1" >
+        <text>apparatus for applying mechanical power</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>seomra leapa</text>
+        <comment>a room for sleeping in</comment>
+      </translation>
+      <translation id="1" >
+        <text>a room for sleeping in</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>giúistís</text>
+        <comment>an official with authority to administer the law</comment>
+      </translation>
+      <translation id="1" >
+        <text>an official with authority to administer the law</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>giomnáisiam</text>
+        <comment>a building equipped for gymnastics</comment>
+      </translation>
+      <translation id="1" >
+        <text>a building equipped for gymnastics</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>coinne</text>
+        <comment>an arrangement to meet at a particular time</comment>
+      </translation>
+      <translation id="1" >
+        <text>an arrangement to meet at a particular time</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>antaibheathach</text>
+        <comment>a substance capable of destroying a bacteria</comment>
+      </translation>
+      <translation id="1" >
+        <text>a substance capable of destroying a bacteria</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>toscaireacht</text>
+        <comment>a body of delegates</comment>
+      </translation>
+      <translation id="1" >
+        <text>a body of delegates</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>poitigéir</text>
+        <comment>a person who is skilled in pharmacy</comment>
+      </translation>
+      <translation id="1" >
+        <text>a person who is skilled in pharmacy</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cáisbhorgaire</text>
+        <comment>a hamburger with cheese</comment>
+      </translation>
+      <translation id="1" >
+        <text>a hamburger with cheese</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>measúnacht</text>
+        <comment>the amount or value is fixed</comment>
+      </translation>
+      <translation id="1" >
+        <text>the amount or value is fixed</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>timpeallacht</text>
+        <comment>the things or conditions around</comment>
+      </translation>
+      <translation id="1" >
+        <text>the things or conditions around</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ollmhargadh</text>
+        <comment>a large self-service shop</comment>
+      </translation>
+      <translation id="1" >
+        <text>a large self-service shop</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>comhartha</text>
+        <comment>a sign to show the presence of something</comment>
+      </translation>
+      <translation id="1" >
+        <text>a sign to show the presence of something</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>faisnéis</text>
+        <comment>facts told or discovered</comment>
+      </translation>
+      <translation id="1" >
+        <text>facts told or discovered</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mionra</text>
+        <comment>a mixture used in pies</comment>
+      </translation>
+      <translation id="1" >
+        <text>a mixture used in pies</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>síniú</text>
+        <comment>a person's name written by himself</comment>
+      </translation>
+      <translation id="1" >
+        <text>a person's name written by himself</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>fonn</text>
+        <comment>a feeling of eager liking for something</comment>
+      </translation>
+      <translation id="1" >
+        <text>a feeling of eager liking for something</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lus súgach</text>
+        <comment>a plant whose young shoots are cooked and eaten as vegetable</comment>
+      </translation>
+      <translation id="1" >
+        <text>a plant whose young shoots are cooked and eaten as vegetable</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>gluais</text>
+        <comment>a list of words with their meanings</comment>
+      </translation>
+      <translation id="1" >
+        <text>a list of words with their meanings</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rialtas</text>
+        <comment>the organization governing a country</comment>
+      </translation>
+      <translation id="1" >
+        <text>the organization governing a country</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>grianán</text>
+        <comment>a greenhouse attached to a house</comment>
+      </translation>
+      <translation id="1" >
+        <text>a greenhouse attached to a house</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>grianghraf</text>
+        <comment>a picture formed by the chemical acvtion of light on a sensitive surface</comment>
+      </translation>
+      <translation id="1" >
+        <text>a picture formed by the chemical acvtion of light on a sensitive surface</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>intleacht</text>
+        <comment>mental ability</comment>
+      </translation>
+      <translation id="1" >
+        <text>mental ability</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lomaire faiche</text>
+        <comment>a machine for cuttin lawns</comment>
+      </translation>
+      <translation id="1" >
+        <text>a machine for cuttin lawns</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>uimhríocht</text>
+        <comment>the science of numbers</comment>
+      </translation>
+      <translation id="1" >
+        <text>the science of numbers</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ballraíocht</text>
+        <comment>being a member</comment>
+      </translation>
+      <translation id="1" >
+        <text>being a member</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>suaimhneas</text>
+        <comment>calm and undisturbed</comment>
+      </translation>
+      <translation id="1" >
+        <text>calm and undisturbed</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rannchuidiú</text>
+        <comment>given jointly with others</comment>
+      </translation>
+      <translation id="1" >
+        <text>given jointly with others</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>uaschamóg</text>
+        <comment>a punctuation mark</comment>
+      </translation>
+      <translation id="1" >
+        <text>a punctuation mark</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>siamsa</text>
+        <comment>for entertainments</comment>
+      </translation>
+      <translation id="1" >
+        <text>for entertainments</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>scáth báistí</text>
+        <comment>protect you from the rain</comment>
+      </translation>
+      <translation id="1" >
+        <text>protect you from the rain</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>soilsiú</text>
+        <comment>a decoration with lights</comment>
+      </translation>
+      <translation id="1" >
+        <text>a decoration with lights</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>milleagram</text>
+        <comment>one-thousandth of a gram</comment>
+      </translation>
+      <translation id="1" >
+        <text>one-thousandth of a gram</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>uisceadán</text>
+        <comment>a tank in which fish are kept for display</comment>
+      </translation>
+      <translation id="1" >
+        <text>a tank in which fish are kept for display</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mí-áireamh</text>
+        <comment>an incorrect count</comment>
+      </translation>
+      <translation id="1" >
+        <text>an incorrect count</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>daonáireamh</text>
+        <comment>the number of people</comment>
+      </translation>
+      <translation id="1" >
+        <text>the number of people</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>nuáil</text>
+        <comment>introduction of a new process</comment>
+      </translation>
+      <translation id="1" >
+        <text>introduction of a new process</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>leathfhocal</text>
+        <comment>an unpleasant insinuation</comment>
+      </translation>
+      <translation id="1" >
+        <text>an unpleasant insinuation</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sú talún</text>
+        <comment>a red fruit delicious with cream</comment>
+      </translation>
+      <translation id="1" >
+        <text>a red fruit delicious with cream</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>nia</text>
+        <comment>the son of your brother or sister</comment>
+      </translation>
+      <translation id="1" >
+        <text>the son of your brother or sister</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tuath</text>
+        <comment>rural areas</comment>
+      </translation>
+      <translation id="1" >
+        <text>rural areas</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cnuasach</text>
+        <comment>a set</comment>
+      </translation>
+      <translation id="1" >
+        <text>a set</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

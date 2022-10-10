@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>converter</generator>
+    <title>Transports</title>
+    <comment>Enginys per a traslladar-se d'un lloc a un altre</comment>
+    <date>2018-12-17</date>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Original</name>
+      <locale>ca</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>cotxe</text>
+        <comment>Per transportar de 4 a 5 persones amb equipatge</comment>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>moto</text>
+        <comment>Vehicle amb motor i dues rodes</comment>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>tren</text>
+        <comment>Circula per sobre d'una via</comment>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>avió</text>
+        <comment>Té dues ales i vola entre els núvols</comment>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>helicòpter</text>
+        <comment>Té una gran hèlix al capdamunt, i pot volar en vertical</comment>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>bicicleta</text>
+        <comment>Vehicle amb dues rodes, en què hauràs de pedalar</comment>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>tramvia</text>
+        <comment>Un tren que circula pel carrer</comment>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>ascensor</text>
+        <comment>Podràs pujar i baixar còmodament, dintre d'un edifici</comment>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>vaixell</text>
+        <comment>Podràs navegar pels mars i els oceans</comment>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>submarí</text>
+        <comment>Per viatjar a sota del mar</comment>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>tricicle</text>
+        <comment>Bicicleta de tres rodes, que fan servir els nens petits</comment>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>camió</text>
+        <comment>Per a transportar mercaderies</comment>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>autobús</text>
+        <comment>Per a transportar moltes persones totes juntes</comment>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>metro</text>
+        <comment>Un tren que va sota terra</comment>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>coet</text>
+        <comment>Per anar a la Lluna o a Mart</comment>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>canoa</text>
+        <comment>Embarcació petita, que avança fent força amb els rems</comment>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>ambulància</text>
+        <comment>Vehicle per al transport urgent a l'hospital</comment>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>furgoneta</text>
+        <comment>Per a transportar eines de treball i repartir mercaderies</comment>
+      </translation>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>tractor</text>
+        <comment>Vehicle per a realitzar feines de sembra o recolecció</comment>
+      </translation>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>monopatí</text>
+        <comment>Planxa de plàstic o de fusta, que va sobre rodes</comment>
+      </translation>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>monocicle</text>
+        <comment>Bicicleta amb una sola roda, usada pels artistes de circ</comment>
+      </translation>
+    </entry>
+    <entry id="21">
+      <translation id="0">
+        <text>llanxa</text>
+        <comment>Embarcació petita, amb motor</comment>
+      </translation>
+    </entry>
+    <entry id="22">
+      <translation id="0">
+        <text>avioneta</text>
+        <comment>Avió petit, per a trajectes curts</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

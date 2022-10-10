@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>ਕੱਪੜੇ</title>
+    <comment>ਇਨਸਾਨਾਂ ਦੇ ਪਾਉਣ ਵਾਲੀਆਂ ਵਸਤਾਂ</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>pa</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sneakers</text>
+        <comment>Athletic shoes</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ਬੂਟ</text>
+        <comment>ਕੰਮ ਉੱਤੇ ਪਾਉਣ ਵਾਲੇ ਜੁੱਤੇ</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ਪੈਂਟ</text>
+        <comment>Leg coverings</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>shorts</text>
+        <comment>Short leg coverings</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ਸਕਰਟ</text>
+        <comment>The bottom half of a dress</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ਡਰੈੱਸ</text>
+        <comment>A full-body covering</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>par</text>
+        <comment>A cold-weather full-body covering</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ਜੈਕਟ</text>
+        <comment>A light upper-body warmer</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ਕੋਟ</text>
+        <comment>Heavy upper-body covering</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ਹੈੱਟ</text>
+        <comment>A head covering</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ਟੋਬੋਗਨ</text>
+        <comment>Cold-weather head covering</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>earmuffs</text>
+        <comment>Ear warmer</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ਧੁੱਪ ਵਾਲਾ ਚਸ਼ਮਾ</text>
+        <comment>Sunny weather eyewear</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ਜੁਰਾਬਾਂ</text>
+        <comment>Foot protection</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ਸੈਂਡਲ</text>
+        <comment>Beach footwear</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ਦਸਤਾਨੇ</text>
+        <comment>Warmers for the hands</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ਬੈਲਟ</text>
+        <comment>Keeps your pants from falling down</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

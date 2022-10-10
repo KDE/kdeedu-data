@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Μεταφορές</title>
+    <comment>Τρόποι για να μετακινούμαστε</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>el</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>αυτοκίνητο</text>
+        <comment>Τετράτροχο όχημα</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μοτοσυκλέτα</text>
+        <comment>Μηχανοκίνητο δίτροχο όχημα</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τρένο</text>
+        <comment>Όχημα που μετακινείται σε ράγες</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>αεροπλάνο</text>
+        <comment>Μια ιπτάμενη μηχανή</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ελικόπτερο</text>
+        <comment>Σκάφος κάθετης απογείωσης</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ποδήλατο</text>
+        <comment>Ένα δίτροχο ανθρωποκίνητο όχημα</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τραμ</text>
+        <comment>Ένα ηλεκτρικό λεωφορείο</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ανελκυστήρας</text>
+        <comment>Ανεβαίνει, κατεβαίνει</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>πλοίο</text>
+        <comment>Ένα όχημα της θάλασσας</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>υποβρύχιο</text>
+        <comment>Για υποθαλάσσιες μεταφορές</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>τρόλεϊ</text>
+        <comment>Ανοιχτό λεωφορείο</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>φορτηγό</text>
+        <comment>Βαρέως τύπου με τέσσερις τροχούς</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>λεωφορείο</text>
+        <comment>Για τη μεταφορά πολλών ατόμων ταυτόχρονα</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μετρό</text>
+        <comment>Ένα υπόγειο τρένο</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μοτοποδήλατο</text>
+        <comment>Ένα δίτροχο σκούτερ</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ταχύπλοο</text>
+        <comment>Ένα γρήγορο θαλάσσιο όχημα</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>χιονοσκούτερ</text>
+        <comment>Μηχανοκίνητο μέσο μεταφοράς στο χιόνι</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>πατίνια</text>
+        <comment>Ρόδες δεμένες στα πόδια σας</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μονόκυκλο</text>
+        <comment>Μονότροχο που το συναντάμε συχνά στο τσίρκο</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>αεροσκάφος</text>
+        <comment>Γεμάτο με ένα αέριο ελαφρύτερο από τον αέρα</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

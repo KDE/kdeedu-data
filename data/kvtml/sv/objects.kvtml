@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Saker och ting</title>
+    <comment>Vardagliga saker i hemmet</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>en</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>teve</text>
+        <comment>skärm som visar rörliga bilder</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>stol</text>
+        <comment>möbel man sitter pĺ</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>frysbox</text>
+        <comment>Kallt, elektiskt drivet skĺp med dörr eller lĺda med lock för hĺllbar förvaring av mat i temperaturer under noll grader celcius</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kylskĺp</text>
+        <comment>kallt, elektiskt drivet skĺp för hĺllbar matförvaring av färskvaror i temperatur 0-4 grader celcius</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kastrull</text>
+        <comment>ställes pĺ spis för att koka mat i</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>öppen spis</text>
+        <comment>litet upphöjt utrymme med ventil där man kan ha en eld inomhus, antingen för uppvärmning, för att det är mysigt eller för matlagning.</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bord</text>
+        <comment>yta ungefär 75 cm ovanför golvet, upphĺllen av ett till fyra ben. Används som upphöjd golvyta.</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>byrĺ</text>
+        <comment>En uppsättning med lĺdor i en ställning, ofta med bordsliknande ovandel</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>spegel</text>
+        <comment>föremĺl med blank yta som reflekterar det som är framför den</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>klocka</text>
+        <comment>tidmätare</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>garderob</text>
+        <comment>skĺp för kläder</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bokhylla</text>
+        <comment>Hylla för att förvara böcker i</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>juicemixer</text>
+        <comment>hackar frukter och bär tills de fĺr flytande form</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>fĺtölj</text>
+        <comment>stor, vadderad, lĺg stol</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tvättställ</text>
+        <comment>automatiskt tömningsbar vattenbehĺllare som används för uppsamling av vatten frĺn en kran. Ofta används vattnet för att tvätta händer och ansikte i. </comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dusch</text>
+        <comment>speciell yta där man kan tvätta sig under sprutande vatten</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>badkar</text>
+        <comment>stor behĺllare för vatten i vilket människor badar med syfte att rengöra sig</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>stekpanna</text>
+        <comment>behĺllare för att steka mat i</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>telefon</text>
+        <comment>ett verbalt kommunikationsverktyg</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>element</text>
+        <comment>används för att värma upp boytor</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>radio</text>
+        <comment>tar emot och översätter elektromagnetiska signaler till ljud</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dator</text>
+        <comment>interaktivt elektroniskt verktyg</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>husdjur</text>
+        <comment>levande djur vars funktion är att hĺlla människor sällskap</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tavlor</text>
+        <comment>bilder i ram som man har pĺ väggen</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tandborste</text>
+        <comment>för att borsta tänderna med</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>matta</text>
+        <comment>tjock, vävd textil som ligger pĺ golv</comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>leksaker</text>
+        <comment>saker att leka med</comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>prydnader</text>
+        <comment>dekorativa föremĺl</comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>skĺp</text>
+        <comment>större förvaringsutrymme med dörr</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

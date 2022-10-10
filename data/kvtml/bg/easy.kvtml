@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>easy.kvtml</title>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>bg</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>маса</text>
+        <comment>Има четери крака и плосък плот</comment>
+      </translation>
+      <translation id="1" >
+        <text>Има четери крака и плосък плот</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>вода</text>
+        <comment>Служи за пиене, миене, пране, къпане и др. (H2O)</comment>
+      </translation>
+      <translation id="1" >
+        <text>Служи за пиене, миене, пране, къпане и др. (H2O)</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>река</text>
+        <comment>Течаща вода в една посока</comment>
+      </translation>
+      <translation id="1" >
+        <text>Течаща вода в една посока</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>езеро</text>
+        <comment>Много сладка вода, събрана на едно място</comment>
+      </translation>
+      <translation id="1" >
+        <text>Много сладка вода, събрана на едно място</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>море</text>
+        <comment>Много солена вода, събрана на едно място</comment>
+      </translation>
+      <translation id="1" >
+        <text>Много солена вода, събрана на едно място</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>архив</text>
+        <comment>Стари документи</comment>
+      </translation>
+      <translation id="1" >
+        <text>Стари документи</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>кухня</text>
+        <comment>Място където се готви</comment>
+      </translation>
+      <translation id="1" >
+        <text>Място където се готви</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>бира</text>
+        <comment>Светло нискоалкохолно питие, консумира се по време на футболен мач</comment>
+      </translation>
+      <translation id="1" >
+        <text>Светло нискоалкохолно питие, консумира се по време на футболен мач</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>баба</text>
+        <comment>Родител на Вашите родители</comment>
+      </translation>
+      <translation id="1" >
+        <text>Родител на Вашите родители</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>дядо</text>
+        <comment>Родител на Вашите родители</comment>
+      </translation>
+      <translation id="1" >
+        <text>Родител на Вашите родители</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>мама</text>
+        <comment>Един от родителите</comment>
+      </translation>
+      <translation id="1" >
+        <text>Един от родителите</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>татко</text>
+        <comment>Един от родителите</comment>
+      </translation>
+      <translation id="1" >
+        <text>Един от родителите</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>кола</text>
+        <comment>Автомобил</comment>
+      </translation>
+      <translation id="1" >
+        <text>Автомобил</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>колело</text>
+        <comment>Служи за превоз чрез въртене на педали</comment>
+      </translation>
+      <translation id="1" >
+        <text>Служи за превоз чрез въртене на педали</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>пари</text>
+        <comment>Монети и банкноти</comment>
+      </translation>
+      <translation id="1" >
+        <text>Монети и банкноти</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>такси</text>
+        <comment>Жълта кола, служи за превоз чрез заплащане</comment>
+      </translation>
+      <translation id="1" >
+        <text>Жълта кола, служи за превоз чрез заплащане</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>вечеря</text>
+        <comment>Вечерно ястие</comment>
+      </translation>
+      <translation id="1" >
+        <text>Вечерно ястие</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>обяд</text>
+        <comment>Обедно ястие</comment>
+      </translation>
+      <translation id="1" >
+        <text>Обедно ястие</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>закуска</text>
+        <comment>Сутрешно ястие</comment>
+      </translation>
+      <translation id="1" >
+        <text>Сутрешно ястие</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>буква</text>
+        <comment>Знак (част) от азбуката</comment>
+      </translation>
+      <translation id="1" >
+        <text>Знак (част) от азбуката</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>цвете</text>
+        <comment>Растение, което се подарява на празници</comment>
+      </translation>
+      <translation id="1" >
+        <text>Растение, което се подарява на празници</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>спалня</text>
+        <comment>Служи за спане</comment>
+      </translation>
+      <translation id="1" >
+        <text>Служи за спане</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>сирене</text>
+        <comment>Храна, която се прави от мляко</comment>
+      </translation>
+      <translation id="1" >
+        <text>Храна, която се прави от мляко</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>гора</text>
+        <comment>Много дървета</comment>
+      </translation>
+      <translation id="1" >
+        <text>Много дървета</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>легло</text>
+        <comment>Служи за спане</comment>
+      </translation>
+      <translation id="1" >
+        <text>Служи за спане</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>книга</text>
+        <comment>Продава се в книжарниците</comment>
+      </translation>
+      <translation id="1" >
+        <text>Продава се в книжарниците</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>мляко</text>
+        <comment>Пие се сутрин на закуска</comment>
+      </translation>
+      <translation id="1" >
+        <text>Пие се сутрин на закуска</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>кафе</text>
+        <comment>Тъмна, топла напитка</comment>
+      </translation>
+      <translation id="1" >
+        <text>Тъмна, топла напитка</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>тире</text>
+        <comment>Препинателен знак</comment>
+      </translation>
+      <translation id="1" >
+        <text>Препинателен знак</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>точка</text>
+        <comment>Препинателен знак, поставя се в края на изречението</comment>
+      </translation>
+      <translation id="1" >
+        <text>Препинателен знак, поставя се в края на изречението</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>уста</text>
+        <comment>С него говорим</comment>
+      </translation>
+      <translation id="1" >
+        <text>С него говорим</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>песен</text>
+        <comment>Изпято стихотворение</comment>
+      </translation>
+      <translation id="1" >
+        <text>Изпято стихотворение</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>радио</text>
+        <comment>Служи за слушане на новини и музика</comment>
+      </translation>
+      <translation id="1" >
+        <text>Служи за слушане на новини и музика</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>рокля</text>
+        <comment>Женска дреха</comment>
+      </translation>
+      <translation id="1" >
+        <text>Женска дреха</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>риза</text>
+        <comment>Мъжка дреха</comment>
+      </translation>
+      <translation id="1" >
+        <text>Мъжка дреха</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>сако</text>
+        <comment>Мъжка, официална дреха</comment>
+      </translation>
+      <translation id="1" >
+        <text>Мъжка, официална дреха</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>яке</text>
+        <comment>Връхна дреха</comment>
+      </translation>
+      <translation id="1" >
+        <text>Връхна дреха</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>азбука</text>
+        <comment>Множество от букви, които се използват в един език</comment>
+      </translation>
+      <translation id="1" >
+        <text>Множество от букви, които се използват в един език</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>чанта</text>
+        <comment>Нещо, в което се слагат покупки и други неща</comment>
+      </translation>
+      <translation id="1" >
+        <text>Нещо, в което се слагат покупки и други неща</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>раница</text>
+        <comment>Чанта, която се носи на гръб</comment>
+      </translation>
+      <translation id="1" >
+        <text>Чанта, която се носи на гръб</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ръка</text>
+        <comment>Част от човешкото тяло</comment>
+      </translation>
+      <translation id="1" >
+        <text>Част от човешкото тяло</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>глава</text>
+        <comment>Част от човешкото тяло</comment>
+      </translation>
+      <translation id="1" >
+        <text>Част от човешкото тяло</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>врата</text>
+        <comment>От там се влиза в помещение</comment>
+      </translation>
+      <translation id="1" >
+        <text>От там се влиза в помещение</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>изход</text>
+        <comment>Служи за излизане</comment>
+      </translation>
+      <translation id="1" >
+        <text>Служи за излизане</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="44" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>крушка</text>
+        <comment>Служи за осветление</comment>
+      </translation>
+      <translation id="1" >
+        <text>Служи за осветление</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="45" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>кораб</text>
+        <comment>Служи за предвижване по вода</comment>
+      </translation>
+      <translation id="1" >
+        <text>Служи за предвижване по вода</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="46" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>лодка</text>
+        <comment>Малък кораб</comment>
+      </translation>
+      <translation id="1" >
+        <text>Малък кораб</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="47" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>вятър</text>
+        <comment>Движение на въздуха</comment>
+      </translation>
+      <translation id="1" >
+        <text>Движение на въздуха</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="48" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>покрив</text>
+        <comment>Горна част на сграда</comment>
+      </translation>
+      <translation id="1" >
+        <text>Горна част на сграда</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="49" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>стена</text>
+        <comment>Странична част на сграда</comment>
+      </translation>
+      <translation id="1" >
+        <text>Странична част на сграда</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="50" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>стъкло</text>
+        <comment>Прозрачен материал</comment>
+      </translation>
+      <translation id="1" >
+        <text>Прозрачен материал</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="51" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>чаша</text>
+        <comment>Съд, от който се пие</comment>
+      </translation>
+      <translation id="1" >
+        <text>Съд, от който се пие</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="52" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ваза</text>
+        <comment>Съд, в който се поставят цветя</comment>
+      </translation>
+      <translation id="1" >
+        <text>Съд, в който се поставят цветя</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="53" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>вилица</text>
+        <comment>Прибор за хранене</comment>
+      </translation>
+      <translation id="1" >
+        <text>Прибор за хранене</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="54" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>село</text>
+        <comment>Малко, населено място</comment>
+      </translation>
+      <translation id="1" >
+        <text>Малко, населено място</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

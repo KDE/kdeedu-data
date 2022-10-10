@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>converter</generator>
+    <title>Fruites</title>
+    <comment>Aliments frescos i molt naturals</comment>
+    <date>2018-12-17</date>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Original</name>
+      <locale>ca</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>poma</text>
+        <comment>És rodoneta, i pot ser groga, verda o vermella</comment>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>albercoc</text>
+        <comment>Sembla un préssec petit</comment>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>plàtan</text>
+        <comment>És groc i allargat, l'hauràs de pelar abans de menjar-te'l</comment>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>móra</text>
+        <comment>És negra i petita, i la trobaràs a l'esbarzer si passeges a l'estiu</comment>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>maduixa</text>
+        <comment>Vermella i dolça, si la menges amb nata es deliciosa</comment>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>cirera</text>
+        <comment>Fruita vermella, que normalment trobaràs de dos en dos</comment>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>coco</text>
+        <comment>Té una closca marró i dura, però a dins la polpa és blanca i fresca</comment>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>síndria</text>
+        <comment>Per fora és una gran esfera verda, per dintre és roja i refrescant</comment>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>raïm</text>
+        <comment>La nit de cap d'any en menjaràs dotze baies</comment>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>pruna</text>
+        <comment>Té una pell molt suau, que pot ser morada, verda o groga</comment>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>kiwi</text>
+        <comment>Té una forma ovalada, la pell marró i l'interior verd</comment>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>llimona</text>
+        <comment>Fruita cítrica, de color groc i de sabor àcid</comment>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>pinya</text>
+        <comment>Fruita tropical</comment>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>mandarina</text>
+        <comment>Com una taronja, però més petita</comment>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>mango</text>
+        <comment>Fruita tropical, molt dolça</comment>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>pera</text>
+        <comment>Té la pell verda, i és molt dolça</comment>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>taronja</text>
+        <comment>Té molta vitamina C, i el seu nom també és el d'un color</comment>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>préssec</text>
+        <comment>Té la pell sedosa, i a l'estiu resulta molt refrescant</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

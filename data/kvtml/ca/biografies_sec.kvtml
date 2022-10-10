@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>converter</generator>
+    <title>Grans biografies</title>
+    <comment>Persones que han fet història</comment>
+    <date>2018-12-17</date>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Original</name>
+      <locale>ca</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>aristòtil</text>
+        <comment>Gran filòsof grec</comment>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>wagner</text>
+        <comment>Compositor alemany del segle XIX</comment>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>picasso</text>
+        <comment>Pintor nascut a Málaga, autor del Gernika</comment>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>colom</text>
+        <comment>Navegant que va descobrir un continent nou</comment>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>darwin</text>
+        <comment>Va escriure la teoria de l'evolució</comment>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>edison</text>
+        <comment>Va perfeccionar la bombeta</comment>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>einstein</text>
+        <comment>Va escriure la teoria de la relativitat</comment>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>fleming</text>
+        <comment>Descobridor de la penicil·lina</comment>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>galileu</text>
+        <comment>Va afirmar que la Terra girava al voltant del Sol</comment>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>gandhi</text>
+        <comment>Polític i pensador, defensor de la no violència</comment>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>plató</text>
+        <comment>Gran filòsof grec</comment>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>mandela</text>
+        <comment>Va ajudar a acabar amb l'Apartheid a Sud-Àfrica</comment>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>descartes</text>
+        <comment>Científic i filòsof francès, que va viure al segle XVII</comment>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>miquel àngel</text>
+        <comment>Pintor, escultor i arquitecte del segle XVI</comment>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>napoleó</text>
+        <comment>Militar i emperador francès</comment>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>newton</text>
+        <comment>Descobridor de la llei de la gravetat</comment>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>pasteur</text>
+        <comment>Inventor de la vacuna</comment>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>cleopatra</text>
+        <comment>Última reina d'Egipte, que va viure al segle I abans de Crist</comment>
+      </translation>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>àgatha christie</text>
+        <comment>La més gran escriptora de novel·les de misteri</comment>
+      </translation>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>marie curie</text>
+        <comment>Gran científica del segle XIX, que aconseguí dos premis Nobel</comment>
+      </translation>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>rosa luxemburg</text>
+        <comment>Important activista i defensora del socialisme en el segle XIX</comment>
+      </translation>
+    </entry>
+    <entry id="21">
+      <translation id="0">
+        <text>eva perón</text>
+        <comment>Primera dama de la política argentina, va viure al segle XX</comment>
+      </translation>
+    </entry>
+    <entry id="22">
+      <translation id="0">
+        <text>montessori</text>
+        <comment>Educadora i psicòloga, nascuda a finals del segle XIX</comment>
+      </translation>
+    </entry>
+    <entry id="23">
+      <translation id="0">
+        <text>maria antonieta</text>
+        <comment>La darrera reina de França</comment>
+      </translation>
+    </entry>
+    <entry id="24">
+      <translation id="0">
+        <text>mare teresa</text>
+        <comment>Va dedicar la seva vida als nens orfes de l'Índia</comment>
+      </translation>
+    </entry>
+    <entry id="25">
+      <translation id="0">
+        <text>joana d'arc</text>
+        <comment>Noieta que va comandar els exèrcits francesos al segle XV</comment>
+      </translation>
+    </entry>
+    <entry id="26">
+      <translation id="0">
+        <text>chaplin</text>
+        <comment>Gran actor i director de cinema, compromès amb la seva època</comment>
+      </translation>
+    </entry>
+    <entry id="27">
+      <translation id="0">
+        <text>pitàgores</text>
+        <comment>Gran matemàtic de la Grècia clàssica</comment>
+      </translation>
+    </entry>
+    <entry id="28">
+      <translation id="0">
+        <text>juli cèsar</text>
+        <comment>El més gran general i polític romà, del segle I abans de Crist</comment>
+      </translation>
+    </entry>
+    <entry id="29">
+      <translation id="0">
+        <text>mozart</text>
+        <comment>Possiblement el més gran compositor de tots els temps</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

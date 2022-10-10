@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Maison</title>
+    <comment>Mots relatifs à des objets se trouvant dans la maison</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>fr</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>chaise</text>
+        <comment>On s'assoit dessus</comment>
+      </translation>
+      <translation id="1" >
+        <text>On s'assoit dessus</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>fauteuil</text>
+        <comment>On s'assoit dedans</comment>
+      </translation>
+      <translation id="1" >
+        <text>On s'assoit dedans</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>casserole</text>
+        <comment>On cuit les aliments dedans</comment>
+      </translation>
+      <translation id="1" >
+        <text>On cuit les aliments dedans</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tabouret</text>
+        <comment>Chaise sans dossier</comment>
+      </translation>
+      <translation id="1" >
+        <text>Chaise sans dossier</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>fourchette</text>
+        <comment>Sert à piquer les aliments</comment>
+      </translation>
+      <translation id="1" >
+        <text>Sert à piquer les aliments</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>assiette</text>
+        <comment>On mange dedans</comment>
+      </translation>
+      <translation id="1" >
+        <text>On mange dedans</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>plante</text>
+        <comment>Décore la maison</comment>
+      </translation>
+      <translation id="1" >
+        <text>Décore la maison</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>chambre</text>
+        <comment>On y dort</comment>
+      </translation>
+      <translation id="1" >
+        <text>On y dort</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>douche</text>
+        <comment>L'eau qui en coule sert pour nous laver</comment>
+      </translation>
+      <translation id="1" >
+        <text>L'eau qui en coule sert pour nous laver</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>table</text>
+        <comment>On mange autour</comment>
+      </translation>
+      <translation id="1" >
+        <text>On mange autour</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mur</text>
+        <comment>On y accroche des tableaux</comment>
+      </translation>
+      <translation id="1" >
+        <text>On y accroche des tableaux</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>porte</text>
+        <comment>On l'ouvre et la ferme</comment>
+      </translation>
+      <translation id="1" >
+        <text>On l'ouvre et la ferme</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bureau</text>
+        <comment>On y travaille</comment>
+      </translation>
+      <translation id="1" >
+        <text>On y travaille</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>évier</text>
+        <comment>Pour laver les ustensiles</comment>
+      </translation>
+      <translation id="1" >
+        <text>Pour laver les ustensiles</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bibliothèque</text>
+        <comment>Les livres y sont rangés</comment>
+      </translation>
+      <translation id="1" >
+        <text>Les livres y sont rangés</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>télévision</text>
+        <comment>On la regarde pour se distraire</comment>
+      </translation>
+      <translation id="1" >
+        <text>On la regarde pour se distraire</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cuisine</text>
+        <comment>On y prépare les repas</comment>
+      </translation>
+      <translation id="1" >
+        <text>On y prépare les repas</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cuillère</text>
+        <comment>Sert à manger</comment>
+      </translation>
+      <translation id="1" >
+        <text>Sert à manger</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>couteau</text>
+        <comment>Sert à couper</comment>
+      </translation>
+      <translation id="1" >
+        <text>Sert à couper</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>verre</text>
+        <comment>On boit dedans</comment>
+      </translation>
+      <translation id="1" >
+        <text>On boit dedans</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>serviette</text>
+        <comment>On le met autour du cou</comment>
+      </translation>
+      <translation id="1" >
+        <text>On le met autour du cou</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>baignoire</text>
+        <comment>On la remplit d'eau pour se laver</comment>
+      </translation>
+      <translation id="1" >
+        <text>On la remplit d'eau pour se laver</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>canapé</text>
+        <comment>Confortable pour s'assoir dedans</comment>
+      </translation>
+      <translation id="1" >
+        <text>Confortable pour s'assoir dedans</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

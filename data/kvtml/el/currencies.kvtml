@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Νομίσματα</title>
+    <comment>Νομίσματα του σύγχρονου κόσμου</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>el</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>δηνάριο</text>
+        <comment>Αλγερία, Μπαχρέιν, Κουβέιτ, κλπ.</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>δολάριο</text>
+        <comment>ΗΠΑ, Καναδάς, Αυστραλία, κλπ.</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>δραχμή</text>
+        <comment>Ελλάδα (μέχρι το 2002)</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ευρώ</text>
+        <comment>17 χώρες τις Ευρωπαϊκής Ένωσης, κλπ.</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>φράγκο</text>
+        <comment>Γαλλία (μέχρι το 1998), Ελβετία, κλπ.</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>φιορίνι</text>
+        <comment>Ολλανδία (μέχρι το 1998)</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>κορώνα</text>
+        <comment>Τσεχία, Σλοβακία (μέχρι το 2008)</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>κορώνα</text>
+        <comment>Σουηδία</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>κορώνα</text>
+        <comment>Δανία, Γριλανδία, Νορβηγία</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>λίρα</text>
+        <comment>Ιταλία (μέχρι το 1998)</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μάρκο</text>
+        <comment>Γερμανία (μέχρι το 1998)</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>πεσέτα</text>
+        <comment>Ισπανία (μέχρι το 2002)</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>πέσο</text>
+        <comment>Αργετινή, Χιλή, Μεξικό, Κούβα, Κολομβία, κλπ.</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>λίρα</text>
+        <comment>Ην. Βασίλειο, Κύπρος (μέχρι το 2008), Αίγυπτος, κλπ.</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ραντ</text>
+        <comment>Νότιος Αφρική</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>γιουάν</text>
+        <comment>Κίνα</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ρούβλι</text>
+        <comment>Ρωσία, Λευκορωσία, κλπ.</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ρουπία</text>
+        <comment>Ινδία, Πακιστάν, Σρι Λάνκα, κλπ.</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>σελίνι</text>
+        <comment>Κένυα, Τανζανία, κλπ.</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>γιεν</text>
+        <comment>Ιαπωνία</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ζλότι</text>
+        <comment>Πολωνία</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

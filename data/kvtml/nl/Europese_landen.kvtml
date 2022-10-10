@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Europese landen</title><!--Translate tag content-->
+    <comment>Namen van Europese landen en gebieden, en hun hoofdsteden</comment><!--Translate tag content-->
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>nl</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun:male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun:female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun:neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>verb:regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>verb:irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Alandseilanden</text><!--Translate all text tags content-->
+        <comment>Autonome Finse eilandengroep</comment><!--Translate all comment tags content-->
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Mariehamn</text>
+        <comment>Hoofdstad van de Alandseilanden</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Albanie</text>
+        <comment>Republiek in het westen van het Balkan-schiereiland</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Tirana</text>
+        <comment>Hoofdstad van Albanie</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Alderney</text>
+        <comment>Autonoom Brits kanaaleiland</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Andorra</text>
+        <comment>Vorstendom gelegen in de Pyreneeën</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Andorra la Vella</text>
+        <comment>Hoofdstad van Andorra</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Azerbeidzjan</text>
+        <comment>Islamitisch land in de Kaukasus</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Bakoe</text>
+        <comment>Hoofdstad van Azerbeidzjan</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Belgie</text>
+        <comment>Koninkrijk ten zuiden van Nederland</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Brussel</text>
+        <comment>Hoofdstad van België</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Bosnie en Herzegovina</text>
+        <comment>Repliek afkomstig uit voormalig Joegoslavië</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Sarajevo</text>
+        <comment>Hoofdstad van Bosnië en Herzegovina</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Bulgarije</text>
+        <comment>Republiek in het oosten van de Balkan</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Sofia</text>
+        <comment>Hoofdstad van Bulgarije</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Denemarken</text>
+        <comment>Scandinavisch koninkrijk ten noorden van Duitsland</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Kopenhagen</text>
+        <comment>Hoofdstad van Denemarken</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Duitsland</text>
+        <comment>Federale republiek uit midden-Europa</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Berlijn</text>
+        <comment>Hoofdstad van Duitsland</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Engeland</text>
+        <comment>Voormalig koninkrijk in het zuiden van Groot-Brittannië</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Londen</text>
+        <comment>Hoofdstad van Engeland</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Estland</text>
+        <comment>Kleinste van de 3 Baltische landen</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Tallinn</text>
+        <comment>Hoofdstad van Estland</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Faeroer</text>
+        <comment>Deense eilandengroep met vergaande zelfbestuur</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Torshavn</text>
+        <comment>Hoofdstad van Faeröer</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Finland</text>
+        <comment>Noord-Europees land ten oosten van Zweden</comment>
+      </translation>
+    </entry>
+<entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Helsinki</text>
+        <comment>Hoofdstad van Finland</comment>
+      </translation>
+    </entry>
+<entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Frankrijk</text>
+        <comment>Republiek gelegen tussen België en Spanje</comment>
+      </translation>
+    </entry>
+<entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Parijs</text>
+        <comment>Hoofdstad van Frankrijk</comment>
+      </translation>
+    </entry>
+<entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Gibraltar</text>
+        <comment>Overzees gebiedsdeel van het Verenigd Koninkrijk</comment>
+      </translation>
+    </entry>
+<entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Gibraltar</text>
+        <comment>Hoofdstad van Gibraltar</comment>
+      </translation>
+    </entry>
+<entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Georgie</text>
+        <comment>Dit land ligt geografisch gezien voor het grootste deel in Azië</comment>
+      </translation>
+    </entry>
+<entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Tbilisi</text>
+        <comment>Hoofdstad van Georgië</comment>
+      </translation>
+    </entry>
+<entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Griekenland</text>
+        <comment>Zuidelijkste land op het Balkanschiereiland</comment>
+      </translation>
+    </entry>
+<entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Athene</text>
+        <comment>Hoofdstad van Griekenland</comment>
+      </translation>
+    </entry>
+<entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Guernsey</text>
+        <comment>Autonoom Brits kanaaleiland</comment>
+      </translation>
+    </entry>
+<entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Saint Peter Port</text>
+        <comment>Hoofdstad van Guernsey</comment>
+      </translation>
+    </entry>
+<entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Hongarije</text>
+        <comment>Centraal-Europees land dat wordt doorsneden door de Donau</comment>
+      </translation>
+    </entry>
+<entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Boedapest</text>
+        <comment>Hoofdstad van Hongarije</comment>
+      </translation>
+    </entry>
+<entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Ierland</text>
+        <comment>Republiek ten westen van Groot-Brittannië</comment>
+      </translation>
+    </entry>
+<entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Dublin</text>
+        <comment>Hoofdstad van Ierland</comment>
+      </translation>
+    </entry>
+<entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>IJsland</text>
+        <comment>Eiland tussen Groenland en het vaste land van Europa</comment>
+      </translation>
+    </entry>
+<entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Reykjavik</text>
+        <comment>Hoofdstad van IJsland</comment>
+      </translation>
+    </entry>
+<entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Finland</text>
+        <comment>Noord-Europees land ten oosten van Zweden</comment>
+      </translation>
+    </entry>
+<entry id="44" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Italie</text>
+        <comment>Zuid-Europees land in de vorm van een laars</comment>
+      </translation>
+    </entry>
+<entry id="45" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Rome</text>
+        <comment>Hoofdstad van Italië</comment>
+      </translation>
+    </entry>
+<entry id="46" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Jan Mayen</text>
+        <comment>Noors vulkanisch eiland in de Noordelijke IJszee</comment>
+      </translation>
+    </entry>
+<entry id="47" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Jersey</text>
+        <comment>Autonoom Brits kanaaleiland</comment>
+      </translation>
+    </entry>
+<entry id="48" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Saint Helier</text>
+        <comment>Hoofdstad van Jersey</comment>
+      </translation>
+    </entry>
+<entry id="49" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Kazachstan</text>
+        <comment>Aziatisch land waarvan de westelijke strook in Europa ligt</comment>
+      </translation>
+    </entry>
+<entry id="50" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Kroatie</text>
+        <comment>Voormalig Joegoslavisch land langs de kustlijn van de Adriatische Zee</comment>
+      </translation>
+    </entry>
+<entry id="51" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Zagreb</text>
+        <comment>Hoofdstad van Kroatië</comment>
+      </translation>
+    </entry>
+<entry id="52" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Letland</text>
+        <comment>Middelste van de 3 Baltische landen</comment>
+      </translation>
+    </entry>
+<entry id="53" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Riga</text>
+        <comment>Hoofdstad van Letland</comment>
+      </translation>
+    </entry>
+<entry id="54" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Liechtenstein</text>
+        <comment>Vorstendom tussen Zwitserland en Oostenrijk</comment>
+      </translation>
+    </entry>
+<entry id="55" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Vaduz</text>
+        <comment>Hoofdstad van Liechtenstein</comment>
+      </translation>
+    </entry>
+<entry id="56" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Litouwen</text>
+        <comment>Zuidelijkste van de 3 Baltische landen</comment>
+      </translation>
+    </entry>
+<entry id="57" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Vilnius</text>
+        <comment>Hoofdstad van Litouwen</comment>
+      </translation>
+    </entry>
+<entry id="58" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Luxemburg</text>
+        <comment>Groothertogdom tussen België, Frankrijk en Duitsland</comment>
+      </translation>
+    </entry>
+<entry id="59" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Luxemburg</text>
+        <comment>Hoofdstad van Luxemburg</comment>
+      </translation>
+    </entry>
+<entry id="60" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Macedonie</text>
+        <comment>Voormalig Joegoslavische republiek ten noorden van Griekenland</comment>
+      </translation>
+    </entry>
+<entry id="61" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Skopje</text>
+        <comment>Hoofdstad van Macedonië</comment>
+      </translation>
+    </entry>
+<entry id="62" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Man</text>
+        <comment>Autonoom Brits eiland in de Ierse Zee</comment>
+      </translation>
+    </entry>
+<entry id="63" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Douglas</text>
+        <comment>Hoofdstad van het eiland Man</comment>
+      </translation>
+    </entry>
+<entry id="64" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Malta</text>
+        <comment>Dwergstaat gelegen in de Middellandse Zee</comment>
+      </translation>
+    </entry>
+<entry id="65" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Valletta</text>
+        <comment>Hoofdstad van Malta</comment>
+      </translation>
+    </entry>
+<entry id="66" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Moldavie</text>
+        <comment>Zuid-Europese republiek gelegen tussen Roemenië en Oekraïne</comment>
+      </translation>
+    </entry>
+<entry id="67" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Chisinau</text>
+        <comment>Hoofdstad van Moldavië</comment>
+      </translation>
+    </entry>
+<entry id="68" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Monaco</text>
+        <comment>Vorstendom gelegen in Frankrijk aan de kust van de Middellandse Zee</comment>
+      </translation>
+    </entry>
+<entry id="69" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Montenegro</text>
+        <comment>Voormalig Joegoslavische republiek, gelegen tussen  Bosnië en Herzegovina en Albanië </comment>
+      </translation>
+    </entry>
+<entry id="70" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Podgorica</text>
+        <comment>Hoofdstad van Montenegro</comment>
+      </translation>
+    </entry>
+<entry id="71" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Nederland</text>
+        <comment>Koninkrijk ten westen van Duitsland en ten noorden van België</comment>
+      </translation>
+    </entry>
+<entry id="72" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Amsterdam</text>
+        <comment>Hoofdstad van Nederland</comment>
+      </translation>
+    </entry>
+<entry id="73" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Noord-Ierland</text>
+        <comment>Gebiedsdeel van het Verenigd Koninkrijk dat in het noorden van het eiland Ierland ligt</comment>
+      </translation>
+    </entry>
+<entry id="74" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Belfast</text>
+        <comment>Hoofdstad van Noord-Ierland</comment>
+      </translation>
+    </entry>
+<entry id="75" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Noorwegen</text>
+        <comment>Scandinavisch koninkrijk ten westen van Zweden</comment>
+      </translation>
+    </entry>
+<entry id="76" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Oslo</text>
+        <comment>Hoofdstad van Noorwegen</comment>
+      </translation>
+    </entry>
+<entry id="77" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Oekraine</text>
+        <comment>Oost-Europees land, ten noorden van de Zwarte Zee</comment>
+      </translation>
+    </entry>
+<entry id="78" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Kiev</text>
+        <comment>Hoofdstad van Oekraïne</comment>
+      </translation>
+    </entry>
+<entry id="79" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Oostenrijk</text>
+        <comment>Midden-Europese republiek ten oosten van Zwitserland</comment>
+      </translation>
+    </entry>
+<entry id="80" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Wenen</text>
+        <comment>Hoofdstad van Oostenrijk</comment>
+      </translation>
+    </entry>
+<entry id="81" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Polen</text>
+        <comment>Midden-Europees land tussen Duitsland en Wit-Rusland</comment>
+      </translation>
+    </entry>
+<entry id="82" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Warschau</text>
+        <comment>Hoofdstad van Polen</comment>
+      </translation>
+    </entry>
+<entry id="83" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Portugal</text>
+        <comment>Meestwestelijke land van continentaal Europa, gesitueerd op het Iberisch Schiereiland </comment>
+      </translation>
+    </entry>
+<entry id="84" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Lissabon</text>
+        <comment>Hoofdstad van Portugal</comment>
+      </translation>
+    </entry>
+<entry id="85" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Roemenie</text>
+        <comment>Oost-Europees land, grenzend aan de Zwarte Zee</comment>
+      </translation>
+    </entry>
+<entry id="86" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Boekarest</text>
+        <comment>Hoofdstad van Roemenië</comment>
+      </translation>
+    </entry>
+<entry id="87" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Rusland</text>
+        <comment>Federale republiek die gedeeltelijk in Europa en gedeeltelijk in Azië ligt</comment>
+      </translation>
+    </entry>
+<entry id="88" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Moskou</text>
+        <comment>Hoofdstad van Rusland</comment>
+      </translation>
+    </entry>
+<entry id="89" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Sark</text>
+        <comment>Autonoom Brits kanaaleiland</comment>
+      </translation>
+    </entry>
+<entry id="90" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Schotland</text>
+        <comment>Voormalig koninkrijk in het noorden van Groot-Brittannië</comment>
+      </translation>
+    </entry>
+<entry id="91" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Edinburgh</text>
+        <comment>Hoofdstad van Schotland</comment>
+      </translation>
+    </entry>
+<entry id="92" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>San Marino</text>
+        <comment>Dwergstaat in Centraal-Italië</comment>
+      </translation>
+    </entry>
+<entry id="93" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>San Marino</text>
+        <comment>Hoofdstad van San Marino</comment>
+      </translation>
+    </entry>
+<entry id="94" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Servie</text>
+        <comment>Voormalige Joegoslavische republiek</comment>
+      </translation>
+    </entry>
+<entry id="95" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Belgrado</text>
+        <comment>Hoofdstad van Servië</comment>
+      </translation>
+    </entry>
+<entry id="96" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Slovenie</text>
+        <comment>Midden-Europees land aan de zuidrand van de Alpen, voormalige Joegoslavische republiek</comment>
+      </translation>
+    </entry>
+<entry id="97" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Ljubljana</text>
+        <comment>Hoofdstad van Slovenië</comment>
+      </translation>
+    </entry>
+<entry id="98" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Slowakije</text>
+        <comment>Centraal-Europese republiek, sinds 1993 onafhankelijk</comment>
+      </translation>
+    </entry>
+<entry id="99" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Bratislava</text>
+        <comment>Hoofdstad van Slowakijke</comment>
+      </translation>
+    </entry>
+<entry id="100" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Spanje</text>
+        <comment>Koninkrijk op het Iberisch Schiereiland</comment>
+      </translation>
+    </entry>
+<entry id="101" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Spitsbergen</text>
+        <comment>Archipel in de Noordelijke IJszee dat onder Noors toezicht staat</comment>
+      </translation>
+    </entry>
+<entry id="102" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Longyearbyen</text>
+        <comment>Hoofdstad van Spitsbergen</comment>
+      </translation>
+    </entry>
+<entry id="103" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Tsjechie</text>
+        <comment>Centraal-Europese republiek, ten oosten van Duitsland en ten zuiden van Polen</comment>
+      </translation>
+    </entry>
+<entry id="102" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Praag</text>
+        <comment>Hoofdstad van Tsjechië</comment>
+      </translation>
+    </entry>
+<entry id="103" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Turkije</text>
+        <comment>Republiek gelegen op het schiereiland Anatolië</comment>
+      </translation>
+    </entry>
+<entry id="104" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Ankara</text>
+        <comment>Hoofdstad van Turkije</comment>
+      </translation>
+    </entry>
+<entry id="105" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Vaticaanstad</text>
+        <comment>Kleinste onafhankelijke staat, met de Paus als staatshoofd</comment>
+      </translation>
+    </entry>
+<entry id="106" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Verenigd Koninkrijk</text>
+        <comment>Koninkrijk bestaande uit Engeland, Schotland, Wales en Noord-Ierland</comment>
+      </translation>
+    </entry>
+<entry id="107" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Londen</text>
+        <comment>Hoofdstad van het Verenigd Koninkrijk</comment>
+      </translation>
+    </entry>
+<entry id="108" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Wales</text>
+        <comment>Voormalig vorstendom in het westen van Groot-Brittannië</comment>
+      </translation>
+    </entry>
+<entry id="109" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Cardiff</text>
+        <comment>Hoofdstad van Wales</comment>
+      </translation>
+    </entry>
+<entry id="110" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Wit-Rusland</text>
+        <comment>Oost-Europese republiek, ten noorden van Oekraïne</comment>
+      </translation>
+    </entry>
+<entry id="111" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Minsk</text>
+        <comment>Hoofdstad van Wit-Rusland</comment>
+      </translation>
+    </entry>
+<entry id="112" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Zweden</text>
+        <comment>Scandinavisch koninkrijk ten westen van Finland</comment>
+      </translation>
+    </entry>
+<entry id="113" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Stockholm</text>
+        <comment>Hoofdstad van Zweden</comment>
+      </translation>
+    </entry>
+<entry id="114" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Zwitserland</text>
+        <comment>Confederale staat in Midden-Europa</comment>
+      </translation>
+    </entry>
+<entry id="115" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Bern</text>
+        <comment>Hoofdstad van Zwitserland</comment>
+      </translation>
+    </entry>
+<entry id="116" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Madrid</text>
+        <comment>Hoofdstad van Spanje</comment>
+      </translation>
+    </entry>
+
+  </entries>
+</kvtml>

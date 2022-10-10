@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>converter</generator>
+    <title>Animals</title>
+    <comment>Animals d'arreu del planeta</comment>
+    <date>2018-12-17</date>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Original</name>
+      <locale>ca</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>ós</text>
+        <comment>Animal gran i pesant, que es passa l'hivern dormint</comment>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>dofí</text>
+        <comment>Mamífer marí a qui li agarada jugar</comment>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>ós panda</text>
+        <comment>Mamífer de color blanc i negre, que menja canyes de bambú</comment>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>formiga</text>
+        <comment>Petit insecte que treballa sota les ordres d'una reina</comment>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>abella</text>
+        <comment>Petit insecte volador, que fabrica mel</comment>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>gat</text>
+        <comment>Animal domèstic que persegueix ratolins</comment>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>burro</text>
+        <comment>Mamífer semblant al cavall, que viu a la granja</comment>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>porc</text>
+        <comment>Animal de granja que fa molta pudor</comment>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>foca</text>
+        <comment>Mamífer aquàtic que viu en grans grups</comment>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>coala</text>
+        <comment>Animal australià, que menja fulla d'eucaliptus i s'enfila als arbres</comment>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>aranya</text>
+        <comment>Animaló de vuit potes, que caça insectes amb una tela enganxosa</comment>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>pantera</text>
+        <comment>Gran animal de la família dels gats, de color negre</comment>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>ratpenat</text>
+        <comment>Mamífer volador</comment>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>marieta</text>
+        <comment>Insecte vermell amb taques negres, que veiem a la primavera</comment>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>papallona</text>
+        <comment>Insecte volador de molts colors, que veiem a la primavera</comment>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>guineu</text>
+        <comment>Animal semblant al llop, que menja gallines</comment>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>mussol</text>
+        <comment>Ocell que vigila durant tota la nit</comment>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>zebra</text>
+        <comment>Semblant al cavall, té ratlles blanques i negres</comment>
+      </translation>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>cangur</text>
+        <comment>Animal que porta les cries en una mena de bossa, a la seva panxa</comment>
+      </translation>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>balena</text>
+        <comment>Mamífer marí,­ molt gran</comment>
+      </translation>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>cavall</text>
+        <comment>Animal de quatre potes que es fa servir per muntar</comment>
+      </translation>
+    </entry>
+    <entry id="21">
+      <translation id="0">
+        <text>mico</text>
+        <comment>Molt semblant als humans, però amb el cos ple de pèl</comment>
+      </translation>
+    </entry>
+    <entry id="22">
+      <translation id="0">
+        <text>pica-soques</text>
+        <comment>Ocell que fa forats a la fusta</comment>
+      </translation>
+    </entry>
+    <entry id="23">
+      <translation id="0">
+        <text>serp</text>
+        <comment>Rèptil sense potes</comment>
+      </translation>
+    </entry>
+    <entry id="24">
+      <translation id="0">
+        <text>girafa</text>
+        <comment>Animal africà, de coll llarg</comment>
+      </translation>
+    </entry>
+    <entry id="25">
+      <translation id="0">
+        <text>elefant</text>
+        <comment>L'animal terrestre més gran, amb trompa</comment>
+      </translation>
+    </entry>
+    <entry id="26">
+      <translation id="0">
+        <text>ratolí­</text>
+        <comment>Petit rosegador, amb una cua llarga</comment>
+      </translation>
+    </entry>
+    <entry id="27">
+      <translation id="0">
+        <text>cuc</text>
+        <comment>Animal sense esquelet ni extremitats, que s'arrossega</comment>
+      </translation>
+    </entry>
+    <entry id="28">
+      <translation id="0">
+        <text>libèl·lula</text>
+        <comment>Gran insecte, amb ales transparents</comment>
+      </translation>
+    </entry>
+    <entry id="29">
+      <translation id="0">
+        <text>pingüí</text>
+        <comment>Ocell marí, que viu a llocs molt freds</comment>
+      </translation>
+    </entry>
+    <entry id="30">
+      <translation id="0">
+        <text>conill</text>
+        <comment>Animal d'orelles llargues, que menja pastanaga</comment>
+      </translation>
+    </entry>
+    <entry id="31">
+      <translation id="0">
+        <text>hàmster</text>
+        <comment>Petit animalet semblant al ratolí, que es pot tenir com a mascota</comment>
+      </translation>
+    </entry>
+    <entry id="32">
+      <translation id="0">
+        <text>llop</text>
+        <comment>Animal salvatge que viu al bosc, de la famí­lia del gos</comment>
+      </translation>
+    </entry>
+    <entry id="33">
+      <translation id="0">
+        <text>lleó</text>
+        <comment>Poderós animal de la famí­lia dels gats, que viu a l'Àfrica</comment>
+      </translation>
+    </entry>
+    <entry id="34">
+      <translation id="0">
+        <text>tigre</text>
+        <comment>Gran animal asiàtic, de la famí­lia dels gats</comment>
+      </translation>
+    </entry>
+    <entry id="35">
+      <translation id="0">
+        <text>pop</text>
+        <comment>Animal marí­ amb vuit llargs tentacles</comment>
+      </translation>
+    </entry>
+    <entry id="36">
+      <translation id="0">
+        <text>rinoceront</text>
+        <comment>Gran animal africà, que té una banya sobre el nas</comment>
+      </translation>
+    </entry>
+    <entry id="37">
+      <translation id="0">
+        <text>eriçó</text>
+        <comment>Petit mamí­fer amb l'esquena plena de punxes</comment>
+      </translation>
+    </entry>
+    <entry id="38">
+      <translation id="0">
+        <text>ren</text>
+        <comment>Espècie de cèrvol, que ajuda el Pare Noel</comment>
+      </translation>
+    </entry>
+    <entry id="39">
+      <translation id="0">
+        <text>esquirol</text>
+        <comment>Petit animaló de cua molt peluda, que salta pels arbres</comment>
+      </translation>
+    </entry>
+    <entry id="40">
+      <translation id="0">
+        <text>tortuga</text>
+        <comment>Rèptil amb closca, i de moviments molt lents</comment>
+      </translation>
+    </entry>
+    <entry id="41">
+      <translation id="0">
+        <text>hipopòtam</text>
+        <comment>Gran animal africà, que viu als rius</comment>
+      </translation>
+    </entry>
+    <entry id="42">
+      <translation id="0">
+        <text>dinosaure</text>
+        <comment>Rèptil extingit, molt i molt gran</comment>
+      </translation>
+    </entry>
+    <entry id="43">
+      <translation id="0">
+        <text>àliga</text>
+        <comment>Gran au caçadora</comment>
+      </translation>
+    </entry>
+    <entry id="44">
+      <translation id="0">
+        <text>tauró</text>
+        <comment>Gran animal marí­ amb una aleta triangular</comment>
+      </translation>
+    </entry>
+    <entry id="45">
+      <translation id="0">
+        <text>ànec</text>
+        <comment>Ocell que neda als estanys</comment>
+      </translation>
+    </entry>
+    <entry id="46">
+      <translation id="0">
+        <text>peix</text>
+        <comment>Viu a l'aigua, i fa servir les aletes per nedar</comment>
+      </translation>
+    </entry>
+    <entry id="47">
+      <translation id="0">
+        <text>lloro</text>
+        <comment>Ocell que pot repetir allò que li diguis</comment>
+      </translation>
+    </entry>
+    <entry id="48">
+      <translation id="0">
+        <text>granota</text>
+        <comment>Petit animaló de color verd, que menja mosquits</comment>
+      </translation>
+    </entry>
+    <entry id="49">
+      <translation id="0">
+        <text>cargol</text>
+        <comment>Després d'un dia de pluja, surt de la closca i se'n va a passejar</comment>
+      </translation>
+    </entry>
+    <entry id="50">
+      <translation id="0">
+        <text>camell</text>
+        <comment>Pot sobreviure molt de temps al desert</comment>
+      </translation>
+    </entry>
+    <entry id="51">
+      <translation id="0">
+        <text>capgròs</text>
+        <comment>cria de la granota, que encara no té potes</comment>
+      </translation>
+    </entry>
+    <entry id="52">
+      <translation id="0">
+        <text>mosquit</text>
+        <comment>Petit insecte volador, que molesta a la nit</comment>
+      </translation>
+    </entry>
+    <entry id="53">
+      <translation id="0">
+        <text>ovella</text>
+        <comment>Animal que ens dóna llana, i sempre va en grup</comment>
+      </translation>
+    </entry>
+    <entry id="54">
+      <translation id="0">
+        <text>cranc</text>
+        <comment>Animal aquàtic amb cuirassa</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

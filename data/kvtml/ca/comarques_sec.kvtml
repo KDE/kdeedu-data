@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>converter</generator>
+    <title>Comarques</title>
+    <comment>Capitals de les comarques catalanes</comment>
+    <date>2018-12-17</date>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Original</name>
+      <locale>ca</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>valls</text>
+        <comment>Capital de l'Alt Camp</comment>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>figueres</text>
+        <comment>Capital de l'Alt Empordà</comment>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>vilafranca</text>
+        <comment>Capital de l'Alt Penedès</comment>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>seu d'urgell</text>
+        <comment>Capital de l'Alt Urgell</comment>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>pont de suert</text>
+        <comment>Capital de l'Alta Ribagorça</comment>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>igualada</text>
+        <comment>Capital de l'Anoia</comment>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>manresa</text>
+        <comment>Capital del Bages</comment>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>reus</text>
+        <comment>Capital del Baix Camp</comment>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>tortosa</text>
+        <comment>Capital del Baix Ebre</comment>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>la bisbal</text>
+        <comment>Capital del Baix Empordà</comment>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>sant feliu</text>
+        <comment>Capital del Baix Llobregat</comment>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>el vendrell</text>
+        <comment>Capital del Baix Penedès</comment>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>barcelona</text>
+        <comment>Capital del Barcelonès</comment>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>berga</text>
+        <comment>Capital del Berguedà</comment>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>puigcerdà</text>
+        <comment>Capital de la Cerdanya</comment>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>montblanc</text>
+        <comment>Capital de la Conca de Barberà</comment>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>vilanova</text>
+        <comment>Capital del Garraf</comment>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>borges blanques</text>
+        <comment>Capital de les Garrigues</comment>
+      </translation>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>olot</text>
+        <comment>Capital de la Garrotxa</comment>
+      </translation>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>girona</text>
+        <comment>Capital del Gironès</comment>
+      </translation>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>mataró</text>
+        <comment>Capital del Maresme</comment>
+      </translation>
+    </entry>
+    <entry id="21">
+      <translation id="0">
+        <text>amposta</text>
+        <comment>Capital del Montsià</comment>
+      </translation>
+    </entry>
+    <entry id="22">
+      <translation id="0">
+        <text>balaguer</text>
+        <comment>Capital de la Noguera</comment>
+      </translation>
+    </entry>
+    <entry id="23">
+      <translation id="0">
+        <text>vic</text>
+        <comment>Capital d'Osona</comment>
+      </translation>
+    </entry>
+    <entry id="24">
+      <translation id="0">
+        <text>tremp</text>
+        <comment>Capital del Pallars Jussà</comment>
+      </translation>
+    </entry>
+    <entry id="25">
+      <translation id="0">
+        <text>sort</text>
+        <comment>Capital del Pallars Sobirà</comment>
+      </translation>
+    </entry>
+    <entry id="26">
+      <translation id="0">
+        <text>banyoles</text>
+        <comment>Capital del Pla de l'Estany</comment>
+      </translation>
+    </entry>
+    <entry id="27">
+      <translation id="0">
+        <text>mollerussa</text>
+        <comment>Capital del Pla d'Urgell</comment>
+      </translation>
+    </entry>
+    <entry id="28">
+      <translation id="0">
+        <text>falset</text>
+        <comment>Capital del Priorat</comment>
+      </translation>
+    </entry>
+    <entry id="29">
+      <translation id="0">
+        <text>móra d'ebre</text>
+        <comment>Capital de la Ribera d'Ebre</comment>
+      </translation>
+    </entry>
+    <entry id="30">
+      <translation id="0">
+        <text>ripoll</text>
+        <comment>Capital del Ripollès</comment>
+      </translation>
+    </entry>
+    <entry id="31">
+      <translation id="0">
+        <text>cervera</text>
+        <comment>Capital de la Segarra</comment>
+      </translation>
+    </entry>
+    <entry id="32">
+      <translation id="0">
+        <text>lleida</text>
+        <comment>Capital del Segrià</comment>
+      </translation>
+    </entry>
+    <entry id="33">
+      <translation id="0">
+        <text>santa coloma de farners</text>
+        <comment>Capital de La Selva</comment>
+      </translation>
+    </entry>
+    <entry id="34">
+      <translation id="0">
+        <text>solsona</text>
+        <comment>Capital del Solsonès</comment>
+      </translation>
+    </entry>
+    <entry id="35">
+      <translation id="0">
+        <text>tarragona</text>
+        <comment>Capital del Tarragonès</comment>
+      </translation>
+    </entry>
+    <entry id="36">
+      <translation id="0">
+        <text>gandesa</text>
+        <comment>Capital de la Terra Alta</comment>
+      </translation>
+    </entry>
+    <entry id="37">
+      <translation id="0">
+        <text>tàrrega</text>
+        <comment>Capital de l'Urgell</comment>
+      </translation>
+    </entry>
+    <entry id="38">
+      <translation id="0">
+        <text>viella</text>
+        <comment>Capital de la Vall d'Aran</comment>
+      </translation>
+    </entry>
+    <entry id="39">
+      <translation id="0">
+        <text>terrassa</text>
+        <comment>Una de les dues Capitals del Vallès Occidental</comment>
+      </translation>
+    </entry>
+    <entry id="40">
+      <translation id="0">
+        <text>sabadell</text>
+        <comment>Una de les dues Capitals del Vallès Occidental</comment>
+      </translation>
+    </entry>
+    <entry id="41">
+      <translation id="0">
+        <text>granollers</text>
+        <comment>Capital del Vallès Oriental</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

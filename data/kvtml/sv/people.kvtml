@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Historiska personer</title>
+    <comment>Personer som pĺverkat människans historia</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>en</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Aristoteles</text>
+        <comment>Inflytelserik grekisk filosof</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Ludwig van Beethoven</text>
+        <comment>Klassisk kompositör</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Christopher Columbus</text>
+        <comment>Officiellt känd som personen som "upptäckte" den Amerika kontinenten</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Charles Darwin</text>
+        <comment>Skapade teorin om människans biologiska utveckling frĺn djur till människa</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Thomas Edison</text>
+        <comment>Uppfinnare av glödlampan</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Albert Einstein</text>
+        <comment>Upptäckte och definierade relativitetsteorin</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Alexander Fleming</text>
+        <comment>Upptäckte penicillinet</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Galileo Galilei</text>
+        <comment>Framstĺende astronomiforskare som konstaterade att jorden rör sig runt solen, och därmed introducerade den heliocentriska världsuppfattningen som kom att konkurrera med den katolska kyrkans världsbild där allting roterade kring jorden</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Mohandas Karamchand "Mahatma" Gandhi</text>
+        <comment>Prominent, anti-vĺldsföresprĺkande aktivist som kämpade för Indiskt självstyre</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Gorbachyov</text>
+        <comment>Hjälpte till att avskaffa kommunismen i forna sovietunionen, och därmed ocksĺ avsluta kallakriget.</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Nelson Mandela</text>
+        <comment>Hjälpte ANC att avskaffa apartheid i Sydafrika, och blev senare Sydafrikas president</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Guglielmo Marconi</text>
+        <comment>Uppfann radion</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>michelangelo di Lodovico Buonarroti Simoni</text>
+        <comment>Italiensk konstnär, skulptör och arkitekt född pĺ 1400-talet. Mest känd för att ha mĺlat taket i sixtinska kapellet i Rom</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Napoleon Bonaparte</text>
+        <comment>Fransk general under franska revolutionen som blev kejsare</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Sir Isaac Newton</text>
+        <comment>Upptäckte gravitataionskraften</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Louis Pasteur</text>
+        <comment>Uppfann vaccinet</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>George Washington</text>
+        <comment>Första presidenten i Amerikas Förenta Stater</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

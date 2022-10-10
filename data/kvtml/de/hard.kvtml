@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Schwer</title>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>de</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Fingerknöchel</text>
+        <comment>Gebilde an der Hand</comment>
+      </translation>
+      <translation id="1" >
+        <text>Gebilde an der Hand</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Katalysator</text>
+        <comment>Filter für Abgase</comment>
+      </translation>
+      <translation id="1" >
+        <text>Filter für Abgase</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Juwelierarbeit</text>
+        <comment>Handgefertigter Schmuck ist ...</comment>
+      </translation>
+      <translation id="1" >
+        <text>Handgefertigter Schmuck ist ...</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Leuchtturm</text>
+        <comment>Er warnt Bootsführer vor dem falschen Weg.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Er warnt Bootsführer vor dem falschen Weg.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Erweiterung</text>
+        <comment>Ein Zusatz ist eine ...</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ein Zusatz ist eine ...</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Föderalismus</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Dogmatismus</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Dilettantentum</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Stümperhaftigkeit</text>
+        <comment>So nennt man es, wenn jemand unqualifizierte Arbeit leistet.</comment>
+      </translation>
+      <translation id="1" >
+        <text>So nennt man es, wenn jemand unqualifizierte Arbeit leistet.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Chloroform</text>
+        <comment>Dieses Betäubungsmittel hatte enormen Einfluss auf die damalige Chirurgie</comment>
+      </translation>
+      <translation id="1" >
+        <text>Dieses Betäubungsmittel hatte enormen Einfluss auf die damalige Chirurgie</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Kalligrafie</text>
+        <comment>Die Kunst des Schönschreibens</comment>
+      </translation>
+      <translation id="1" >
+        <text>Die Kunst des Schönschreibens</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Geistesblitz</text>
+        <comment>Eine plötzliche Erkenntnis oder Idee</comment>
+      </translation>
+      <translation id="1" >
+        <text>Eine plötzliche Erkenntnis oder Idee</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Tollkirsche</text>
+        <comment>Hochgiftiges Nachtschattengewächs</comment>
+      </translation>
+      <translation id="1" >
+        <text>Hochgiftiges Nachtschattengewächs</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Bumerang</text>
+        <comment>Dieses Sportgerät wurde ursprünglich zur Jagd eingesetzt.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Dieses Sportgerät wurde ursprünglich zur Jagd eingesetzt.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Nachkömmling</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Vogelkunde</text>
+        <comment>Deutsches Wort für "Ornithologie"</comment>
+      </translation>
+      <translation id="1" >
+        <text>Deutsches Wort für "Ornithologie"</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Chiropraktik</text>
+        <comment>Eine Form der alternativen Medizin, die sich mit dem Bewegungsapparat beschäftigt.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Eine Form der alternativen Medizin, die sich mit dem Bewegungsapparat beschäftigt.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Klapperschlange</text>
+        <comment>Nimm dich in Acht vor diesem rasselnden Geschöpf</comment>
+      </translation>
+      <translation id="1" >
+        <text>Nimm dich in Acht vor diesem rasselnden Geschöpf</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Ausstellung</text>
+        <comment>Zurschaustellung von Dingen</comment>
+      </translation>
+      <translation id="1" >
+        <text>Zurschaustellung von Dingen</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Leistungsschau</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Röntgenaufnahme</text>
+        <comment>Schattenbild eines Objekts mit Hilfe von Strahlen</comment>
+      </translation>
+      <translation id="1" >
+        <text>Schattenbild eines Objekts mit Hilfe von Strahlen</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Surrealismus</text>
+        <comment>Künstlerische und literarische Bewegung des 20. Jahrhunderts</comment>
+      </translation>
+      <translation id="1" >
+        <text>Künstlerische und literarische Bewegung des 20. Jahrhunderts</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Syllogismen</text>
+        <comment>Sie bilden den Kern der klassischen Logik des Aristoteles</comment>
+      </translation>
+      <translation id="1" >
+        <text>Sie bilden den Kern der klassischen Logik des Aristoteles</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Fachkonferenz</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Tierpräparation</text>
+        <comment>Die Kunst der Haltbarmachung tierischer Körper (Taxidermie)</comment>
+      </translation>
+      <translation id="1" >
+        <text>Die Kunst der Haltbarmachung tierischer Körper (Taxidermie)</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Trigonometrie</text>
+        <comment>Teilgebiet der Geometrie</comment>
+      </translation>
+      <translation id="1" >
+        <text>Teilgebiet der Geometrie</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Transluzenz</text>
+        <comment>So nennt man die teilweise Lichtdurchlässigkeit eines Objekts.</comment>
+      </translation>
+      <translation id="1" >
+        <text>So nennt man die teilweise Lichtdurchlässigkeit eines Objekts.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Aufrichtigkeit</text>
+        <comment>Eine Tugend. Sie bezeichnet eine Haltung, sich nicht zu beugen.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Eine Tugend. Sie bezeichnet eine Haltung, sich nicht zu beugen.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Troposphäre</text>
+        <comment>Untere Schicht der Atmosphäre</comment>
+      </translation>
+      <translation id="1" >
+        <text>Untere Schicht der Atmosphäre</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Geradheit</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Polsterung</text>
+        <comment>Federung, Isolation oder Wattierung eines Gegenstands</comment>
+      </translation>
+      <translation id="1" >
+        <text>Federung, Isolation oder Wattierung eines Gegenstands</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Bankabhebung</text>
+        <comment>Begriff aus der Buchführung. Er bezeichnet einen bestimmten Vorgang im Zahlungsverkehr.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Begriff aus der Buchführung. Er bezeichnet einen bestimmten Vorgang im Zahlungsverkehr.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Tierkunde</text>
+        <comment>Das Fremdwort zu diesem aus der Biologie stammenden Begriff ist vom griechischen Wort "zoon" abgeleitet.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Das Fremdwort zu diesem aus der Biologie stammenden Begriff ist vom griechischen Wort "zoon" abgeleitet.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Schubkarre</text>
+        <comment>Transportgerät mit nur einem Rad</comment>
+      </translation>
+      <translation id="1" >
+        <text>Transportgerät mit nur einem Rad</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Ausländerfeindlichkeit</text>
+        <comment>Antisemitismus, Nationalhass, Rassismus</comment>
+      </translation>
+      <translation id="1" >
+        <text>Antisemitismus, Nationalhass, Rassismus</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Überraschung</text>
+        <comment>Als solches bezeichnet man unerwartete Worte oder Geschenke</comment>
+      </translation>
+      <translation id="1" >
+        <text>Als solches bezeichnet man unerwartete Worte oder Geschenke</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Xylophon</text>
+        <comment>Traditionelles Schlaginstrument aus Asien. Im 16. Jahrhundert in Deutschland als „Hölzernes Gelächter“ bekannt.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Traditionelles Schlaginstrument aus Asien. Im 16. Jahrhundert in Deutschland als „Hölzernes Gelächter“ bekannt.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Prosperität</text>
+        <comment>Periode wirtschaftlichen Aufschwungs und damit verbundener Wohlstand.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Periode wirtschaftlichen Aufschwungs und damit verbundener Wohlstand.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Psychiater</text>
+        <comment>Dieser Arzt beschäftigt sich mit der Behandlung von Erkrankungen des Geistes.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Dieser Arzt beschäftigt sich mit der Behandlung von Erkrankungen des Geistes.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Vorkämpfer</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

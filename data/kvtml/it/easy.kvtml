@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>easy.kvtml</title>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>it</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ricreazione</text>
+        <comment>il momento dei giochi</comment>
+      </translation>
+      <translation id="1" >
+        <text>il momento dei giochi</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mobili</text>
+        <comment>ci si mettono dentro i vestiti</comment>
+      </translation>
+      <translation id="1" >
+        <text>ci si mettono dentro i vestiti</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>giardino</text>
+        <comment>ci sono alberi e prato</comment>
+      </translation>
+      <translation id="1" >
+        <text>ci sono alberi e prato</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>allievo</text>
+        <comment>studia per imparare</comment>
+      </translation>
+      <translation id="1" >
+        <text>studia per imparare</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>verdure</text>
+        <comment>fanno bene</comment>
+      </translation>
+      <translation id="1" >
+        <text>fanno bene</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mela</text>
+        <comment>il frutto del peccato</comment>
+      </translation>
+      <translation id="1" >
+        <text>il frutto del peccato</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>piatto</text>
+        <comment>serve per mangiare</comment>
+      </translation>
+      <translation id="1" >
+        <text>serve per mangiare</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dolce</text>
+        <comment>la nonna ne prepara sempre uno</comment>
+      </translation>
+      <translation id="1" >
+        <text>la nonna ne prepara sempre uno</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cucina</text>
+        <comment>dove mamma prepare le sue bontà</comment>
+      </translation>
+      <translation id="1" >
+        <text>dove mamma prepare le sue bontà</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cioccolata</text>
+        <comment>dolce e scura</comment>
+      </translation>
+      <translation id="1" >
+        <text>dolce e scura</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>computer</text>
+        <comment>lo stai usando adesso</comment>
+      </translation>
+      <translation id="1" >
+        <text>lo stai usando adesso</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>carota</text>
+        <comment>è amata dai conigli</comment>
+      </translation>
+      <translation id="1" >
+        <text>è amata dai conigli</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>segno</text>
+        <comment>simbolo</comment>
+      </translation>
+      <translation id="1" >
+        <text>simbolo</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>banana</text>
+        <comment>le scimmie l'apprezzano</comment>
+      </translation>
+      <translation id="1" >
+        <text>le scimmie l'apprezzano</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>informazione</text>
+        <comment>la si chiede a qualcuno</comment>
+      </translation>
+      <translation id="1" >
+        <text>la si chiede a qualcuno</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>soldi</text>
+        <comment>si ricevono lavorando</comment>
+      </translation>
+      <translation id="1" >
+        <text>si ricevono lavorando</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>avventura</text>
+        <comment>una cosa incredibile che lascia un bel ricordo</comment>
+      </translation>
+      <translation id="1" >
+        <text>una cosa incredibile che lascia un bel ricordo</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>autista</text>
+        <comment>usa automobili</comment>
+      </translation>
+      <translation id="1" >
+        <text>usa automobili</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>poliziotto</text>
+        <comment>è il tutore dell'ordine</comment>
+      </translation>
+      <translation id="1" >
+        <text>è il tutore dell'ordine</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ananas</text>
+        <comment>un frutto tropicale</comment>
+      </translation>
+      <translation id="1" >
+        <text>un frutto tropicale</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>francobollo</text>
+        <comment>serve per spedire posta</comment>
+      </translation>
+      <translation id="1" >
+        <text>serve per spedire posta</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pranzo</text>
+        <comment>tutti ne dovrebbero fare uno</comment>
+      </translation>
+      <translation id="1" >
+        <text>tutti ne dovrebbero fare uno</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>limousine</text>
+        <comment>auto lussuosa</comment>
+      </translation>
+      <translation id="1" >
+        <text>auto lussuosa</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ascensore</text>
+        <comment>evita di salire a piedi</comment>
+      </translation>
+      <translation id="1" >
+        <text>evita di salire a piedi</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>colazione</text>
+        <comment>la mattina è sempre bene farla</comment>
+      </translation>
+      <translation id="1" >
+        <text>la mattina è sempre bene farla</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>fiore</text>
+        <comment>profuma in giardino</comment>
+      </translation>
+      <translation id="1" >
+        <text>profuma in giardino</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cultura</text>
+        <comment>ne ha chi sa tante cose</comment>
+      </translation>
+      <translation id="1" >
+        <text>ne ha chi sa tante cose</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tavolo</text>
+        <comment>ci si poggiano le cose</comment>
+      </translation>
+      <translation id="1" >
+        <text>ci si poggiano le cose</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>torta</text>
+        <comment>serve per festeggiare il compleanno</comment>
+      </translation>
+      <translation id="1" >
+        <text>serve per festeggiare il compleanno</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>classe</text>
+        <comment>luogo di ritrovo coi compagni</comment>
+      </translation>
+      <translation id="1" >
+        <text>luogo di ritrovo coi compagni</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>televisione</text>
+        <comment>trasmette tante cose inutili</comment>
+      </translation>
+      <translation id="1" >
+        <text>trasmette tante cose inutili</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>errore</text>
+        <comment>quando si scrive o fa una cosa sbagliata</comment>
+      </translation>
+      <translation id="1" >
+        <text>quando si scrive o fa una cosa sbagliata</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ieri</text>
+        <comment>il giorno prima</comment>
+      </translation>
+      <translation id="1" >
+        <text>il giorno prima</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>persone</text>
+        <comment>vivo intorno a noi</comment>
+      </translation>
+      <translation id="1" >
+        <text>vivo intorno a noi</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bambini</text>
+        <comment>piccole persone</comment>
+      </translation>
+      <translation id="1" >
+        <text>piccole persone</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sorpresa</text>
+        <comment>fa sempre piacere</comment>
+      </translation>
+      <translation id="1" >
+        <text>fa sempre piacere</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>giacca</text>
+        <comment>ci ripara dal vento</comment>
+      </translation>
+      <translation id="1" >
+        <text>ci ripara dal vento</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>formaggio</text>
+        <comment>i topolini ne vanno matti</comment>
+      </translation>
+      <translation id="1" >
+        <text>i topolini ne vanno matti</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pollo</text>
+        <comment>si dice di uno che è stupido</comment>
+      </translation>
+      <translation id="1" >
+        <text>si dice di uno che è stupido</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cena</text>
+        <comment>si fa la sera</comment>
+      </translation>
+      <translation id="1" >
+        <text>si fa la sera</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>montagna</text>
+        <comment>è molto alta e fresca</comment>
+      </translation>
+      <translation id="1" >
+        <text>è molto alta e fresca</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>foresta</text>
+        <comment>è piena di alberi</comment>
+      </translation>
+      <translation id="1" >
+        <text>è piena di alberi</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>patata</text>
+        <comment>fritta è buona</comment>
+      </translation>
+      <translation id="1" >
+        <text>fritta è buona</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>acqua</text>
+        <comment>ci serve tanto</comment>
+      </translation>
+      <translation id="1" >
+        <text>ci serve tanto</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="44" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>fiume</text>
+        <comment>vi nuotano le trote</comment>
+      </translation>
+      <translation id="1" >
+        <text>vi nuotano le trote</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

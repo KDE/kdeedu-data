@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>converter</generator>
+    <title>Divises</title>
+    <comment>Monedes d'arreu del món</comment>
+    <date>2018-12-17</date>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Original</name>
+      <locale>ca</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>dinar</text>
+        <comment>Tuníssia, Algèria, Líbia, Iran i altres</comment>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>dírham</text>
+        <comment>Marroc, Emirats Àrabs Units</comment>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>dòlar</text>
+        <comment>Estats Units, Canadà, Austràlia</comment>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>euro</text>
+        <comment>Països de la Unió Europea</comment>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>franc</text>
+        <comment>Suïssa</comment>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>corona</text>
+        <comment>República Txeca, Eslovàquia</comment>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>peso</text>
+        <comment>Argentina, Xile, Mèxic, Cuba, Colòmbia i altres</comment>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>lliura</text>
+        <comment>Xipre, Egipte i altres</comment>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>rand</text>
+        <comment>Sud-Àfrica</comment>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>yuan</text>
+        <comment>Xina</comment>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>ruble</text>
+        <comment>Rússia</comment>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>rúpia</text>
+        <comment>Índia, Pakistan, Sri Lanka</comment>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>xíling</text>
+        <comment>Kènia, Tanzània</comment>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>yen</text>
+        <comment>Japó</comment>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>zloty</text>
+        <comment>Polònia</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

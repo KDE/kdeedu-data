@@ -1,0 +1,2585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>animals.kvtml</title>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>sk</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>veľryba</text>
+        <comment>obrovský morský cicavec</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>králik</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>škrečok</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vlk</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ježko</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sob</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>moriak</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kačka</text>
+        <comment>Vodný vták chovaný alebo lovený kvôli mäsu.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Vodný vták chovaný alebo lovený kvôli mäsu.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sokol</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>harpya</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pustovka</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>myšiak</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bocian</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>včelár</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vakovlk</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>krysa</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>potkan</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>antilopa</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>binturong</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bizón</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>daman</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>delfín</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dikobraz</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>fenek</text>
+        <comment>púštna psovitá šelma s veľkými ušami</comment>
+      </translation>
+      <translation id="1" >
+        <text>púštna psovitá šelma s veľkými ušami</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>gepard</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>gibon</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>gorila</text>
+        <comment>veľký africký ľudoop</comment>
+      </translation>
+      <translation id="1" >
+        <text>veľký africký ľudoop</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hrabáč</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hroch</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hyena</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jaguár</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jaguarundi</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jeleň</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ježura</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kaloň</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kapybara</text>
+        <comment>veľký juhoamerický vodný hlodavec</comment>
+      </translation>
+      <translation id="1" >
+        <text>veľký juhoamerický vodný hlodavec</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>klokan</text>
+        <comment>austrálsky skákajúci vačkovec</comment>
+      </translation>
+      <translation id="1" >
+        <text>austrálsky skákající vačkovec</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mačka</text>
+        <comment>malá domáca šelma</comment>
+      </translation>
+      <translation id="1" >
+        <text>malá domáca šelma</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>koza</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kozorožec</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>škrečok</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kulan</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kôň</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kuna</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="44" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kuskus</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="45" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>uškatec</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="46" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lemur</text>
+        <comment>madagaskarská poloopica</comment>
+      </translation>
+      <translation id="1" >
+        <text>madagaskarská poloopica</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="47" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>leňochod</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="48" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lev</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="49" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>leopard</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="50" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>los</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="51" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>levík</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="52" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mangusta</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="53" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mara</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="54" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>medveď</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="55" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>muflón</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="56" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>myš</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="57" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>nosáľ</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="58" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>nosorožec</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="59" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ocelot</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="60" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>okapia</text>
+        <comment>príbuzný žirafy s kratším krkom</comment>
+      </translation>
+      <translation id="1" >
+        <text>príbuzný žirafy s kratším krkom</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="61" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>orangután</text>
+        <comment>ázijský ľudoop</comment>
+      </translation>
+      <translation id="1" >
+        <text>ázijský ľudoop</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="62" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>útloň</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="63" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ovca</text>
+        <comment>domáce zviera chované kvôli vlne</comment>
+      </translation>
+      <translation id="1" >
+        <text>domáce zviera chované kvôli vlne</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="64" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>panda</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="65" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>paovca</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="66" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pekari</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="67" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pes</text>
+        <comment>domestikovaná šelma</comment>
+      </translation>
+      <translation id="1" >
+        <text>domestikovaná šelma</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="68" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pieskomil</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="69" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>prasa</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="70" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>priamorožec</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="71" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>svišť stepný</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="72" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sitatunga</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="73" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>slon</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="74" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sob</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="75" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>surikata</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="76" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>diviak</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="77" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tana</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="78" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tapír</text>
+        <comment>juhoamerický nepárnokopytník</comment>
+      </translation>
+      <translation id="1" >
+        <text>juhoamerický nepárnokopytník</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="79" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tiger</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="80" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vakoveverica</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="81" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ťava</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="82" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>veverica</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="83" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vlk</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="84" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vodárka</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="85" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vydra</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="86" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vapiti</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="87" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zebra</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="88" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zubor</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="89" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>žirafa</text>
+        <comment>dlhokrký africký cicavec</comment>
+      </translation>
+      <translation id="1" >
+        <text>dlhokrký africký cicavec</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="90" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>amazoňan</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="91" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bažant</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="92" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bernikla</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="93" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bocian</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="94" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>chrapačka</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="95" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ďateľ</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="96" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>drozd</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="97" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dudok</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="98" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zobákorožec</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="99" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>emu</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="100" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hadožrút</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="101" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>holub</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="102" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hrdlička</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="103" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hus</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="104" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>husiarka</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="105" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ibis</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="106" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>žeriav</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="107" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kakadu</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="108" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kazuár</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="109" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kondor</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="110" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jarabica</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="111" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>korunáč</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="112" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>prepelička</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="113" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>krkavec</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="114" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>volavka</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="115" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>labuť</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="116" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rybárik</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="117" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lori</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="118" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>beo</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="119" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kaňa</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="120" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>marabu</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="121" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>nandu</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="122" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>miktéria</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="123" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>orol</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="124" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bradáň</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="125" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>papagáj</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="126" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pelikán</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="127" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>plameniak</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="128" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pštros</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="129" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>strix</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="130" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>satyr</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="131" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sojka</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="132" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>belaňa</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="133" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>labkáň</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="134" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sup</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="135" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sýkorka</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="136" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>škorec</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="137" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hlucháň</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="138" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tučniak</text>
+        <comment>antarktický nelietavý vták</comment>
+      </translation>
+      <translation id="1" >
+        <text>antarktický nelietavý vták</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="139" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lastúrničiar</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="140" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>včelárik</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="141" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>volavka</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="142" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zoborožec</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="143" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>žlna</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="144" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>agama</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="145" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bazilišok</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="146" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>chameleón</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="147" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dinosaurus</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="148" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>drsnokožka</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="149" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>veľhad</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="150" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>boa</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="151" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jašterica</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="152" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dážďovník</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="153" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kareta</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="154" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kobra</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="155" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hadiarka</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="156" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pytón</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="157" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>krokodíl</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="158" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>leguán</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="159" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>orlícia</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="160" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ropucha</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="161" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rosnička</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="162" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>scink</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="163" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>skokan</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="164" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>užovka</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="165" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>varan</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="166" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zmija</text>
+        <comment>jedovatý had žijúci na Slovensku a v Čechách</comment>
+      </translation>
+      <translation id="1" >
+        <text>jedovatý had žijúci na Slovensku a v Čechách</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="167" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>korytnačka</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="168" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>arapaima</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="169" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>boleň</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="170" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zubáč</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="171" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pleskáč</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="172" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hrúz</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="173" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jalec</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="174" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jeseter</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="175" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hrebenačka</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="176" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kapor</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="177" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>karas</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="178" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pichľavka</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="179" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lipeň</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="180" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>losos</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="181" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mihuľa</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="182" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>slíž</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="183" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ostriež</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="184" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>podustva</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="185" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mrena</text>
+        <comment>nedravá sladkovodná ryba z čeľade kaprovitých</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="186" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>plotica</text>
+        <comment>nedravá sladkovodná ryba z čeľade kaprovitých</comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="187" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>nosáľ</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="188" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pstruh</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="189" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pĺž</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="190" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>slnečnica</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="191" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sumec</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="192" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>šťuka</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="193" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tolstolob</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="194" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hlaváč</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="195" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>úhor</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="196" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lieň</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="197" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>žralok</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="198" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hlavátka</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="199" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>slimák</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="200" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>chobotnica</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="201" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>komár</text>
+        <comment>bodavý hmyz</comment>
+      </translation>
+      <translation id="1" >
+        <text>bodavý hmyz</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="202" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>krab</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="203" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pásavka</text>
+        <comment>zemiakový škodca</comment>
+      </translation>
+      <translation id="1" >
+        <text>zemiakový škodca</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="204" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vtáčkar</text>
+        <comment>veľký pavúk</comment>
+      </translation>
+      <translation id="1" >
+        <text>veľký pavúk</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="205" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>splošťuľa</text>
+        <comment>vodná ploštica</comment>
+      </translation>
+      <translation id="1" >
+        <text>vodná ploštica</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="206" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vážka</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

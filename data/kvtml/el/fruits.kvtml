@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Φρούτα</title>
+    <comment>Φρούτα της γης</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>el</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μήλο</text>
+        <comment>Ένα την ημέρα το γιατρό τον κάνει πέρα</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>βερίκοκο</text>
+        <comment>Μοιάζει με μικρό ροδάκινο</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μπανάνα</text>
+        <comment>Ένα μακρύ κίτρινο φρούτο που κάμπτει κατά το μήκος του</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>βατόμουρο</text>
+        <comment>Ένα γυαλιστερό μαύρο μούρο</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μύρτιλλος</text>
+        <comment>Γλυκά βρώσιμα σκούρο μπλε μούρα</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>κεράσι</text>
+        <comment>Κόκκινα φρούτα με ένα σκληρό κουκούτσι</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>καρύδα</text>
+        <comment>Έχει ένα σκληρό καφέ εξωτερικό περίβλημα και κρεμώδη λευκή σάρκα</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>φίγγι</text>
+        <comment>Ένα λαμπερό κόκκινο μούρο</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>σταφύλι</text>
+        <comment>Χρησιμοποιείται για την παραγωγή του κρασιού</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>γκρέιπφρουτ</text>
+        <comment>Μεγάλο κίτρινο εσπεριδοειδές με όξινο, ζουμερό πολτό</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ακτινίδιο</text>
+        <comment>Ασαφής καφέ σε σχήμα αυγού φρούτα με λίγο πράσινη σάρκα</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>λεμόνι</text>
+        <comment>Κίτρινο οβάλ φρούτο με ζουμερή όξινη σάρκα</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>γλυκολέμονο</text>
+        <comment>Μικρό, πράσινο εσπεριδοειδές που μοιάζει με ένα λεμόνι</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μανταρίνι</text>
+        <comment>Κοκκινωπό-πορτοκαλί ευκολοξεφλούδιστα εσπεριδοειδή της Κίνας</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>μάνγκο</text>
+        <comment>Μεγάλα οβάλ τροπικά φρούτα με λεία επιφάνεια</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ελιά</text>
+        <comment>Μικρά φρούτα με υψηλή περιεκτικότητα σε λάδι</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>πορτοκάλι</text>
+        <comment>Στρογγυλό εσπεριδοειδές, που συνδέεται με ένα χρώμα</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ροδάκινο</text>
+        <comment>Χυμώδες φρούτο με γλυκιά κιτρινωπή σάρκα</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>αχλάδι</text>
+        <comment>Μικρό και ζουμερό φρούτο με σχήμα καμπάνας</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ανανάς</text>
+        <comment>Θυμίζει κουκουνάρι, φρούτο με πικάντικη γλυκιά γεύση</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>δαμάσκηνο</text>
+        <comment>Γλυκό, χυμώδης, μοβ φρούτο με λείο δέρμα</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>βατόμουρο</text>
+        <comment>Μούρα διαφόρων χρωμάτων με έντονο άρωμα</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>φράουλα</text>
+        <comment>Μικρό, γλυκό και σαρκώδες κόκκινο φρούτο</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>καρπούζι</text>
+        <comment>Αυτό το πεπόνι από την Αφρική έχει μια υγρή κόκκινη σάρκα με πολλά μαύρα κουκούτσια</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

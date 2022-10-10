@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>converter</generator>
+    <title>Fàcils</title>
+    <comment>Paraules fàcils</comment>
+    <date>2018-12-17</date>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Original</name>
+      <locale>ca</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>esbarjo</text>
+        <comment>Temps assignat per a divertir-se</comment>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>mobles</text>
+        <comment>Objectes en una habitació</comment>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>cadira</text>
+        <comment>És un moble emprat per seure</comment>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>alumne</text>
+        <comment>Persona dedicada que es dedicada a l'estudi</comment>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>llegums</text>
+        <comment>Són un tipus de fruit per a fer verdura</comment>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>poma</text>
+        <comment>Fruita del pomer, amb diversitat de sabors segons l'espècie</comment>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>plat</text>
+        <comment>Recipient sobre el que es menja</comment>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>dolç</text>
+        <comment>Un gust que sol resultar molt plaent</comment>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>cuina</text>
+        <comment>Lloc on es preparen els aliments per menjar</comment>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>xocolata</text>
+        <comment>Un aliment basat en el cacau</comment>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>ordinador</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>pastanaga</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>joguina</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>banana</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>platan</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>indicador</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>diners</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>aventura</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>conductor</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>policia</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>pinya</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="21">
+      <translation id="0">
+        <text>segell</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="22">
+      <translation id="0">
+        <text>berenar</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="23">
+      <translation id="0">
+        <text>limusina</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="24">
+      <translation id="0">
+        <text>escala</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="25">
+      <translation id="0">
+        <text>esmorzar</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="26">
+      <translation id="0">
+        <text>flor</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="27">
+      <translation id="0">
+        <text>llibre</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="28">
+      <translation id="0">
+        <text>taula</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="29">
+      <translation id="0">
+        <text>classe</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="30">
+      <translation id="0">
+        <text>ahir</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="31">
+      <translation id="0">
+        <text>gent</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="32">
+      <translation id="0">
+        <text>nen</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="33">
+      <translation id="0">
+        <text>sorpresa</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="34">
+      <translation id="0">
+        <text>jaqueta</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="35">
+      <translation id="0">
+        <text>formatge</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="36">
+      <translation id="0">
+        <text>pollastre</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="37">
+      <translation id="0">
+        <text>menjar</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="38">
+      <translation id="0">
+        <text>muntanya</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="39">
+      <translation id="0">
+        <text>bosc</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="40">
+      <translation id="0">
+        <text>patata</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="41">
+      <translation id="0">
+        <text>aigua</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="42">
+      <translation id="0">
+        <text>riu</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="43">
+      <translation id="0">
+        <text>vall</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+  </entries>
+</kvtml>

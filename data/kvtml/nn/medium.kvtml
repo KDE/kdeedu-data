@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>Parley</generator>
+    <title>Middels</title>
+    <author>Eirik U. Birkeland &lt;eirbir@gmail.com> og Karl Ove Hufthammer &lt;karl@huftis.org></author>
+    <license>GPLv2 (GNU General Public License versjon 2)</license>
+    <comment>Middels vanskelege ord</comment>
+    <category>Språk</category>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <name></name>
+      <locale>nn</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <translation id="0" >
+        <text>maskin</text>
+        <comment>apparat som ofte brukar straum</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <translation id="0" >
+        <text>soverom</text>
+        <comment>eit rom ein søv i</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <translation id="0" >
+        <text>embetsmann</text>
+        <comment>person som representerer offentlege styresmakter</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <translation id="0" >
+        <text>gymnastikk</text>
+        <comment>kroppsøving</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <translation id="0" >
+        <text>adresse</text>
+        <comment>opplysing om staden der nokon bur</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <translation id="0" >
+        <text>antibiotika</text>
+        <comment>medisin som øydelegg bakteriar</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <translation id="0" >
+        <text>delegasjon</text>
+        <comment>utsendingar utgjer dette</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <translation id="0" >
+        <text>farmasøyt</text>
+        <comment>ein person med utanning innan apotekarkunst</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <translation id="0" >
+        <text>osteburgar</text>
+        <comment>ein hamburgar med ost på</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <translation id="0" >
+        <text>vurdering</text>
+        <comment>tenkje over og koma fram til</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <translation id="0" >
+        <text>omgjevnader</text>
+        <comment>tinga eller tilhøvet rundt ein</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <translation id="0" >
+        <text>matvarebutikk</text>
+        <comment>ein bygning der ein handlar noko å eta</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <translation id="0" >
+        <text>indikasjon</text>
+        <comment>eit teikn på noko</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <translation id="0" >
+        <text>radiografi</text>
+        <comment>produksjon av røntgenfotografi</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <translation id="0" >
+        <text>informasjon</text>
+        <comment>fakta som vert fortalt eller oppdaga</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <translation id="0" >
+        <text>kjøtdeig</text>
+        <comment>kverna kjøtprodukt</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <translation id="0" >
+        <text>signatur</text>
+        <comment>namnet til ein person slik han skriv det sjølv</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <translation id="0" >
+        <text>entusiasme</text>
+        <comment>ei kjensle av iver</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <translation id="0" >
+        <text>asparges</text>
+        <comment>plante der dei unge skota vert kokte og etne som grønsaker</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <translation id="0" >
+        <text>ordforråd</text>
+        <comment>orda ein person kan</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <translation id="0" >
+        <text>regjering</text>
+        <comment>styret i eit land</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <translation id="0" >
+        <text>drivhus</text>
+        <comment>hus der planter vert dyrka</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <translation id="0" >
+        <text>bokhylle</text>
+        <comment>eit møbel ein kan setja bøker i</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <translation id="0" >
+        <text>fotografi</text>
+        <comment>eit bilete som er teke med eit spesielt apparat</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <translation id="0" >
+        <text>intelligens</text>
+        <comment>mental dugleik</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <translation id="0" >
+        <text>grasklippar</text>
+        <comment>ei maskin som klipper plenar</comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <translation id="0" >
+        <text>matematikk</text>
+        <comment>talvitskap</comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <translation id="0" >
+        <text>medlemskap</text>
+        <comment>å vera medlem</comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <translation id="0" >
+        <text>satellitt</text>
+        <comment>går i bane rundt jorda</comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <translation id="0" >
+        <text>bidragsytar</text>
+        <comment>ein som hjelper til med noko</comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <translation id="0" >
+        <text>apostrof</text>
+        <comment>teikn som erstattar bokstav</comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <translation id="0" >
+        <text>underhalding</text>
+        <comment>å ha det kjekt</comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <translation id="0" >
+        <text>paraply</text>
+        <comment>vernar deg mot regn</comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <translation id="0" >
+        <text>stearinlys</text>
+        <comment>ikkje-elektrisk lyskjelde</comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <translation id="0" >
+        <text>millimeter</text>
+        <comment>0,1 cm</comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <translation id="0" >
+        <text>milligram</text>
+        <comment>eit tusendels gram</comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <translation id="0" >
+        <text>akvarium</text>
+        <comment>tank til å ha vassdyr i</comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <translation id="0" >
+        <text>oppsummering</text>
+        <comment>eit samandrag</comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <translation id="0" >
+        <text>folketal</text>
+        <comment>kor mange menneske det er</comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <translation id="0" >
+        <text>innovasjon</text>
+        <comment>introduksjon av noko nytt</comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <translation id="0" >
+        <text>fornærming</text>
+        <comment>ei slemt utsegn</comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <translation id="0" >
+        <text>jordbær</text>
+        <comment>ei raud, lita frukt</comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <translation id="0" >
+        <text>søskenbarn</text>
+        <comment>fetter eller kusine</comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <translation id="0" >
+        <text>landsbygd</text>
+        <comment>utanfor byen</comment>
+      </translation>
+    </entry>
+    <entry id="44" >
+      <translation id="0" >
+        <text>samling</text>
+        <comment>noko som er teke vare på og høyrer saman</comment>
+      </translation>
+    </entry>
+  </entries>
+  <lessons>
+    <container>
+      <name>Standardleksjon</name>
+      <inpractice>true</inpractice>
+      <current>true</current>
+      <entry id="0" />
+      <entry id="1" />
+      <entry id="2" />
+      <entry id="3" />
+      <entry id="4" />
+      <entry id="5" />
+      <entry id="6" />
+      <entry id="7" />
+      <entry id="8" />
+      <entry id="9" />
+      <entry id="10" />
+      <entry id="11" />
+      <entry id="12" />
+      <entry id="13" />
+      <entry id="14" />
+      <entry id="15" />
+      <entry id="16" />
+      <entry id="17" />
+      <entry id="18" />
+      <entry id="19" />
+      <entry id="20" />
+      <entry id="21" />
+      <entry id="22" />
+      <entry id="23" />
+      <entry id="24" />
+      <entry id="25" />
+      <entry id="26" />
+      <entry id="27" />
+      <entry id="28" />
+      <entry id="29" />
+      <entry id="30" />
+      <entry id="31" />
+      <entry id="32" />
+      <entry id="33" />
+      <entry id="34" />
+      <entry id="35" />
+      <entry id="36" />
+      <entry id="37" />
+      <entry id="38" />
+      <entry id="39" />
+      <entry id="40" />
+      <entry id="41" />
+      <entry id="42" />
+      <entry id="43" />
+      <entry id="44" />
+    </container>
+  </lessons>
+</kvtml>

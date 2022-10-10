@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>animals.kvtml</title>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>et</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>varss</text>
+        <comment>hobuse laps</comment>
+      </translation>
+      <translation id="1" >
+        <text>hobuse laps</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>karu</text>
+        <comment>suur ja paksu karvaga metsloom</comment>
+      </translation>
+      <translation id="1" >
+        <text>suur ja paksu karvaga metsloom</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>delfiin</text>
+        <comment>mereimetaja</comment>
+      </translation>
+      <translation id="1" >
+        <text>mereimetaja</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sebra</text>
+        <comment>mustvalgete triipudega Aafrika loom</comment>
+      </translation>
+      <translation id="1" >
+        <text>mustvalgete triipudega Aafrika loom</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>känguru</text>
+        <comment>hüppav Austraalia loom</comment>
+      </translation>
+      <translation id="1" >
+        <text>hüppav Austraalia loom</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vaal</text>
+        <comment>väga suur mereelukas</comment>
+      </translation>
+      <translation id="1" >
+        <text>väga suur mereelukas</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hobune</text>
+        <comment>neljajalgne loom, kellega saab ratsutada</comment>
+      </translation>
+      <translation id="1" >
+        <text>neljajalgne loom, kellega saab ratsutada</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ahv</text>
+        <comment>loom, kes on inimesele päris lähedalt sugulane</comment>
+      </translation>
+      <translation id="1" >
+        <text>loom, kes on inimesele päris lähedalt sugulane</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rähn</text>
+        <comment>lind, kes taob nokaga puid</comment>
+      </translation>
+      <translation id="1" >
+        <text>lind, kes taob nokaga puid</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>paabulind</text>
+        <comment>lind, kelle sabasulgede otsas on silmade moodi täpid</comment>
+      </translation>
+      <translation id="1" >
+        <text>lind, kelle sabasulgede otsas on silmade moodi täpid</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>madu</text>
+        <comment>jalgadeta roomaja</comment>
+      </translation>
+      <translation id="1" >
+        <text>jalgadeta roomaja</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kaelkirjak</text>
+        <comment>Aafrika loom, kelle pea ulatub kõrgele</comment>
+      </translation>
+      <translation id="1" >
+        <text>Aafrika loom, kelle pea ulatub kõrgele</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>elevant</text>
+        <comment>suur londiga maismaaloom</comment>
+      </translation>
+      <translation id="1" >
+        <text>suur londiga maismaaloom</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hiir</text>
+        <comment>pika sabaga väike näriline</comment>
+      </translation>
+      <translation id="1" >
+        <text>pika sabaga väike näriline</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vihmauss</text>
+        <comment>elukas, kellel pole selgroogu ega jalgu</comment>
+      </translation>
+      <translation id="1" >
+        <text>elukas, kellel pole selgroogu ega jalgu</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kiil</text>
+        <comment>läbipaistvate tiibadega suur putukas</comment>
+      </translation>
+      <translation id="1" >
+        <text>läbipaistvate tiibadega suur putukas</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pingviin</text>
+        <comment>merelind, kes elab Antartikas</comment>
+      </translation>
+      <translation id="1" >
+        <text>merelind, kes elab Antartikas</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jänes</text>
+        <comment>pikkade kõrvadega uruloom</comment>
+      </translation>
+      <translation id="1" >
+        <text>pikkade kõrvadega uruloom</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hamster</text>
+        <comment>pungis põskedega väike hiirelaadne näriline</comment>
+      </translation>
+      <translation id="1" >
+        <text>pungis põskedega väike hiirelaadne näriline</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>põrsas</text>
+        <comment>sea laps</comment>
+      </translation>
+      <translation id="1" >
+        <text>sea laps</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hunt</text>
+        <comment>kiskja, koera sugulane</comment>
+      </translation>
+      <translation id="1" >
+        <text>kiskja, koera sugulane</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lõvi</text>
+        <comment>suur ja võimas loom, kassi sugulane</comment>
+      </translation>
+      <translation id="1" >
+        <text>suur ja võimas loom, kassi sugulane</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tiiger</text>
+        <comment>suur Aasia loom, kassi sugulane</comment>
+      </translation>
+      <translation id="1" >
+        <text>suur Aasia loom, kassi sugulane</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kaheksajalg</text>
+        <comment>mereloom, kellel on pikad haarmed</comment>
+      </translation>
+      <translation id="1" >
+        <text>mereloom, kellel on pikad haarmed</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ninasarvik</text>
+        <comment>suur ja paksu nahaga Aafrika loom</comment>
+      </translation>
+      <translation id="1" >
+        <text>suur ja paksu nahaga Aafrika loom</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>siil</text>
+        <comment>väike putukatest toituv loom, kelle selg on täis okkaid</comment>
+      </translation>
+      <translation id="1" >
+        <text>väike putukatest toituv loom, kelle selg on täis okkaid</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>põder</text>
+        <comment>suurte sarvedega loom</comment>
+      </translation>
+      <translation id="1" >
+        <text>suurte sarvedega loom</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>orav</text>
+        <comment>koheva sabaga väike loom, kes armastab puu otsas ronida</comment>
+      </translation>
+      <translation id="1" >
+        <text>koheva sabaga väike loom, kes armastab puu otsas ronida</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kilpkonn</text>
+        <comment>aeglaselt liikuv ja kaua elav neljajalgne roomaja</comment>
+      </translation>
+      <translation id="1" >
+        <text>aeglaselt liikuv ja kaua elav neljajalgne roomaja</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jõehobu</text>
+        <comment>suur Aafrika loom, kellele meeldib vees viibida</comment>
+      </translation>
+      <translation id="1" >
+        <text>suur Aafrika loom, kellele meeldib vees viibida</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dinosaurus</text>
+        <comment>väljasurnud roomaja</comment>
+      </translation>
+      <translation id="1" >
+        <text>väljasurnud roomaja</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kalkun</text>
+        <comment>suur lind, kellel on maitsev liha</comment>
+      </translation>
+      <translation id="1" >
+        <text>suur lind, kellel on maitsev liha</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kotkas</text>
+        <comment>suur ja uhke röövlind</comment>
+      </translation>
+      <translation id="1" >
+        <text>suur ja uhke röövlind</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hai</text>
+        <comment>suur kala, kelle seljal on kolmnurkne uim</comment>
+      </translation>
+      <translation id="1" >
+        <text>suur kala, kelle seljal on kolmnurkne uim</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>part</text>
+        <comment>vees ujuv lind</comment>
+      </translation>
+      <translation id="1" >
+        <text>vees ujuv lind</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kala</text>
+        <comment>vee-elukas</comment>
+      </translation>
+      <translation id="1" >
+        <text>vee-elukas</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>papagoi</text>
+        <comment>lind, kes oskab sõnu korrata</comment>
+      </translation>
+      <translation id="1" >
+        <text>lind, kes oskab sõnu korrata</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>konn</text>
+        <comment>väike roheline hüppav loom</comment>
+      </translation>
+      <translation id="1" >
+        <text>väike roheline hüppav loom</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tigu</text>
+        <comment>elukas, kellel on oma koda</comment>
+      </translation>
+      <translation id="1" >
+        <text>elukas, kellel on oma koda</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kaamel</text>
+        <comment>loom, kes tuleb hästi toime kõrbes</comment>
+      </translation>
+      <translation id="1" >
+        <text>loom, kes tuleb hästi toime kõrbes</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>krokodill</text>
+        <comment>vees elav suur roomaja</comment>
+      </translation>
+      <translation id="1" >
+        <text>vees elav suur roomaja</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sääsk</text>
+        <comment>väike putukas, kes hammustab valusasti</comment>
+      </translation>
+      <translation id="1" >
+        <text>väike putukas, kes hammustab valusasti</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lammas</text>
+        <comment>tiheda villaga rohusõõja loom</comment>
+      </translation>
+      <translation id="1" >
+        <text>tiheda villaga rohusõõja loom</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>millimallikas</text>
+        <comment>vees elav tarretise moodi elukas</comment>
+      </translation>
+      <translation id="1" >
+        <text>vees elav tarretise moodi elukas</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

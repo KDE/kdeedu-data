@@ -1,0 +1,1241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>animals.kvtml</title>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>pt_BR</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>gato</text>
+        <comment>Animal doméstico bastante popular.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Animal doméstico bastante popular.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>urso</text>
+        <comment>Mamífero de grande porte, onívoro, vive no hemisfério norte.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mamífero de grande porte, onívoro, vive no hemisfério norte.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>golfinho</text>
+        <comment>Mamífero aquático, são conhecidos por serem amistosos.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mamífero aquático, são conhecidos por serem amistosos.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zebra</text>
+        <comment>Mamífero listrado.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mamífero listrado.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>canguru</text>
+        <comment>Mamífero australiano, alguns já foram adestrados para lutar boxe.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mamífero australiano, alguns já foram adestrados para lutar boxe.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>baleia</text>
+        <comment>Mamífero aquático de grande porte, atualmente seus números são muito reduzidos.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mamífero aquático de grande porte, atualmente seus números são muito reduzidos.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cavalo</text>
+        <comment>Animal de montaria mais usado nas civilizações ocidentais.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Animal de montaria mais usado nas civilizações ocidentais.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>macaco</text>
+        <comment>Primata, muitas espécies estão ameaçadas de extinção.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Primata, muitas espécies estão ameaçadas de extinção.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pica-pau</text>
+        <comment>Pássaro. Em geral tem cabeça vermelha.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Pássaro. Em geral tem cabeça vermelha.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mergulhão</text>
+        <comment>Pássaro que se alimenta de peixes.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Pássaro que se alimenta de peixes.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cobra</text>
+        <comment>Tipo de réptil. Seu ataque pode matar uma pessoa.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Tipo de réptil. Seu ataque pode matar uma pessoa.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>girafa</text>
+        <comment>Animal mais alto do planeta.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Animal mais alto do planeta.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>elefante</text>
+        <comment>Mamífero herbívoro de grande porte, existem as espécies africanas e asiáticas. No século passado, quase foi extinto por caçadores que buscavam o marfim.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mamífero herbívoro de grande porte, existem as espécies africanas e asiáticas. No século passado, quase foi extinto por caçadores que buscavam o marfim.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rato</text>
+        <comment>Roedor, tido como praga de casas e cidades. Pode transmitir muitas doenças.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Roedor, tido como praga de casas e cidades. Pode transmitir muitas doenças.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>minhoca</text>
+        <comment>Muito popular como isca para pescarias.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Muito popular como isca para pescarias.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>libélula</text>
+        <comment>Inseto grande, vive perto de lagos e rios.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Inseto grande, vive perto de lagos e rios.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>borboleta</text>
+        <comment>Inseto mais conhecido pela sua beleza. Suas asas podem ter muitas formas e cores diferentes.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Inseto mais conhecido pela sua beleza. Suas asas podem ter muitas formas e cores diferentes.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pinguim</text>
+        <comment>Animal que é a mascote oficial do Linux.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Animal que é a mascote oficial do Linux.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>coelho</text>
+        <comment>Animal símbolo da páscoa.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Animal símbolo da páscoa.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hamster</text>
+        <comment>Roedor pequeno. Normalmente mostrado em uma gaiola com uma roda onde pode correr, fazendo-a girar.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Roedor pequeno. Normalmente mostrado em uma gaiola com uma roda onde pode correr, fazendo-a girar.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lobo</text>
+        <comment>Mamífero predador selvagem. Parente dos cachorros domésticos.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mamífero predador selvagem. Parente dos cachorros domésticos.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>leão</text>
+        <comment>Felino predador de grande porte. Leva o apelido de Rei dos animais.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Felino predador de grande porte. Leva o apelido de Rei dos animais.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tigre</text>
+        <comment>Felino predador de grande porte, com pelagem listrada.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Felino predador de grande porte, com pelagem listrada.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>polvo</text>
+        <comment>Animal aquático com oito tentáculos. Há filmes que mostram alguns exemplares gigantes atacando embarcações, mas em geral são pequenos.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Animal aquático com oito tentáculos. Há filmes que mostram alguns exemplares gigantes atacando embarcações, mas em geral são pequenos.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lula</text>
+        <comment>Molusco aquático. Pode nadar rápido e soltar tinta para confundir os inimigos. Também pode mudar de cor.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Molusco aquático. Pode nadar rápido e soltar tinta para confundir os inimigos. Também pode mudar de cor.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rinoceronte</text>
+        <comment>Mamífero herbívoro de grande porte que tem uma carapaça, e um ou dois chifres no centro de sua cabeça. Foi muito caçado no século XX e restam muito poucos hoje.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mamífero herbívoro de grande porte que tem uma carapaça, e um ou dois chifres no centro de sua cabeça. Foi muito caçado no século XX e restam muito poucos hoje.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>porco-espinho</text>
+        <comment>Seus pêlos modificados ferem que tenta pegá-los com as mãos. Tornou-se popular como mascote da empresa de videogames Sega.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Seus pêlos modificados ferem que tenta pegá-los com as mãos. Tornou-se popular como mascote da empresa de videogames Sega.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tartaruga</text>
+        <comment>Ráptil marinho com carapaça, suas quatro patas são adaptadas para funcionarem como nadadeiras. Pode viver mais de 100 anos.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ráptil marinho com carapaça, suas quatro patas são adaptadas para funcionarem como nadadeiras. Pode viver mais de 100 anos.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jabuti</text>
+        <comment>Réptil terrestre com carapaça, é símbolo de lentidão. Não confundir com o parente que vive no mar.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Réptil terrestre com carapaça, é símbolo de lentidão. Não confundir com o parente que vive no mar.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rena</text>
+        <comment>Animal herbívoro que vive na tundra do ártico. No mito, são elas que conduzem o trenó do Papai Noel.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Animal herbívoro que vive na tundra do ártico. No mito, são elas que conduzem o trenó do Papai Noel.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>esquilo</text>
+        <comment>Roedor, guarda nozes e outros frutos secos dentro do tronco de árvores para o inverno.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Roedor, guarda nozes e outros frutos secos dentro do tronco de árvores para o inverno.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hipopótamo</text>
+        <comment>Mamífero herbívoro de grande porte, que passa grande parte do tempo na água. É encontrado na África.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mamífero herbívoro de grande porte, que passa grande parte do tempo na água. É encontrado na África.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dinossauro</text>
+        <comment>Reptéis pré-históricos gigantescos.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Reptéis pré-históricos gigantescos.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>peru</text>
+        <comment>Ave de criação. É tradição à mesa do Natal.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ave de criação. É tradição à mesa do Natal.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>águia</text>
+        <comment>Ave de rapina, símbolo de poder e majestade. Existem muito poucas hoje em dia.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ave de rapina, símbolo de poder e majestade. Existem muito poucas hoje em dia.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tubarão</text>
+        <comment>Peixe carnívoro que pode alcançar tamanhos gigantescos. Pode atacar humanos e é mostrado em muitos filmes.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Peixe carnívoro que pode alcançar tamanhos gigantescos. Pode atacar humanos e é mostrado em muitos filmes.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pato</text>
+        <comment>Ave doméstica ou selvagem, pode voar mas em geral vive em lagos, onde nada na superfície.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ave doméstica ou selvagem, pode voar mas em geral vive em lagos, onde nada na superfície.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>peixe</text>
+        <comment>Tipo de animal que vive na água.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Tipo de animal que vive na água.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>papagaio</text>
+        <comment>Ave com bico curvo. Pode imitar a fala humana, e a espécie mais comum tem a cor verde.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ave com bico curvo. Pode imitar a fala humana, e a espécie mais comum tem a cor verde.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>arara</text>
+        <comment>Ave com bico curvo. Pode ser domesticada, mas está em extinção. Existem espécies muito coloridas, com a penagem azul ou vermelha.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ave com bico curvo. Pode ser domesticada, mas está em extinção. Existem espécies muito coloridas, com a penagem azul ou vermelha.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>periquito</text>
+        <comment>Ave com bico curvo. Pequeno, pode ser domesticado, e existe em várias cores.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ave com bico curvo. Pequeno, pode ser domesticado, e existe em várias cores.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sapo</text>
+        <comment>Anfíbio - suas larvas vivem exclusivamente na água. Quando adulto, pode respirar em terra.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Anfíbio - suas larvas vivem exclusivamente na água. Quando adulto, pode respirar em terra.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>caracol</text>
+        <comment>Molusco terrestre com concha.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Molusco terrestre com concha.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lesma</text>
+        <comment>Molusco terrestre. Não tem concha, e habita lugares úmidos. Ë sinônimo de 'lerdo', 'devagar'.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Molusco terrestre. Não tem concha, e habita lugares úmidos. Ë sinônimo de 'lerdo', 'devagar'.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="44" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>camelo</text>
+        <comment>Montaria usada por séculos como animal de travessia do deserto.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Montaria usada por séculos como animal de travessia do deserto.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="45" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jacaré</text>
+        <comment>Réptil carnívoro. Existem muitos no pantanal do Mato Grosso.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Réptil carnívoro. Existem muitos no pantanal do Mato Grosso.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="46" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>crococodilo</text>
+        <comment>Réptil carnívoro grande. Normalmente vive em água doce, e seu ataque é violento.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Réptil carnívoro grande. Normalmente vive em água doce, e seu ataque é violento.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="47" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mosquito</text>
+        <comment>Pequeno inseto voador. Algumas espécies se alimentam de sangue humano e são transmissoras de doenças como a febre amarela, dengue e malária.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Pequeno inseto voador. Algumas espécies se alimentam de sangue humano e são transmissoras de doenças como a febre amarela, dengue e malária.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="48" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ovelha</text>
+        <comment>Animal criado em rebanhos. Seus pêlos são usados para tecidos e roupas de inverno.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Animal criado em rebanhos. Seus pêlos são usados para tecidos e roupas de inverno.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="49" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>carneiro</text>
+        <comment>Macho de animal criado em rebanhos. Seus pêlos são usados para tecidos e roupas de inverno.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Macho de animal criado em rebanhos. Seus pêlos são usados para tecidos e roupas de inverno.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="50" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bode</text>
+        <comment>Macho de um mamífero que é criado em rebanhos. Tem fama de comer de tudo.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Macho de um mamífero que é criado em rebanhos. Tem fama de comer de tudo.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="51" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>marisco</text>
+        <comment>Molusco com conchas alongadas e marrons. É comestível.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Molusco com conchas alongadas e marrons. É comestível.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="52" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ostra</text>
+        <comment>Molusco. É criado em cativeiro, e além de ser comestível produz algo precioso, usado em jóias.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Molusco. É criado em cativeiro, e além de ser comestível produz algo precioso, usado em jóias.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="53" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mula</text>
+        <comment>Animal de montaria e de carga, que é o cruzamento de duas espécies diferentes. Não pode se reproduzir.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Animal de montaria e de carga, que é o cruzamento de duas espécies diferentes. Não pode se reproduzir.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="54" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jumento</text>
+        <comment>Animal de montaria e de carga, de menor porte que o cavalo.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Animal de montaria e de carga, de menor porte que o cavalo.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="55" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>aranha</text>
+        <comment>Aracnídeo que pode tecer teias. Existem muitas espécies, e algumas tem um veneno perigoso para o homem.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Aracnídeo que pode tecer teias. Existem muitas espécies, e algumas tem um veneno perigoso para o homem.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="56" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>formiga</text>
+        <comment>Inseto social de seis patas. Vive em colônias escavadas na terra, onde cultivam um fungo de que se alimentam.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Inseto social de seis patas. Vive em colônias escavadas na terra, onde cultivam um fungo de que se alimentam.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="57" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ariranha</text>
+        <comment>Mamífero que vive em rios e lagos e se alimenta de peixes. Não é grande, mas tem fama de ser agressivo.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mamífero que vive em rios e lagos e se alimenta de peixes. Não é grande, mas tem fama de ser agressivo.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="58" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lontra</text>
+        <comment>Mamífero que vive em rios e lagos, e se alimenta de peixes. Sua pele é muito apreciada por caçadores.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mamífero que vive em rios e lagos, e se alimenta de peixes. Sua pele é muito apreciada por caçadores.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="59" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>anta</text>
+        <comment>Roedor de grande porte. Seu nome é usado como um pejorativo para indicar falta de inteligência.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Roedor de grande porte. Seu nome é usado como um pejorativo para indicar falta de inteligência.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="60" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tatu</text>
+        <comment>Mamífero que habita tocas escavadas na terra. Algumas espécies podem se proteger, dobrando-se sobre si mesmas e formando uma bola.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mamífero que habita tocas escavadas na terra. Algumas espécies podem se proteger, dobrando-se sobre si mesmas e formando uma bola.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="61" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tamanduá</text>
+        <comment>Come formigas.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Come formigas.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="62" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>capivara</text>
+        <comment>Roedor brasileiro de grande porte.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Roedor brasileiro de grande porte.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="63" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vaca</text>
+        <comment>Criada em fazendas para produção de leite e carne.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Criada em fazendas para produção de leite e carne.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="64" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>boi</text>
+        <comment>Criado em fazendas para a produção de carne.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Criado em fazendas para a produção de carne.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="65" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>touro</text>
+        <comment>Na Espanha há espetáculos de combate entre o homem e esse animal.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Na Espanha há espetáculos de combate entre o homem e esse animal.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="66" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cotia</text>
+        <comment>Roedor com cerca de 50cm, que se alimenta de ervas frutos.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Roedor com cerca de 50cm, que se alimenta de ervas frutos.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="67" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>paca</text>
+        <comment>Roedor brasileiro, muito popular como caça para consumo da carne, no passado recente.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Roedor brasileiro, muito popular como caça para consumo da carne, no passado recente.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="68" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dromedário</text>
+        <comment>Animal usado como montaria para travessia de desertos. Possui uma corcova.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Animal usado como montaria para travessia de desertos. Possui uma corcova.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="69" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ornitorrinco</text>
+        <comment>Estranho mamífero australiano, que põe ovos, tem bico de pato, e um ferrão venenoso.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Estranho mamífero australiano, que põe ovos, tem bico de pato, e um ferrão venenoso.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="70" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>coala</text>
+        <comment>Mamífero australiano que parece um ursinho de pelúcia. Se alimenta de folhas de eucalípto.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Mamífero australiano que parece um ursinho de pelúcia. Se alimenta de folhas de eucalípto.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="71" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lhama</text>
+        <comment>Animal usado como montaria nos andes da América do Sul.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Animal usado como montaria nos andes da América do Sul.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="72" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>orangotango</text>
+        <comment>Espécie de macaco africano de grande porte.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Espécie de macaco africano de grande porte.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="73" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>chimpanzé</text>
+        <comment>Espécie de macaco. Bastante estudada em laboratórios por pesquisadores que tentam entender como se desenvolve a comunicação e a inteligência. Algums chegam a aprender dezenas de palavras na língua dos surdo-mudos.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Espécie de macaco. Bastante estudada em laboratórios por pesquisadores que tentam entender como se desenvolve a comunicação e a inteligência. Algums chegam a aprender dezenas de palavras na língua dos surdo-mudos.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="74" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jaguatirica</text>
+        <comment>Felino predador de médio porte que existe nas florestas brasileiras.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Felino predador de médio porte que existe nas florestas brasileiras.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="75" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pantera</text>
+        <comment>Felino predador. A variedade "negra" é muito bonita e chamativa.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Felino predador. A variedade "negra" é muito bonita e chamativa.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="76" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lince</text>
+        <comment>Felino predador de pequeno porte. É famoso por ter a visão aguçada.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Felino predador de pequeno porte. É famoso por ter a visão aguçada.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="77" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>barata</text>
+        <comment>Inseto que aparece nas casas. Habita ralos e esgotos e pode transmitir doenças.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Inseto que aparece nas casas. Habita ralos e esgotos e pode transmitir doenças.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="78" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>grilo</text>
+        <comment>Inseto cujo primeiro atributo lembrado é o barulho peculiar que faz com as pernas.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Inseto cujo primeiro atributo lembrado é o barulho peculiar que faz com as pernas.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="79" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>avestruz</text>
+        <comment>Ave de grande porte. Recentemente tem se tornado popular a criação dessa espécie para consumo da carne.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ave de grande porte. Recentemente tem se tornado popular a criação dessa espécie para consumo da carne.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="80" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ema</text>
+        <comment>Ave de grande porte que existe no Brasil. Não pode voar.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ave de grande porte que existe no Brasil. Não pode voar.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="81" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>siri</text>
+        <comment>Tipo de caranguejo.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Tipo de caranguejo.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="82" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>marreco</text>
+        <comment>Ave parecida com o pato, um pouco menor e mais colorida.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ave parecida com o pato, um pouco menor e mais colorida.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="83" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cisne</text>
+        <comment>Ave aquática muito bela, em geral branca, mas pode ser preta.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ave aquática muito bela, em geral branca, mas pode ser preta.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="84" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ganso</text>
+        <comment>Ave parecida com o pato, mas é maior. Seu fígado é apreciado como iguaria, sobretudo na França.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ave parecida com o pato, mas é maior. Seu fígado é apreciado como iguaria, sobretudo na França.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="85" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jibóia</text>
+        <comment>Cobra amazônica.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Cobra amazônica.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="86" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>serpente</text>
+        <comment>Categoria de répteis.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Categoria de répteis.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="87" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>preguiça</text>
+        <comment>Vive na amozônia, e vai devagar, devagar...</comment>
+      </translation>
+      <translation id="1" >
+        <text>Vive na amozônia, e vai devagar, devagar...</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="88" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>gambá</text>
+        <comment>Quando ameaçado, afugenta seus inimigos com mau cheiro.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Quando ameaçado, afugenta seus inimigos com mau cheiro.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="89" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>panda</text>
+        <comment>Animal Chinês que se alimenta de brotos de bambu. Restam poucos de sua espécie.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Animal Chinês que se alimenta de brotos de bambu. Restam poucos de sua espécie.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="90" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rã</text>
+        <comment>Tipo de anfíbio.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Tipo de anfíbio.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="91" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cachorro</text>
+        <comment>Animal doméstico muito popular.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Animal doméstico muito popular.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="92" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>abelha</text>
+        <comment>Inseto social que produz mel.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Inseto social que produz mel.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="93" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vespa</text>
+        <comment>Inseto social que vive em colméias. Possui um ferrão e pode atacar humanos.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Inseto social que vive em colméias. Possui um ferrão e pode atacar humanos.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="94" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>escorpião</text>
+        <comment>Aracnídeo que tem um ferrão na ponta da cauda. Sua picada pode ser mortal.</comment>
+      </translation>
+      <translation id="1" >
+        <text>Aracnídeo que tem um ferrão na ponta da cauda. Sua picada pode ser mortal.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

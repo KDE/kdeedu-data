@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>hard.kvtml</title>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>it</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>colpire</text>
+        <comment>battere su qualcosa</comment>
+      </translation>
+      <translation id="1" >
+        <text>battere su qualcosa</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>catalisi</text>
+        <comment>procedimento chimico</comment>
+      </translation>
+      <translation id="1" >
+        <text>procedimento chimico</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>gioielli</text>
+        <comment>ci sono pure quelli della corona</comment>
+      </translation>
+      <translation id="1" >
+        <text>ci sono pure quelli della corona</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>faro</text>
+        <comment>utile per le navi la notte</comment>
+      </translation>
+      <translation id="1" >
+        <text>utile per le navi la notte</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>aumento</text>
+        <comment>quando cresce qualcosa</comment>
+      </translation>
+      <translation id="1" >
+        <text>quando cresce qualcosa</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>federalismo</text>
+        <comment>concetto legato al tipo di stato</comment>
+      </translation>
+      <translation id="1" >
+        <text>concetto legato al tipo di stato</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dogmatico</text>
+        <comment>si accetta senza porsi dubbi</comment>
+      </translation>
+      <translation id="1" >
+        <text>si accetta senza porsi dubbi</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dilettantismo</text>
+        <comment>genere di attività di cui non si è pratici</comment>
+      </translation>
+      <translation id="1" >
+        <text>genere di attività di cui non si è pratici</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cloroformio</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>etnografia</text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>calligrafia</text>
+        <comment>studio della scrittura</comment>
+      </translation>
+      <translation id="1" >
+        <text>studio della scrittura</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>follia</text>
+        <comment>momento in cui non si agisce in modo innaturale</comment>
+      </translation>
+      <translation id="1" >
+        <text>momento in cui non si agisce in modo innaturale</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>fisarmonicista</text>
+        <comment>suonatore praghese</comment>
+      </translation>
+      <translation id="1" >
+        <text>suonatore praghese</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>boomerang</text>
+        <comment>ritorna indietro dopo averlo lanciato</comment>
+      </translation>
+      <translation id="1" >
+        <text>ritorna indietro dopo averlo lanciato</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ripensamento</text>
+        <comment>quando si decide nuovamente</comment>
+      </translation>
+      <translation id="1" >
+        <text>quando si decide nuovamente</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ornitologia</text>
+        <comment>lo studio degli uccelli</comment>
+      </translation>
+      <translation id="1" >
+        <text>lo studio degli uccelli</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>osteologia</text>
+        <comment>studio delle ossa</comment>
+      </translation>
+      <translation id="1" >
+        <text>studio delle ossa</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>serpente</text>
+        <comment>striscia ed è velenoso</comment>
+      </translation>
+      <translation id="1" >
+        <text>striscia ed è velenoso</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>esibizione</text>
+        <comment>quando ci si mostra</comment>
+      </translation>
+      <translation id="1" >
+        <text>quando ci si mostra</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>radiografia</text>
+        <comment>"foto" che mostra l'interno del nostro corpo</comment>
+      </translation>
+      <translation id="1" >
+        <text>"foto" che mostra l'interno del nostro corpo</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>surrealismo</text>
+        <comment>movimento letterario che esprime della vita dell'inconscio</comment>
+      </translation>
+      <translation id="1" >
+        <text>movimento letterario che esprime della vita dell'inconscio</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sillogismo</text>
+        <comment>tipo di ragionamento transitivo</comment>
+      </translation>
+      <translation id="1" >
+        <text>tipo di ragionamento transitivo</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>simposio</text>
+        <comment>banchetto</comment>
+      </translation>
+      <translation id="1" >
+        <text>banchetto</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>teologo</text>
+        <comment>studioso di religione</comment>
+      </translation>
+      <translation id="1" >
+        <text>studioso di religione</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>trigonometria</text>
+        <comment>branca della matematca</comment>
+      </translation>
+      <translation id="1" >
+        <text>branca della matematca</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>traslucido</text>
+        <comment>un oggetto come il vetro smerigliato</comment>
+      </translation>
+      <translation id="1" >
+        <text>un oggetto come il vetro smerigliato</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sincerità</text>
+        <comment>quando si dice ciò che si pensa</comment>
+      </translation>
+      <translation id="1" >
+        <text>quando si dice ciò che si pensa</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tapezzeria</text>
+        <comment>arredi vari</comment>
+      </translation>
+      <translation id="1" >
+        <text>arredi vari</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ritiro</text>
+        <comment>prelievo di denaro</comment>
+      </translation>
+      <translation id="1" >
+        <text>prelievo di denaro</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zoologia</text>
+        <comment>scienza che studia gli animali</comment>
+      </translation>
+      <translation id="1" >
+        <text>scienza che studia gli animali</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text></text>
+        <comment></comment>
+      </translation>
+      <translation id="1" >
+        <text></text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>xenofobia</text>
+        <comment>avversione agli stranieri</comment>
+      </translation>
+      <translation id="1" >
+        <text>avversione agli stranieri</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>proprietario</text>
+        <comment>persona a cui appartiene un certo oggetto</comment>
+      </translation>
+      <translation id="1" >
+        <text>persona a cui appartiene un certo oggetto</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>stupore</text>
+        <comment>reazione a una novità</comment>
+      </translation>
+      <translation id="1" >
+        <text>reazione a una novità</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>xilofono</text>
+        <comment>strumento musicale che si suona con due mazzuoli</comment>
+      </translation>
+      <translation id="1" >
+        <text>strumento musicale che si suona con due mazzuoli</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pseudonimo</text>
+        <comment>nome falso preso ad arte da un autore</comment>
+      </translation>
+      <translation id="1" >
+        <text>nome falso preso ad arte da un autore</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>prosperità</text>
+        <comment>condizione di benessere</comment>
+      </translation>
+      <translation id="1" >
+        <text>condizione di benessere</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>psichiatra</text>
+        <comment>cura le persone mentalmente disturbate</comment>
+      </translation>
+      <translation id="1" >
+        <text>cura le persone mentalmente disturbate</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>protagonista</text>
+        <comment>chi è al centro dell'attenzione</comment>
+      </translation>
+      <translation id="1" >
+        <text>chi è al centro dell'attenzione</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

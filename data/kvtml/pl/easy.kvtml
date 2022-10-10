@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>easy.kvtml</title>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>pl</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>przerwa</text>
+        <comment>czas odpoczynku</comment>
+      </translation>
+      <translation id="1" >
+        <text>czas odpoczynku</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>meble</text>
+        <comment>stoją w pokoju</comment>
+      </translation>
+      <translation id="1" >
+        <text>stoją w pokoju</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ogród</text>
+        <comment>zieleń</comment>
+      </translation>
+      <translation id="1" >
+        <text>zieleń</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>uczeń</text>
+        <comment>ktoś uczony przez inną osobę</comment>
+      </translation>
+      <translation id="1" >
+        <text>ktoś uczony przez inną osobę</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>warzywa</text>
+        <comment>zawierają dużo witamin</comment>
+      </translation>
+      <translation id="1" >
+        <text>zawierają dużo witamin</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jabłko</text>
+        <comment>okrągły owoc</comment>
+      </translation>
+      <translation id="1" >
+        <text>okrągły owoc</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>talerz</text>
+        <comment>jedzenie</comment>
+      </translation>
+      <translation id="1" >
+        <text>jedzenie</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>słodkie</text>
+        <comment>nie gorzkie</comment>
+      </translation>
+      <translation id="1" >
+        <text>nie gorzkie</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kuchnia</text>
+        <comment>miejsce gdzie przygotowuje się jedzenie</comment>
+      </translation>
+      <translation id="1" >
+        <text>miejsce gdzie przygotowuje się jedzenie</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>czekolada</text>
+        <comment>zawiera kakao</comment>
+      </translation>
+      <translation id="1" >
+        <text>zawiera kakao</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>komputer</text>
+        <comment>właśnie go używasz</comment>
+      </translation>
+      <translation id="1" >
+        <text>właśnie go używasz</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>marchew</text>
+        <comment>lubią ją króliki</comment>
+      </translation>
+      <translation id="1" >
+        <text>lubią ją króliki</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>wskazówka</text>
+        <comment>jak iść</comment>
+      </translation>
+      <translation id="1" >
+        <text>jak iść</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>banan</text>
+        <comment>żółty owoc</comment>
+      </translation>
+      <translation id="1" >
+        <text>żółty owoc</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>informacja</text>
+        <comment>wiedza</comment>
+      </translation>
+      <translation id="1" >
+        <text>wiedza</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pieniądze</text>
+        <comment>monety i banknoty</comment>
+      </translation>
+      <translation id="1" >
+        <text>monety i banknoty</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>przygoda</text>
+        <comment>coś ciekawego</comment>
+      </translation>
+      <translation id="1" >
+        <text>coś ciekawego</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kierowca</text>
+        <comment>osoba za kierownicą</comment>
+      </translation>
+      <translation id="1" >
+        <text>osoba za kierownicą</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>policjant</text>
+        <comment>pilnuje bezpieczeństwa</comment>
+      </translation>
+      <translation id="1" >
+        <text>pilnuje bezpieczeństwa</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ananas</text>
+        <comment>owoc tropikalny z twardą skórą</comment>
+      </translation>
+      <translation id="1" >
+        <text>owoc tropikalny z twardą skórą</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>znaczek</text>
+        <comment>na kopercie</comment>
+      </translation>
+      <translation id="1" >
+        <text>na kopercie</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>obiad</text>
+        <comment>jeść</comment>
+      </translation>
+      <translation id="1" >
+        <text>jeść</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>limuzyna</text>
+        <comment>luksusowy samochód</comment>
+      </translation>
+      <translation id="1" >
+        <text>luksusowy samochód</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>schody ruchome</text>
+        <comment>nie trzeba po nich wchodzić</comment>
+      </translation>
+      <translation id="1" >
+        <text>nie trzeba po nich wchodzić</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>śniadanie</text>
+        <comment>pierwszy posiłek dnia</comment>
+      </translation>
+      <translation id="1" >
+        <text>pierwszy posiłek dnia</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kwiat</text>
+        <comment>ładnie pachnie</comment>
+      </translation>
+      <translation id="1" >
+        <text>ładnie pachnie</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>edukacja</text>
+        <comment>nauka</comment>
+      </translation>
+      <translation id="1" >
+        <text>nauka</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>stół</text>
+        <comment>może mieć cztery nogi</comment>
+      </translation>
+      <translation id="1" >
+        <text>może mieć cztery nogi</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>klasa</text>
+        <comment>uczniowie</comment>
+      </translation>
+      <translation id="1" >
+        <text>uczniowie</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>telewizja</text>
+        <comment>w niej wiadomości</comment>
+      </translation>
+      <translation id="1" >
+        <text>w niej wiadomości</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>błąd</text>
+        <comment>pomyłka</comment>
+      </translation>
+      <translation id="1" >
+        <text>pomyłka</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>wczoraj</text>
+        <comment>poprzedni dzień</comment>
+      </translation>
+      <translation id="1" >
+        <text>poprzedni dzień</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ludzie</text>
+        <comment>nie zwierzęta</comment>
+      </translation>
+      <translation id="1" >
+        <text>nie zwierzęta</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dzieci</text>
+        <comment>przyszłość narodu</comment>
+      </translation>
+      <translation id="1" >
+        <text>przyszłość narodu</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>wschód słońca</text>
+        <comment>rano</comment>
+      </translation>
+      <translation id="1" >
+        <text>rano</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kurtka</text>
+        <comment>chroni przed zimnem</comment>
+      </translation>
+      <translation id="1" >
+        <text>chroni przed zimnem</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ser</text>
+        <comment>nabiał</comment>
+      </translation>
+      <translation id="1" >
+        <text>nabiał</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ptak</text>
+        <comment>także pingwin</comment>
+      </translation>
+      <translation id="1" >
+        <text>także pingwin</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kolacja</text>
+        <comment>ostatni posiłek</comment>
+      </translation>
+      <translation id="1" >
+        <text>ostatni posiłek</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>góra</text>
+        <comment>Rysy</comment>
+      </translation>
+      <translation id="1" >
+        <text>Rysy</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>las</text>
+        <comment>wiele w nim drzew</comment>
+      </translation>
+      <translation id="1" >
+        <text>wiele w nim drzew</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ziemniak</text>
+        <comment>pyra</comment>
+      </translation>
+      <translation id="1" >
+        <text>pyra</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>woda</text>
+        <comment>H2O</comment>
+      </translation>
+      <translation id="1" >
+        <text>H2O</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rzeka</text>
+        <comment>płynie wisła płynie</comment>
+      </translation>
+      <translation id="1" >
+        <text>płynie wisła płynie</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

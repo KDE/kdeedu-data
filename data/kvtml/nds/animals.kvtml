@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>convert_kvtml1to2.sh</generator>
+    <title>Deerten</title>
+    <comment>Deerten vun all Eerdelen</comment>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <locale>nds</locale>
+    </identifier>
+  </identifiers>
+	<entries>
+    <entry id="0">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Kelling</text>
+        <comment>Jung Katt</comment>
+      </translation>
+    </entry>
+    <entry id="1">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Boor</text>
+        <comment>Groot swoor Roofdeert mit dick Fell</comment>
+      </translation>
+    </entry>
+    <entry id="2">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Delfin</text>
+        <comment>Söögdeert, dat in't Meer leevt</comment>
+      </translation>
+    </entry>
+    <entry id="3">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Zebra</text>
+        <comment>Afrikaansch Wildpeerd mit swatte un witte Striepen</comment>
+      </translation>
+    </entry>
+    <entry id="4">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Känguruh</text>
+        <comment>Austraalsch Jumpdeert</comment>
+      </translation>
+    </entry>
+    <entry id="5">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Waal</text>
+        <comment>Groot Söögdeert, dat in't Meer leevt</comment>
+      </translation>
+    </entry>
+    <entry id="6">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Peerd</text>
+        <comment>Deert mit veer Been, kannst op rieden</comment>
+      </translation>
+    </entry>
+    <entry id="7">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Aap</text>
+        <comment>Den Minschen sien horig Verwandtschap</comment>
+      </translation>
+    </entry>
+    <entry id="8">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Boombicker</text>
+        <comment>En Vagel, de in'n Wald Larm hollt</comment>
+      </translation>
+    </entry>
+    <entry id="9">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Iesvagel</text>
+        <comment>Lütt blaag Vagel</comment>
+      </translation>
+    </entry>
+    <entry id="10">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Snaak</text>
+        <comment>Krüüpdeert ahn Been</comment>
+      </translation>
+    </entry>
+    <entry id="11">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Giraff</text>
+        <comment>Afrikaansch Deert mit en lang Hals</comment>
+      </translation>
+    </entry>
+    <entry id="12">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Elefant</text>
+        <comment>Gröttst Landdeert</comment>
+      </translation>
+    </entry>
+    <entry id="13">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Muus</text>
+        <comment>Lütt Gnaagdeert mit en dünn Steert</comment>
+      </translation>
+    </entry>
+    <entry id="14">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Worm</text>
+        <comment>Deert ahn Knaken</comment>
+      </translation>
+    </entry>
+    <entry id="15">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Speckfreter</text>
+        <comment>Groot Insekt mit dörsichtig Flünken</comment>
+      </translation>
+    </entry>
+    <entry id="16">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Penguin</text>
+        <comment>Seevagel an'n Söödpool</comment>
+      </translation>
+    </entry>
+    <entry id="17">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Kanink</text>
+        <comment>Gnaagdeert mit lang Ohren</comment>
+      </translation>
+    </entry>
+    <entry id="18">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Hamster</text>
+        <comment>Lütt Gnaagdeert mit groot Backen</comment>
+      </translation>
+    </entry>
+    <entry id="19">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Farken</text>
+        <comment>Jung Swien</comment>
+      </translation>
+    </entry>
+    <entry id="20">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Wulf</text>
+        <comment>Roofdeert ut de Sippschap vun den Hund</comment>
+      </translation>
+    </entry>
+    <entry id="21">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Lööv</text>
+        <comment>Groot Roofkatt ut Afrika</comment>
+      </translation>
+    </entry>
+    <entry id="22">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Tiger</text>
+        <comment>Grott Roofkatt ut Asien</comment>
+      </translation>
+    </entry>
+    <entry id="23">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Kraak</text>
+        <comment>Meerdeert mit acht Arms</comment>
+      </translation>
+    </entry>
+    <entry id="24">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Neeshoorn</text>
+        <comment>Afrikaansch Dickhuutdeert</comment>
+      </translation>
+    </entry>
+    <entry id="25">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Swienegel</text>
+        <comment>Insektenfreter mit Prekels</comment>
+      </translation>
+    </entry>
+    <entry id="26">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Rendeert</text>
+        <comment>Noordsch Deert mit en groot Harttwieg</comment>
+      </translation>
+    </entry>
+    <entry id="27">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Katteker</text>
+        <comment>Lütt Boomdeert mit en lang buschig Steert</comment>
+      </translation>
+    </entry>
+    <entry id="28">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Schildpadde</text>
+        <comment>Langsam Reptil</comment>
+      </translation>
+    </entry>
+    <entry id="29">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Nilpeerd</text>
+        <comment>Groot afrikaansch Waterdeert</comment>
+      </translation>
+    </entry>
+    <entry id="30">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Grootditsch</text>
+        <comment>Utstarven Reptil</comment>
+      </translation>
+    </entry>
+    <entry id="31">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Kalkuun</text>
+        <comment>Groot Vagel, de üm sien Fleesch teelt warrt</comment>
+      </translation>
+    </entry>
+    <entry id="32">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Aadler</text>
+        <comment>Groot Roofvagel</comment>
+      </translation>
+    </entry>
+    <entry id="33">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Hai</text>
+        <comment>Groot Fisch mit en dreekantig Floss op den Rüch</comment>
+      </translation>
+    </entry>
+    <entry id="34">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Aant</text>
+        <comment>Watervagel</comment>
+      </translation>
+    </entry>
+    <entry id="35">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Fisch</text>
+        <comment>Leevt in't Water</comment>
+      </translation>
+    </entry>
+    <entry id="36">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Papagei</text>
+        <comment>Kann wedderhalen, wat Du seggst</comment>
+      </translation>
+    </entry>
+    <entry id="37">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Pogg</text>
+        <comment>Lütt gröön Jumpdeert</comment>
+      </translation>
+    </entry>
+    <entry id="38">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Snick</text>
+        <comment>Hett ehr Huus dorbi</comment>
+      </translation>
+    </entry>
+    <entry id="39">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Kameel</text>
+        <comment>Wööstdeert</comment>
+      </translation>
+    </entry>
+    <entry id="40">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Alligater</text>
+        <comment>Reptil, liek to en Krokodil</comment>
+      </translation>
+    </entry>
+    <entry id="41">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Steekmügg</text>
+        <comment>En Oort vun Gnitten; dat Seken bitt</comment>
+      </translation>
+    </entry>
+    <entry id="42">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Schaap</text>
+        <comment>Levert Wull</comment>
+      </translation>
+    </entry>
+    <entry id="43">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>Granaat</text>
+        <comment>Smacklich Oort Schelldeerten (Porren)</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>
+

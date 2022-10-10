@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>converter</generator>
+    <title>Províncies</title>
+    <comment>Províncies de l'estat Espanyol</comment>
+    <date>2018-12-17</date>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Original</name>
+      <locale>ca</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>almeria</text>
+        <comment>Pertany a Andalusia</comment>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>cadis</text>
+        <comment>Pertany a Andalusia</comment>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>còrdova</text>
+        <comment>Pertany a Andalusia</comment>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>granada</text>
+        <comment>Pertany a Andalusia</comment>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>huelva</text>
+        <comment>Pertany a Andalusia</comment>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>jaén</text>
+        <comment>Pertany a Andalusia</comment>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>màlaga</text>
+        <comment>Pertany a Andalusia</comment>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>sevilla</text>
+        <comment>Pertany a Andalusia</comment>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>terol</text>
+        <comment>Pertany a Aragó</comment>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>saragossa</text>
+        <comment>Pertany a Aragó</comment>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>osca</text>
+        <comment>Pertany a Aragó</comment>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>astúries</text>
+        <comment>Única província del Principat d'Astúries</comment>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>illes balears</text>
+        <comment>Única província de les Illes Balears</comment>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>àlaba</text>
+        <comment>Pertany al País Basc</comment>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>guipúscua</text>
+        <comment>Pertany al País Basc</comment>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>biscaia</text>
+        <comment>Pertany al País Basc</comment>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>las palmas</text>
+        <comment>Pertany a les Illes Canàries</comment>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>santa cruz de tenerife</text>
+        <comment>Pertany a les Illes Canàries</comment>
+      </translation>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>cantàbria</text>
+        <comment>Única província de la Comunitat de Cantàbria</comment>
+      </translation>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>àvila</text>
+        <comment>Pertany a Castella i Lleó</comment>
+      </translation>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>burgos</text>
+        <comment>Pertany a Castella i Lleó</comment>
+      </translation>
+    </entry>
+    <entry id="21">
+      <translation id="0">
+        <text>lleó</text>
+        <comment>Pertany a Castella i Lleó</comment>
+      </translation>
+    </entry>
+    <entry id="22">
+      <translation id="0">
+        <text>palència</text>
+        <comment>Pertany a Castella i Lleó</comment>
+      </translation>
+    </entry>
+    <entry id="23">
+      <translation id="0">
+        <text>salamanca</text>
+        <comment>Pertany a Castella i Lleó</comment>
+      </translation>
+    </entry>
+    <entry id="24">
+      <translation id="0">
+        <text>segòvia</text>
+        <comment>Pertany a Castella i Lleó</comment>
+      </translation>
+    </entry>
+    <entry id="25">
+      <translation id="0">
+        <text>sòria</text>
+        <comment>Pertany a Castella i Lleó</comment>
+      </translation>
+    </entry>
+    <entry id="26">
+      <translation id="0">
+        <text>valladolid</text>
+        <comment>Pertany a Castella i Lleó</comment>
+      </translation>
+    </entry>
+    <entry id="27">
+      <translation id="0">
+        <text>zamora</text>
+        <comment>Pertany a Castella i Lleó</comment>
+      </translation>
+    </entry>
+    <entry id="28">
+      <translation id="0">
+        <text>albacete</text>
+        <comment>Pertany a Castella-La Manxa</comment>
+      </translation>
+    </entry>
+    <entry id="29">
+      <translation id="0">
+        <text>ciudad real</text>
+        <comment>Pertany a Castella-La Manxa</comment>
+      </translation>
+    </entry>
+    <entry id="30">
+      <translation id="0">
+        <text>cuenca</text>
+        <comment>Pertany a Castella-La Manxa</comment>
+      </translation>
+    </entry>
+    <entry id="31">
+      <translation id="0">
+        <text>toledo</text>
+        <comment>Pertany a Castella-La Manxa</comment>
+      </translation>
+    </entry>
+    <entry id="32">
+      <translation id="0">
+        <text>guadalajara</text>
+        <comment>Pertany a Castella-La Manxa</comment>
+      </translation>
+    </entry>
+    <entry id="33">
+      <translation id="0">
+        <text>barcelona</text>
+        <comment>Pertany a Catalunya</comment>
+      </translation>
+    </entry>
+    <entry id="34">
+      <translation id="0">
+        <text>girona</text>
+        <comment>Pertany a Catalunya</comment>
+      </translation>
+    </entry>
+    <entry id="35">
+      <translation id="0">
+        <text>tarragona</text>
+        <comment>Pertany a Catalunya</comment>
+      </translation>
+    </entry>
+    <entry id="36">
+      <translation id="0">
+        <text>lleida</text>
+        <comment>Pertany a Catalunya</comment>
+      </translation>
+    </entry>
+    <entry id="37">
+      <translation id="0">
+        <text>càceres</text>
+        <comment>Pertany a Extremadura</comment>
+      </translation>
+    </entry>
+    <entry id="38">
+      <translation id="0">
+        <text>badajoz</text>
+        <comment>Pertany a Extremadura</comment>
+      </translation>
+    </entry>
+    <entry id="39">
+      <translation id="0">
+        <text>la corunya</text>
+        <comment>Pertany a Galícia</comment>
+      </translation>
+    </entry>
+    <entry id="40">
+      <translation id="0">
+        <text>lugo</text>
+        <comment>Pertany a Galícia</comment>
+      </translation>
+    </entry>
+    <entry id="41">
+      <translation id="0">
+        <text>ourense</text>
+        <comment>Pertany a Galícia</comment>
+      </translation>
+    </entry>
+    <entry id="42">
+      <translation id="0">
+        <text>pontevedra</text>
+        <comment>Pertany a Galícia</comment>
+      </translation>
+    </entry>
+    <entry id="43">
+      <translation id="0">
+        <text>madrid</text>
+        <comment>Única província de la Comunitat de Madrid</comment>
+      </translation>
+    </entry>
+    <entry id="44">
+      <translation id="0">
+        <text>múrcia</text>
+        <comment>Única província de la Comunitat de Múrcia</comment>
+      </translation>
+    </entry>
+    <entry id="45">
+      <translation id="0">
+        <text>navarra</text>
+        <comment>Única província de la Comunitat Foral de Navarra</comment>
+      </translation>
+    </entry>
+    <entry id="46">
+      <translation id="0">
+        <text>la rioja</text>
+        <comment>Única província de la Comunitat de La Rioja</comment>
+      </translation>
+    </entry>
+    <entry id="47">
+      <translation id="0">
+        <text>ceuta</text>
+        <comment>Ciutat Autònoma, en territori africà</comment>
+      </translation>
+    </entry>
+    <entry id="48">
+      <translation id="0">
+        <text>melilla</text>
+        <comment>Ciutat Autònoma, en territori africà</comment>
+      </translation>
+    </entry>
+    <entry id="49">
+      <translation id="0">
+        <text>alacant</text>
+        <comment>Pertany al País Valencià</comment>
+      </translation>
+    </entry>
+    <entry id="50">
+      <translation id="0">
+        <text>castelló</text>
+        <comment>Pertany al País Valencià</comment>
+      </translation>
+    </entry>
+    <entry id="51">
+      <translation id="0">
+        <text>valència</text>
+        <comment>Pertany al País Valencià</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

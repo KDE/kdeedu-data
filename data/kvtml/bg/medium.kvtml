@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>medium.kvtml</title>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>bg</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>зюмбюл</text>
+        <comment>Пролетно цвете с приятен аромат</comment>
+      </translation>
+      <translation id="1" >
+        <text>Пролетно цвете с приятен аромат</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ябълка</text>
+        <comment>Плод</comment>
+      </translation>
+      <translation id="1" >
+        <text>Плод</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>магистрала</text>
+        <comment>Първокласен, високоскоростен път</comment>
+      </translation>
+      <translation id="1" >
+        <text>Първокласен, високоскоростен път</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ракия</text>
+        <comment>Високоалкохолно питие</comment>
+      </translation>
+      <translation id="1" >
+        <text>Високоалкохолно питие</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>уиски</text>
+        <comment>Високоалкохолно питие</comment>
+      </translation>
+      <translation id="1" >
+        <text>Високоалкохолно питие</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>чин</text>
+        <comment>Ученическа мебел за сядане в класната стая</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ученическа мебел за сядане в класната стая</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>октава</text>
+        <comment>Музикален термин</comment>
+      </translation>
+      <translation id="1" >
+        <text>Музикален термин</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>центрофуга</text>
+        <comment>Програма при пране на автоматична пералня</comment>
+      </translation>
+      <translation id="1" >
+        <text>Програма при пране на автоматична пералня</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>библиотека</text>
+        <comment>Място, от където могат да се вземат книги под наем</comment>
+      </translation>
+      <translation id="1" >
+        <text>Място, от където могат да се вземат книги под наем</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>книжарница</text>
+        <comment>Място, от където се купуват книги</comment>
+      </translation>
+      <translation id="1" >
+        <text>Място, от където се купуват книги</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>портрет</text>
+        <comment>Рисунка на човек</comment>
+      </translation>
+      <translation id="1" >
+        <text>Рисунка на човек</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>сертификат</text>
+        <comment>Свидетелство</comment>
+      </translation>
+      <translation id="1" >
+        <text>Свидетелство</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>свидетелство</text>
+        <comment>Удостоверение</comment>
+      </translation>
+      <translation id="1" >
+        <text>Удостоверение</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>секундомер</text>
+        <comment>Служи за точно измерване на време</comment>
+      </translation>
+      <translation id="1" >
+        <text>Служи за точно измерване на време</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>асансьор</text>
+        <comment>Елеватор</comment>
+      </translation>
+      <translation id="1" >
+        <text>Елеватор</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>дипломат</text>
+        <comment>Политик, представител на една страна в друга</comment>
+      </translation>
+      <translation id="1" >
+        <text>Политик, представител на една страна в друга</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>баскетбол</text>
+        <comment>Игра с топка, при която целта е да се вкара топката в кош</comment>
+      </translation>
+      <translation id="1" >
+        <text>Игра с топка, при която целта е да се вкара топката в кош</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>вентилатор</text>
+        <comment>Електрическо ветрило</comment>
+      </translation>
+      <translation id="1" >
+        <text>Електрическо ветрило</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>вулканизатор</text>
+        <comment>Служи за възстановяване на автомобилни гуми</comment>
+      </translation>
+      <translation id="1" >
+        <text>Служи за възстановяване на автомобилни гуми</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ротация</text>
+        <comment>Въртене на нещо</comment>
+      </translation>
+      <translation id="1" >
+        <text>Въртене на нещо</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>редактор</text>
+        <comment>Човек, отговорен за вестник или списание</comment>
+      </translation>
+      <translation id="1" >
+        <text>Човек, отговорен за вестник или списание</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>списание</text>
+        <comment>Ежемесечно печатно издание</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ежемесечно печатно издание</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>вестник</text>
+        <comment>Всекидневно печатно издание</comment>
+      </translation>
+      <translation id="1" >
+        <text>Всекидневно печатно издание</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>компютър</text>
+        <comment>Изчислителна машина</comment>
+      </translation>
+      <translation id="1" >
+        <text>Изчислителна машина</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>вратовръзка</text>
+        <comment>Мъжки моден атрибут</comment>
+      </translation>
+      <translation id="1" >
+        <text>Мъжки моден атрибут</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>върволица</text>
+        <comment>Дълга поредица от обекти</comment>
+      </translation>
+      <translation id="1" >
+        <text>Дълга поредица от обекти</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>галактика</text>
+        <comment>Космическо понятие</comment>
+      </translation>
+      <translation id="1" >
+        <text>Космическо понятие</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>космос</text>
+        <comment>Останалата част от вселената</comment>
+      </translation>
+      <translation id="1" >
+        <text>Останалата част от вселената</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>изследване</text>
+        <comment>Опит, проучване</comment>
+      </translation>
+      <translation id="1" >
+        <text>Опит, проучване</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>проучване</text>
+        <comment>Изследване</comment>
+      </translation>
+      <translation id="1" >
+        <text>Изследване</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>департамент</text>
+        <comment>Отдел, министерство</comment>
+      </translation>
+      <translation id="1" >
+        <text>Отдел, министерство</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ръководител</text>
+        <comment>Началник, шеф</comment>
+      </translation>
+      <translation id="1" >
+        <text>Началник, шеф</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>дистрибутор</text>
+        <comment>Търговец, човек, който разпределя</comment>
+      </translation>
+      <translation id="1" >
+        <text>Търговец, човек, който разпределя</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>разпределител</text>
+        <comment>Дистрибутор</comment>
+      </translation>
+      <translation id="1" >
+        <text>Дистрибутор</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>екземпляр</text>
+        <comment>Един обект от даден клас (вид)</comment>
+      </translation>
+      <translation id="1" >
+        <text>Един обект от даден клас (вид)</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>електрожен</text>
+        <comment>Служи за заваряване</comment>
+      </translation>
+      <translation id="1" >
+        <text>Служи за заваряване</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>жонгльор</text>
+        <comment>Човек, който подхвърля много топки или други елементи</comment>
+      </translation>
+      <translation id="1" >
+        <text>Човек, който подхвърля много топки или други елементи</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>елемент</text>
+        <comment>Артикул, бройка от нещо</comment>
+      </translation>
+      <translation id="1" >
+        <text>Артикул, бройка от нещо</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>артикул</text>
+        <comment>Елемент, бройка от нещо</comment>
+      </translation>
+      <translation id="1" >
+        <text>Елемент, бройка от нещо</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>апелиране</text>
+        <comment>Молба</comment>
+      </translation>
+      <translation id="1" >
+        <text>Молба</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>индикатор</text>
+        <comment>Нещо, което определя някакъв показател</comment>
+      </translation>
+      <translation id="1" >
+        <text>Нещо, което определя някакъв показател</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>показател</text>
+        <comment>Нещо, което определя друго нещо</comment>
+      </translation>
+      <translation id="1" >
+        <text>Нещо, което определя друго нещо</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>импулс</text>
+        <comment>Единица мярка за измерване на телефонни разговори</comment>
+      </translation>
+      <translation id="1" >
+        <text>Единица мярка за измерване на телефонни разговори</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>интеграл</text>
+        <comment>Математически термин</comment>
+      </translation>
+      <translation id="1" >
+        <text>Математически термин</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="44" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>каламбур</text>
+        <comment>Шега</comment>
+      </translation>
+      <translation id="1" >
+        <text>Шега</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="45" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>калкулатор</text>
+        <comment>Изчислителна машина с малък капацитет</comment>
+      </translation>
+      <translation id="1" >
+        <text>Изчислителна машина с малък капацитет</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="46" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>капацитет</text>
+        <comment>Лимит, вместимост</comment>
+      </translation>
+      <translation id="1" >
+        <text>Лимит, вместимост</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="47" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>катализатор</text>
+        <comment>Ускорител на процеси (най-вече в химията)</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ускорител на процеси (най-вече в химията)</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="48" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>космонавт</text>
+        <comment>Човек, който лети в космоса</comment>
+      </translation>
+      <translation id="1" >
+        <text>Човек, който лети в космоса</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="49" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>игрище</text>
+        <comment>Място за игра (футбол или друга)</comment>
+      </translation>
+      <translation id="1" >
+        <text>Място за игра (футбол или друга)</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="50" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>специалист</text>
+        <comment>Експерт в дадена област</comment>
+      </translation>
+      <translation id="1" >
+        <text>Експерт в дадена област</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="51" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>експерт</text>
+        <comment>специалист в дадена област</comment>
+      </translation>
+      <translation id="1" >
+        <text>специалист в дадена област</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="52" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>хладилник</text>
+        <comment>Кухненски уред за съхранение на продукти</comment>
+      </translation>
+      <translation id="1" >
+        <text>Кухненски уред за съхранение на продукти</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="53" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>телевизия</text>
+        <comment>Предаване на образ и звук на разстояние</comment>
+      </translation>
+      <translation id="1" >
+        <text>Предаване на образ и звук на разстояние</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="54" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>патриарх</text>
+        <comment>Висш ръководител на православната църква</comment>
+      </translation>
+      <translation id="1" >
+        <text>Висш ръководител на православната църква</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

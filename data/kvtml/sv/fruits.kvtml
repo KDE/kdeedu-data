@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Frukter</title>
+    <comment>All världens frukter</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>en</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>äpple</text>
+        <comment>Det är rött, grönt eller gult, och finns ofta i paj eller kaka</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>aprikos</text>
+        <comment>Ser ut som en liten persika</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>banan</text>
+        <comment>En avlĺng, böjd gul frukt, skalas innan den ätes</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Björnbär</text>
+        <comment>Ser ut som ett blankt, svart hallon, och växer pĺ en buske med väldigt starka, vassa taggar</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>blĺbär</text>
+        <comment>Söta blĺ bär, som mors lilla Olle ĺt av</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Körsbär</text>
+        <comment>Växer tvĺ och tvĺ pĺ träd, de är mörkt rödda när de är mogna och passar bra till smĺländsk ostkaka</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cocosnöt</text>
+        <comment>Stor som en nätmelon, brunt hĺrt skal pĺ utsidan, vit pĺ insidan och innehĺller mest en mjölkliknande vätska. Far, jag kan inte fĺ upp min kokosnöt... </comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>cranberry</text>
+        <comment>A bright red berry</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>grape</text>
+        <comment>Used to make wine</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>grapefrukt</text>
+        <comment>Ser ut som en stor apelsin, fast inte lika gul. Känd för att vara besk.</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kiwi</text>
+        <comment>Luddig frukt, med tunt brunt skal, grön pĺ insidan, med mycket smĺ svarta frön. Ätes ofta med sked efter att man delat den pĺ mitten</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>citron</text>
+        <comment>Ljusgul kusin till apelsinen, som är mycket mycket sur.</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lime</text>
+        <comment>Liten, grön kusin till citronen, inte fullt sĺ sur som citronen, och läggs ofta i smĺ bitar i coca cola</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mandarin</text>
+        <comment>Orange liten kusin till apelsinen, mer söt än sur, har tunnare och mer lättskalat skal än apelsinen, och har lättätliga smĺ klyftor</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mango</text>
+	<comment>Stor, slät, avlĺng exotisk frukt med rödgrönt tunt skal, gul inuti och har en mycket stor avlĺng kärna</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>oliv</text>
+        <comment>Ser ut som ett grön eller svart bär, med stor stenkärna i, växer pĺ träd i varma, torra trakter. Används oftast för att göra olja man steker i eller har i sallad.</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Apelsin</text>
+        <comment>Rund, söt, orange kusin till citronen. Används oftast till juice.</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Persika</text>
+        <comment>Mjuk frukt, tunnt gul-orange skal som är nĺgot luddigt, gult fruktkött och stor nötliknande kärna i mitten. Växer pĺ träd.</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>päron</text>
+        <comment>Samma storlek som äpple, grönt, formad som barbapappa. Nĺgot kornigt vitt fruktkött</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Ananas</text>
+        <comment>Ser ut som en exotisk, gigantisk kotte med en palm ovanpĺ. Gult fruktkött</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>plommon</text>
+	<comment>Söt, liten, slät lila frukt, gulgrönt fruktkött, med en ganska stor kärna. </comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Hallon</text>
+        <comment>bär, oftast gult eller rödrosa, ihĺligt, stark smak och används ofta till sylt eller i glass</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Jordgubb</text>
+        <comment>Stora röda bärfrukter med smĺ, smĺ gula frön pĺ utsidan. Ätes pĺ midsommarafton tillsammans med grädde.</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vattenmelon</text>
+        <comment>Gröngul randig frukt, stor som en basketboll, fruktköttet är rött och väldigt saftigt, med svartbruna kärnor</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

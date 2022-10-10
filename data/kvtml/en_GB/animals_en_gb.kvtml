@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Animals</title>
+    <comment>Animals of the World</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>en_GB</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kitten</text>
+        <comment>the young of a cat, ferret, etc.</comment>
+      </translation>
+      <translation id="1" >
+        <text>the young of a cat, ferret, etc.</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bear</text>
+        <comment>large heavy animal with thick fur</comment>
+      </translation>
+      <translation id="1" >
+        <text>large heavy animal with thick fur</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dolphin</text>
+        <comment>sea mammal</comment>
+      </translation>
+      <translation id="1" >
+        <text>sea mammal</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zebra</text>
+        <comment>African animal with black and white stripes</comment>
+      </translation>
+      <translation id="1" >
+        <text>African animal with black and white stripes</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kangaroo</text>
+        <comment>Australian jumping animal</comment>
+      </translation>
+      <translation id="1" >
+        <text>Australian jumping animal</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>whale</text>
+        <comment>very large sea mammal</comment>
+      </translation>
+      <translation id="1" >
+        <text>very large sea mammal</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>horse</text>
+        <comment>four-legged animal used for riding</comment>
+      </translation>
+      <translation id="1" >
+        <text>four-legged animal used for riding</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>monkey</text>
+        <comment>animal of a group closely related to man</comment>
+      </translation>
+      <translation id="1" >
+        <text>animal of a group closely related to man</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>woodpecker</text>
+        <comment>bird that clings to tree trunks</comment>
+      </translation>
+      <translation id="1" >
+        <text>bird that clings to tree trunks</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kingfisher</text>
+        <comment>small bird with bright bluish plumage</comment>
+      </translation>
+      <translation id="1" >
+        <text>small bird with bright bluish plumage</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>snake</text>
+        <comment>reptile with no legs</comment>
+      </translation>
+      <translation id="1" >
+        <text>reptile with no legs</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>giraffe</text>
+        <comment>long-necked African animal</comment>
+      </translation>
+      <translation id="1" >
+        <text>long-necked African animal</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>elephant</text>
+        <comment>largest living land animal with a trunk</comment>
+      </translation>
+      <translation id="1" >
+        <text>largest living land animal with a trunk</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mouse</text>
+        <comment>small rodent with a long thin tail</comment>
+      </translation>
+      <translation id="1" >
+        <text>small rodent with a long thin tail</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>worm</text>
+        <comment>animal with no bachbone or limbs</comment>
+      </translation>
+      <translation id="1" >
+        <text>animal with no bachbone or limbs</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dragonfly</text>
+        <comment>large insect with transparent wings</comment>
+      </translation>
+      <translation id="1" >
+        <text>large insect with transparent wings</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>penguin</text>
+        <comment>sea bird of the Antarctic regions</comment>
+      </translation>
+      <translation id="1" >
+        <text>sea bird of the Antarctic regions</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rabbit</text>
+        <comment>burrowing animal with long ears</comment>
+      </translation>
+      <translation id="1" >
+        <text>burrowing animal with long ears</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hamster</text>
+        <comment>small mouselike rodent with cheek-pouches</comment>
+      </translation>
+      <translation id="1" >
+        <text>small mouselike rodent with cheek-pouches</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>piglet</text>
+        <comment>young pig</comment>
+      </translation>
+      <translation id="1" >
+        <text>young pig</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>wolf</text>
+        <comment>fierce wild animal of the dog family</comment>
+      </translation>
+      <translation id="1" >
+        <text>fierce wild animal of the dog family</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lion</text>
+        <comment>large powerful animal of the cat family</comment>
+      </translation>
+      <translation id="1" >
+        <text>large powerful animal of the cat family</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tiger</text>
+        <comment>large Asian animal of the cat family</comment>
+      </translation>
+      <translation id="1" >
+        <text>large Asian animal of the cat family</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>octopus</text>
+        <comment>sea animal with eight long tentacles</comment>
+      </translation>
+      <translation id="1" >
+        <text>sea animal with eight long tentacles</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rhinoceros</text>
+        <comment>large thick-skinned animal of Africa</comment>
+      </translation>
+      <translation id="1" >
+        <text>large thick-skinned animal of Africa</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hedgehog</text>
+        <comment>small insect-eating animal with a back covered in stiff spines</comment>
+      </translation>
+      <translation id="1" >
+        <text>small insect-eating animal with a back covered in stiff spines</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>reindeer</text>
+        <comment>deer with large antlers</comment>
+      </translation>
+      <translation id="1" >
+        <text>deer with large antlers</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>squirrel</text>
+        <comment>small tree-climbing animal with a bushy tail</comment>
+      </translation>
+      <translation id="1" >
+        <text>small tree-climbing animal with a bushy tail</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tortoise</text>
+        <comment>a slow-moving four-footed reptile</comment>
+      </translation>
+      <translation id="1" >
+        <text>a slow-moving four-footed reptile</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hippopotamus</text>
+        <comment>large African river animal</comment>
+      </translation>
+      <translation id="1" >
+        <text>large African river animal</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dinosaur</text>
+        <comment>extinct reptile</comment>
+      </translation>
+      <translation id="1" >
+        <text>extinct reptile</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>turkey</text>
+        <comment>large bird reared for its flesh</comment>
+      </translation>
+      <translation id="1" >
+        <text>large bird reared for its flesh</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>eagle</text>
+        <comment>large bird of prey</comment>
+      </translation>
+      <translation id="1" >
+        <text>large bird of prey</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>shark</text>
+        <comment>large sea fish with a triangular fin on its back</comment>
+      </translation>
+      <translation id="1" >
+        <text>large sea fish with a triangular fin on its back</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>duck</text>
+        <comment>swimming bird</comment>
+      </translation>
+      <translation id="1" >
+        <text>swimming bird</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>fish</text>
+        <comment>live in water</comment>
+      </translation>
+      <translation id="1" >
+        <text>live in water</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>parrot</text>
+        <comment>can repeat your words</comment>
+      </translation>
+      <translation id="1" >
+        <text>can repeat your words</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>frog</text>
+        <comment>smal green jumping animal</comment>
+      </translation>
+      <translation id="1" >
+        <text>smal green jumping animal</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>snail</text>
+        <comment>has a spiral shell</comment>
+      </translation>
+      <translation id="1" >
+        <text>has a spiral shell</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>camel</text>
+        <comment>can survive a long time in the desert</comment>
+      </translation>
+      <translation id="1" >
+        <text>can survive a long time in the desert</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>alligator</text>
+        <comment>reptile of the crocodile family</comment>
+      </translation>
+      <translation id="1" >
+        <text>reptile of the crocodile family</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mosquito</text>
+        <comment>kind of gnat, the female of which bites</comment>
+      </translation>
+      <translation id="1" >
+        <text>kind of gnat, the female of which bites</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sheep</text>
+        <comment>grass-eating animal with a thick fleecy coat</comment>
+      </translation>
+      <translation id="1" >
+        <text>grass-eating animal with a thick fleecy coat</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>shellfish</text>
+        <comment>water animal that has a shell</comment>
+      </translation>
+      <translation id="1" >
+        <text>water animal that has a shell</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

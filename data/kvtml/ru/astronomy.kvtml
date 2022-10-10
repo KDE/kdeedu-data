@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <title>Астрономия</title>
+    <comment>Наука о происхождении, природе, движении и эволюции небесных тел и образованных ими систем.</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>ru</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>альбедо</text>
+        <comment>Характеристика отражательной способности поверхности</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>апекс</text>
+        <comment>Точка небесной сферы, по направлению к которой движется в данный момент Земля или Солнце</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>апоастр</text>
+        <comment>Точка орбиты в задаче двух тел, в которой взаимное расстояние между телами максимально.</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>астролябия</text>
+        <comment>Угломерный прибор, служивший до XVIII века для определения широт и долгот в астрономии, а также горизонтальных углов при землемерных работах.</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>бинокль</text>
+        <comment>Наиболее доступный оптический инструмент, который может быть использован астрономами-любителями.</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>болид</text>
+        <comment>Очень яркий метеор, иногда наблюдаемый даже днем, часто оставляющий после себя дымный след и сопровождаемый звуковыми явлениями</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>высота</text>
+        <comment>Одна из двух координат горизонтальной системы: угловое расстояние небесного объекта над горизонтом наблюдателя.</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>гигант</text>
+        <comment>Звезда значительно большей светимости и размера, чем у большинства звезд того же спектрального класса.</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>геоид</text>
+        <comment>Стереометрическая фигура, наиболее точно повторяющая форму Земли, которая несколько отличается от шара.</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>декада</text>
+        <comment>Период времени длительностью в 10 дней.</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>звезда</text>
+        <comment>Массивный самосветящийся газовый шар той же природы, что и Солнце.</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>зенит</text>
+        <comment>Точка пересечения небесной сферы с отвесной линией над головой наблюдателя.</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>кома</text>
+        <comment>Характерная аберрация для всех простых оптических систем.</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>коллапс</text>
+        <comment>Сжатие газового облака или звезды, исчерпавшей ядерные источники энергии, под действием собственной гравитации.</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>кратер</text>
+        <comment>Морфологическое образование на поверхности твердых тел планетных систем.</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>корона</text>
+        <comment>Внешняя, наиболее разреженная и горячая обрасть звезды.</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>лимб</text>
+        <comment>Видимый край диска Луны, Солнца или планеты в проекции на небесную сферу.</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>мениск</text>
+        <comment>Линза, обе сферических поверхности которой направлены выпуклостью в одну сторону.</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>надир</text>
+        <comment>Точка небесной сферы, в которой ее пересекает нижняя часть отвесной линии.</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>окуляр</text>
+        <comment>Оптическая система, обращенная к глазу наблюдателя и увеличивающая изображение, даваемое объективом.</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>объектив</text>
+        <comment>Оптическая система, строящая изображение предмета.</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>периастр</text>
+        <comment>Точка орбиты в задаче двух тел, в которой взаимное расстояние между телами минимально.</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>реголит</text>
+        <comment>Рыхлый материал, покрывающий поверхность небольших безатмосферных планет, спутников и астероидов.</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>созвездие</text>
+        <comment>Условный участок звездного неба, получивший название, навеянное наблюдаемой конфигурацией звезд, легендами и мифами.</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>спектр</text>
+        <comment>Зависимость энергии излучения источника от длины волны (или частоты) излучения.</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>терминатор</text>
+        <comment>Линия, отделяющая освещённое Солнцем полушарие Луны или планеты от неосвещенного.</comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>факел</text>
+        <comment>Яркие области горячего газа в фотосфере Солнца.</comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>меркурий</text>
+        <comment>Первая планета солнечной системы.</comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>венера</text>
+        <comment>Вторая планета солнечной системы.</comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>земля</text>
+        <comment>Третья планета солнечной системы.</comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>марс</text>
+        <comment>Четвёртая планета солнечной системы.</comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>юпитер</text>
+        <comment>Пятая планета солнечной системы.</comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>сатурн</text>
+        <comment>Шестая планета солнечной системы.</comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>уран</text>
+        <comment>Седьмая планета солнечной системы.</comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>нептун</text>
+        <comment>Восьмая планета солнечной системы.</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

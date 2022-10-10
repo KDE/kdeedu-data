@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Hard</title>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <name>Original</name>
+      <locale>ro</locale>
+      <personalpronouns>
+        <singular>
+          <firstperson></firstperson>
+          <secondperson></secondperson>
+          <thirdpersonmale></thirdpersonmale>
+          <thirdpersonfemale></thirdpersonfemale>
+          <thirdpersonneutralcommon></thirdpersonneutralcommon>
+        </singular>
+        <dual>
+          <firstperson></firstperson>
+          <secondperson></secondperson>
+          <thirdpersonmale></thirdpersonmale>
+          <thirdpersonfemale></thirdpersonfemale>
+          <thirdpersonneutralcommon></thirdpersonneutralcommon>
+        </dual>
+        <plural>
+          <firstperson></firstperson>
+          <secondperson></secondperson>
+          <thirdpersonmale></thirdpersonmale>
+          <thirdpersonfemale></thirdpersonfemale>
+          <thirdpersonneutralcommon></thirdpersonneutralcommon>
+        </plural>
+      </personalpronouns>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <translation id="0" >
+        <text>cataclism</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <translation id="0" >
+        <text>populatie</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <translation id="0" >
+        <text>dirijat</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <translation id="0" >
+        <text>fanfara</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <translation id="0" >
+        <text>politician</text>
+        <comment></comment>  <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <translation id="0" >
+        <text>dogma</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <translation id="0" >
+        <text>autostrada</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <translation id="0" >
+        <text>cutremur</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <translation id="0" >
+        <text>troleibuz</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <translation id="0" >
+        <text>gastronomie</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <translation id="0" >
+        <text>asfalt</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <translation id="0" >
+        <text>spanzuratoare</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <translation id="0" >
+        <text>cascadorie</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <translation id="0" >
+        <text>simpozion</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <translation id="0" >
+        <text>protagonist</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <translation id="0" >
+        <text>radiografie</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <translation id="0" >
+        <text>cloroform</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <translation id="0" >
+        <text>caligrafie</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <translation id="0" >
+        <text>incantator</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <translation id="0" >
+        <text>ascultator</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <translation id="0" >
+        <text>ornitorinc</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <translation id="0" >
+        <text>sarpe</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <translation id="0" >
+        <text>taximetrist</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <translation id="0" >
+        <text>autoturism</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <translation id="0" >
+        <text>creator</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <translation id="0" >
+        <text>exhibitionism</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <translation id="0" >
+        <text>acordeon</text>
+        <comment></comment> <!-- add hint here -->
+      </translation>
+      <translation id="1">
+        <text></text> <!-- add same hint here -->
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+  <wordtypes>
+    <container>
+      <name>Verb</name>
+      <specialwordtype>verb</specialwordtype>
+      <container>
+        <name>Regular</name>
+        <specialwordtype>verb</specialwordtype>
+      </container>
+      <container>
+        <name>Irregular</name>
+        <specialwordtype>verb</specialwordtype>
+      </container>
+    </container>
+    <container>
+      <name>Noun</name>
+      <specialwordtype>noun</specialwordtype>
+      <container>
+        <name>Male</name>
+        <specialwordtype>noun/male</specialwordtype>
+      </container>
+      <container>
+        <name>Female</name>
+        <specialwordtype>noun/female</specialwordtype>
+      </container>
+      <container>
+        <name>Neutral</name>
+        <specialwordtype>noun/neutral</specialwordtype>
+      </container>
+    </container>
+    <container>
+      <name>Name</name>
+    </container>
+    <container>
+      <name>Article</name>
+      <container>
+        <name>Definite</name>
+      </container>
+      <container>
+        <name>Indefinite</name>
+      </container>
+    </container>
+    <container>
+      <name>Adjective</name>
+      <specialwordtype>adjective</specialwordtype>
+    </container>
+    <container>
+      <name>Adverb</name>
+      <specialwordtype>adverb</specialwordtype>
+    </container>
+    <container>
+      <name>Pronoun</name>
+      <container>
+        <name>Possessive</name>
+      </container>
+      <container>
+        <name>Personal</name>
+      </container>
+    </container>
+    <container>
+      <name>Phrase</name>
+    </container>
+    <container>
+      <name>Numeral</name>
+      <container>
+        <name>Ordinal</name>
+      </container>
+      <container>
+        <name>Cardinal</name>
+      </container>
+    </container>
+    <container>
+      <name>Conjunction</name>
+    </container>
+    <container>
+      <name>Preposition</name>
+    </container>
+    <container>
+      <name>Question</name>
+    </container>
+  </wordtypes>
+</kvtml>

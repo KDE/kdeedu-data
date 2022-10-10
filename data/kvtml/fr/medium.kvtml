@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Moyen</title>
+    <comment>Mots de difficulté moyenne</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>fr</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>antibiotique</text>
+        <comment>Substance qui empêche la croissance des bactéries ou les détruit</comment>
+      </translation>
+      <translation id="1" >
+        <text>Substance qui empêche la croissance des bactéries ou les détruit</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pharmacie</text>
+        <comment>Où l'on prépare des médicaments</comment>
+      </translation>
+      <translation id="1" >
+        <text>Où l'on prépare des médicaments</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>boulangerie</text>
+        <comment>On y cuit le pain</comment>
+      </translation>
+      <translation id="1" >
+        <text>On y cuit le pain</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mairie</text>
+        <comment>On s'y marie</comment>
+      </translation>
+      <translation id="1" >
+        <text>On s'y marie</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>acrobate</text>
+        <comment>Artiste qui exécute des exercices d'agileté</comment>
+      </translation>
+      <translation id="1" >
+        <text>Artiste qui exécute des exercices d'agileté</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dahlia</text>
+        <comment>Plante à fleurs ornementales</comment>
+      </translation>
+      <translation id="1" >
+        <text>Plante à fleurs ornementales</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>infirmière</text>
+        <comment>Nous prodigue des soins</comment>
+      </translation>
+      <translation id="1" >
+        <text>Nous prodigue des soins</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>seringue</text>
+        <comment>Instrument permettant d'injecter un liquide</comment>
+      </translation>
+      <translation id="1" >
+        <text>Instrument permettant d'injecter un liquide</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mathématique</text>
+        <comment>Science étudiant les propriétés d'êtres abstraits</comment>
+      </translation>
+      <translation id="1" >
+        <text>Science étudiant les propriétés d'êtres abstraits</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>maternité</text>
+        <comment>État, qualité de mère</comment>
+      </translation>
+      <translation id="1" >
+        <text>État, qualité de mère</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>procédure</text>
+        <comment>Manière de procéder</comment>
+      </translation>
+      <translation id="1" >
+        <text>Manière de procéder</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>possession</text>
+        <comment>Fait d'avoir un bien</comment>
+      </translation>
+      <translation id="1" >
+        <text>Fait d'avoir un bien</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tropique</text>
+        <comment>Chacun des deux parrallèles du globe terrestre</comment>
+      </translation>
+      <translation id="1" >
+        <text>Chacun des deux parrallèles du globe terrestre</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>vocabulaire</text>
+        <comment>Ensemble des mots d'une langue</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ensemble des mots d'une langue</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>grammaire</text>
+        <comment>Ensemble des règles syntaxiques d'une langue</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ensemble des règles syntaxiques d'une langue</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>signature</text>
+        <comment>Action de parapher</comment>
+      </translation>
+      <translation id="1" >
+        <text>Action de parapher</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>silhouette</text>
+        <comment>Contours, lignes générales du corps</comment>
+      </translation>
+      <translation id="1" >
+        <text>Contours, lignes générales du corps</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>signalisation</text>
+        <comment>Emploi de signaux pour donner des renseignements à distance</comment>
+      </translation>
+      <translation id="1" >
+        <text>Emploi de signaux pour donner des renseignements à distance</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>visionneuse</text>
+        <comment>Appareil assurant la vision de diapositives ou de films</comment>
+      </translation>
+      <translation id="1" >
+        <text>Appareil assurant la vision de diapositives ou de films</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>traquenard</text>
+        <comment>Piège pour prendre les animaux nuisibles</comment>
+      </translation>
+      <translation id="1" >
+        <text>Piège pour prendre les animaux nuisibles</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>viticulture</text>
+        <comment>Culture de la vigne</comment>
+      </translation>
+      <translation id="1" >
+        <text>Culture de la vigne</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>magistrat</text>
+        <comment>On le trouve au tribunal</comment>
+      </translation>
+      <translation id="1" >
+        <text>On le trouve au tribunal</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>travailleur</text>
+        <comment>Personne qui se livre à un travail rémunéré</comment>
+      </translation>
+      <translation id="1" >
+        <text>Personne qui se livre à un travail rémunéré</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ravitaillement</text>
+        <comment>Action de fournir des vivres</comment>
+      </translation>
+      <translation id="1" >
+        <text>Action de fournir des vivres</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>rallongement</text>
+        <comment>Action d'étendre</comment>
+      </translation>
+      <translation id="1" >
+        <text>Action d'étendre</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>raccourci</text>
+        <comment>Chemin le plus court</comment>
+      </translation>
+      <translation id="1" >
+        <text>Chemin le plus court</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>qualification</text>
+        <comment>Attribution d'une valeur</comment>
+      </translation>
+      <translation id="1" >
+        <text>Attribution d'une valeur</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>quinquagénaire</text>
+        <comment>Âgé de cinquante à cinqante-neuf ans</comment>
+      </translation>
+      <translation id="1" >
+        <text>Âgé de cinquante à cinqante-neuf ans</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>radiesthésie</text>
+        <comment>Sensibilité à des rayonnements qui proviendraient des objets</comment>
+      </translation>
+      <translation id="1" >
+        <text>Sensibilité à des rayonnements qui proviendraient des objets</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>quarantaine</text>
+        <comment>Environ quarante</comment>
+      </translation>
+      <translation id="1" >
+        <text>Environ quarante</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>préfecture</text>
+        <comment>Circonscription administrative en France</comment>
+      </translation>
+      <translation id="1" >
+        <text>Circonscription administrative en France</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>alphabétisation</text>
+        <comment>Apprentissage de la lecture et de l'écriture</comment>
+      </translation>
+      <translation id="1" >
+        <text>Apprentissage de la lecture et de l'écriture</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>juridiction</text>
+        <comment>Ensemble des tribunaux de même ordre</comment>
+      </translation>
+      <translation id="1" >
+        <text>Ensemble des tribunaux de même ordre</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>législateur</text>
+        <comment>Qui a le pouvoir de légiférer</comment>
+      </translation>
+      <translation id="1" >
+        <text>Qui a le pouvoir de légiférer</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>missionnaire</text>
+        <comment>Prêtre qui propage la foi</comment>
+      </translation>
+      <translation id="1" >
+        <text>Prêtre qui propage la foi</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>miniaturisation</text>
+        <comment>Action de fabriquer quelque chose de petite dimension</comment>
+      </translation>
+      <translation id="1" >
+        <text>Action de fabriquer quelque chose de petite dimension</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pédagogie</text>
+        <comment>Science de l'éducation des enfants</comment>
+      </translation>
+      <translation id="1" >
+        <text>Science de l'éducation des enfants</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>médiathèque</text>
+        <comment>Chargée de la mise à disposition de documents de divers formats</comment>
+      </translation>
+      <translation id="1" >
+        <text>Chargée de la mise à disposition de documents de divers formats</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pamplemousse</text>
+        <comment>Fuit jaune au goût acidulé</comment>
+      </translation>
+      <translation id="1" >
+        <text>Fuit jaune au goût acidulé</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>converter</generator>
+    <title>Vestit</title>
+    <comment>Elements que fem servir per vestir-nos</comment>
+    <date>2018-12-20</date>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <name>Original</name>
+      <locale>ca</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <translation id="0" >
+        <text>vambes</text>
+        <comment>Calçat per a practicar esport</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <translation id="0" >
+        <text>botes</text>
+        <comment>Calçat per caminar a la muntanya</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <translation id="0" >
+        <text>pantalons</text>
+        <comment>Ens cobreix les cames</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <translation id="0" >
+        <text>banyador</text>
+        <comment>Peça de roba per anar a la platja, o a la piscina</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <translation id="0" >
+        <text>faldilla</text>
+        <comment>La part de sota d'un vestit</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <translation id="0" >
+        <text>vestit</text>
+        <comment>Peça de roba que ens cobreix tot el cos</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <translation id="0" >
+        <text>pijama</text>
+        <comment>Conjunt que fem servir quan anem a dormir</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <translation id="0" >
+        <text>xandall</text>
+        <comment>Conjunt que fem servir per a practicar esport</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <translation id="0" >
+        <text>jaqueta</text>
+        <comment>Peça de roba que ens protegeix del fred</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <translation id="0" >
+        <text>calçotets</text>
+        <comment>Roba interior dels nois</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <translation id="0" >
+        <text>calcetes</text>
+        <comment>Roba interior de les noies</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <translation id="0" >
+        <text>jersei</text>
+        <comment>Fet de llana o de cotó, ens protegeix del fred</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <translation id="0" >
+        <text>camisa</text>
+        <comment>Peça de roba amb botons, fins i tot al coll i les mànigues</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <translation id="0" >
+        <text>brusa</text>
+        <comment>Camisa de tela fina que fan servir les dones</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <translation id="0" >
+        <text>samarreta</text>
+        <comment>Pot ser de màniga llarga, o de màniga curta</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <translation id="0" >
+        <text>gorra</text>
+        <comment>Ens cobreix el cap</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <translation id="0" >
+        <text>ulleres de sol</text>
+        <comment>Protegeixen els ulls de la llum solar</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <translation id="0" >
+        <text>mitjons</text>
+        <comment>Ens escalfen els peus dintre de la sabata</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <translation id="0" >
+        <text>xancles</text>
+        <comment>Calçat per anar a la platja</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <translation id="0" >
+        <text>guants</text>
+        <comment>Són dos, i protegeixen les mans del fred</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <translation id="0" >
+        <text>cinturó</text>
+        <comment>Subjecta els pantalons, perquè no caiguin</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

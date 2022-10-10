@@ -1,0 +1,38 @@
+Dear Translator,
+
+You can greatly improve the data in this folder by adding hints for each word in the hard.kvtml file. You can add the definition in English as it is how it has been done in the other level files.
+In order to do so, each file has already been changed in the kvtml format
+
+<?xml version="1.0"?> 
+<!DOCTYPE kvtml SYSTEM "kvoctrain.dtd"> 
+<kvtml> 
+<e> 
+<o>the_word</o> 
+<t>a definition for the word, according to the level</t> 
+</e> 
+<e> 
+<o>word</o> 
+<t>definition</t> 
+</e> 
+...
+...
+</kvtml>
+
+So you keep each word in the <o> and </o> tags and you add a definition in the <t> </t>
+tags in order to guess the word.
+The definitions in easy.txt should be easy (understandable by kids) while definitions for hard.txt should be difficult (dictionary definitions).
+Please save each file as utf8 with the same filename than currently.
+
+When you have done this, can you please send a tarball of the new files to
+Anne-Marie Mahfouf
+annemarie.mahfouf@free.fr
+so she can add them on the server to be downloaded or simply indicate the data has been completed.
+
+See http://edu.kde.org/khangman/add_language.php for more information or email Anne-Marie.
+
+Thanks a lot in advance,
+
+Anne-Marie Mahfouf
+annemarie.mahfouf@free.fr
+
+25th October 2004

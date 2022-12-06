@@ -1,4 +1,4 @@
 
 FILE(GLOB datafiles *.kvtml)
-install( FILES ${datafiles} DESTINATION  ${DATA_INSTALL_DIR}/apps/kvtml/pa )
+install( FILES ${datafiles} DESTINATION  ${KDE_INSTALL_DATADIR}/apps/kvtml/pa )
 

@@ -109,8 +109,8 @@
       <inactive>false</inactive>
       <inquery>false</inquery>
       <translation id="0" >
-        <text>björn</text>
-        <comment>Stort tungt djur med tjock päls, finns även med vit päls på nordpolen</comment>
+        <text>bjÃ¶rn</text>
+        <comment>Stort tungt djur med tjock pÃ¤ls, finns Ã¤ven med vit pÃ¤ls pÃ¥ nordpolen</comment>
       </translation>
     </entry>
     <entry id="2" >
@@ -118,7 +118,7 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>delfin</text>
-        <comment>Havsdäggdjur som kommunicerar med högfrekventa ljud</comment>
+        <comment>HavsdÃ¤ggdjur som kommunicerar med hÃ¶gfrekventa ljud</comment>
       </translation>
     </entry>
     <entry id="3" >
@@ -126,15 +126,15 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>zebra</text>
-        <comment>ett randigt afrikanskt hästdjur</comment>
+        <comment>ett randigt afrikanskt hÃ¤stdjur</comment>
       </translation>
     </entry>
     <entry id="4" >
       <inactive>false</inactive>
       <inquery>false</inquery>
       <translation id="0" >
-        <text>känguru</text>
-        <comment>Hoppande djur från Australien</comment>
+        <text>kÃ¤nguru</text>
+        <comment>Hoppande djur frÃ¥n Australien</comment>
       </translation>
     </entry>
     <entry id="5" >
@@ -142,15 +142,15 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>val</text>
-        <comment>Mycket stort havsdäggdjur, vars närmsta landdäggdjur är kossan</comment>
+        <comment>Mycket stort havsdÃ¤ggdjur, vars nÃ¤rmsta landdÃ¤ggdjur Ã¤r kossan</comment>
       </translation>
     </entry>
     <entry id="6" >
       <inactive>false</inactive>
       <inquery>false</inquery>
       <translation id="0" >
-        <text>häst</text>
-        <comment>Fyrbent djur som används för ridning</comment>
+        <text>hÃ¤st</text>
+        <comment>Fyrbent djur som anvÃ¤nds fÃ¶r ridning</comment>
       </translation>
     </entry>
     <entry id="7" >
@@ -158,7 +158,7 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>apa</text>
-        <comment>Ett människoliknande däggdjur</comment>
+        <comment>Ett mÃ¤nniskoliknande dÃ¤ggdjur</comment>
       </translation>
     </entry>
     <entry id="8" >
@@ -166,7 +166,7 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>hackspett</text>
-        <comment>Fågel som hackar i trä</comment>
+        <comment>FÃ¥gel som hackar i trÃ¤</comment>
       </translation>
     </entry>
     <entry id="9" >
@@ -174,7 +174,7 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>kungsfiskare</text>
-        <comment>Liten fågel med klarblå fjäderdräkt</comment>
+        <comment>Liten fÃ¥gel med klarblÃ¥ fjÃ¤derdrÃ¤kt</comment>
       </translation>
     </entry>
     <entry id="10" >
@@ -190,7 +190,7 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>giraff</text>
-        <comment>Långhalsat afrikanskt djur</comment>
+        <comment>LÃ¥nghalsat afrikanskt djur</comment>
       </translation>
     </entry>
     <entry id="12" >
@@ -198,7 +198,7 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>elefant</text>
-        <comment>Största landlevande djuret. Har en snabel</comment>
+        <comment>StÃ¶rsta landlevande djuret. Har en snabel</comment>
       </translation>
     </entry>
     <entry id="13" >
@@ -206,7 +206,7 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>mus</text>
-        <comment>Liten gnagare med en lång svans</comment>
+        <comment>Liten gnagare med en lÃ¥ng svans</comment>
       </translation>
     </entry>
     <entry id="14" >
@@ -214,14 +214,14 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>mask</text>
-        <comment>Ryggradslöst djur som lever under marken</comment>
+        <comment>RyggradslÃ¶st djur som lever under marken</comment>
       </translation>
     </entry>
     <entry id="15" >
       <inactive>false</inactive>
       <inquery>false</inquery>
       <translation id="0" >
-  	<text>trollslända</text>
+  	<text>trollslÃ¤nda</text>
   	<comment>Stor insekt med genomskinliga vingar</comment>
       </translation>
     </entry>
@@ -230,7 +230,7 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>pingvin</text>
-        <comment>Vatten- och landfågel som lever på Antarktis</comment>
+        <comment>Vatten- och landfÃ¥gel som lever pÃ¥ Antarktis</comment>
       </translation>
     </entry>
     <entry id="17" >
@@ -238,7 +238,7 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>kanin</text>
-        <comment>lurvigt djur med långa öron och kort svansboll</comment>
+        <comment>lurvigt djur med lÃ¥nga Ã¶ron och kort svansboll</comment>
       </translation>
     </entry>
     <entry id="18" >
@@ -246,7 +246,7 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>hamster</text>
-        <comment>Litet gnagardjur som liknar råtta med platt ansikte och utan svans</comment>
+        <comment>Litet gnagardjur som liknar rÃ¥tta med platt ansikte och utan svans</comment>
       </translation>
     </entry>
     <entry id="19" >
@@ -254,7 +254,7 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>gris</text>
-        <comment>Fyrbent, rosa klövdjur som blir julskinka</comment>
+        <comment>Fyrbent, rosa klÃ¶vdjur som blir julskinka</comment>
       </translation>
     </entry>
     <entry id="20" >
@@ -262,7 +262,7 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>varg</text>
-        <comment>Rovdjur som tillhör hundfamiljen</comment>
+        <comment>Rovdjur som tillhÃ¶r hundfamiljen</comment>
       </translation>
     </entry>
     <entry id="21" >
@@ -285,15 +285,15 @@
       <inactive>false</inactive>
       <inquery>false</inquery>
       <translation id="0" >
-        <text>bläckfisk</text>
-        <comment>Ett havsdjur med åtta eller 10 armar</comment>
+        <text>blÃ¤ckfisk</text>
+        <comment>Ett havsdjur med Ã¥tta eller 10 armar</comment>
       </translation>
     </entry>
     <entry id="24" >
       <inactive>false</inactive>
       <inquery>false</inquery>
       <translation id="0" >
-        <text>noshörning</text>
+        <text>noshÃ¶rning</text>
         <comment>Ett stort afrikanskt savannlevande djur</comment>
       </translation>
     </entry>
@@ -302,7 +302,7 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>igelkott</text>
-        <comment>Ett litet däggdjur med taggar på ryggen</comment>
+        <comment>Ett litet dÃ¤ggdjur med taggar pÃ¥ ryggen</comment>
       </translation>
     </entry>
     <entry id="26" >
@@ -310,7 +310,7 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>ren</text>
-        <comment>Hjortdjur som lever långt norrut</comment>
+        <comment>Hjortdjur som lever lÃ¥ngt norrut</comment>
       </translation>
     </entry>
     <entry id="27" >
@@ -318,22 +318,22 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>ekorre</text>
-        <comment>Liten gnagare som klättrar i träd</comment>
+        <comment>Liten gnagare som klÃ¤ttrar i trÃ¤d</comment>
       </translation>
     </entry>
     <entry id="28" >
       <inactive>false</inactive>
       <inquery>false</inquery>
       <translation id="0" >
-        <text>sköldpadda</text>
-        <comment>Kräldjur med ryggsköld</comment>
+        <text>skÃ¶ldpadda</text>
+        <comment>KrÃ¤ldjur med ryggskÃ¶ld</comment>
       </translation>
     </entry>
     <entry id="29" >
       <inactive>false</inactive>
       <inquery>false</inquery>
       <translation id="0" >
-        <text>flodhäst</text>
+        <text>flodhÃ¤st</text>
         <comment>Stort afrikanskt floddjur</comment>
       </translation>
     </entry>
@@ -342,7 +342,7 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>dinosaurie</text>
-        <comment>utdöd reptildjurartsfamilj</comment>
+        <comment>utdÃ¶d reptildjurartsfamilj</comment>
       </translation>
     </entry>
     <entry id="31" >
@@ -350,15 +350,15 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>kalkon</text>
-        <comment>Stor fågel som föds upp för sitt goda kött. Ätes ofta kring jul</comment>
+        <comment>Stor fÃ¥gel som fÃ¶ds upp fÃ¶r sitt goda kÃ¶tt. Ã„tes ofta kring jul</comment>
       </translation>
     </entry>
     <entry id="32" >
       <inactive>false</inactive>
       <inquery>false</inquery>
       <translation id="0" >
-        <text>Örn</text>
-        <comment>stor rovfågel</comment>
+        <text>Ã–rn</text>
+        <comment>stor rovfÃ¥gel</comment>
       </translation>
     </entry>
     <entry id="33" >
@@ -366,7 +366,7 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>haj</text>
-        <comment>Stor rovfisk med vassa tänder</comment>
+        <comment>Stor rovfisk med vassa tÃ¤nder</comment>
       </translation>
     </entry>
     <entry id="34" >
@@ -374,7 +374,7 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>anka</text>
-        <comment>sjöfågel</comment>
+        <comment>sjÃ¶fÃ¥gel</comment>
       </translation>
     </entry>
     <entry id="35" >
@@ -390,7 +390,7 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>papegoja</text>
-        <comment>Fågel som kan upprepa ord</comment>
+        <comment>FÃ¥gel som kan upprepa ord</comment>
       </translation>
     </entry>
     <entry id="37" >
@@ -398,7 +398,7 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>groda</text>
-        <comment>Litet grönt hoppande djur</comment>
+        <comment>Litet grÃ¶nt hoppande djur</comment>
       </translation>
     </entry>
     <entry id="38" >
@@ -406,7 +406,7 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>snigel</text>
-        <comment>Snäckdjur med mycket långsamma rörelser</comment>
+        <comment>SnÃ¤ckdjur med mycket lÃ¥ngsamma rÃ¶relser</comment>
       </translation>
     </entry>
     <entry id="39" >
@@ -414,7 +414,7 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>kamel</text>
-        <comment>Hovdjur med två pucklar</comment>
+        <comment>Hovdjur med tvÃ¥ pucklar</comment>
       </translation>
     </entry>
     <entry id="40" >
@@ -422,7 +422,7 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>alligator</text>
-        <comment>Stort, vattenlevande reptildjur med stort gap och många vassa tänder</comment>
+        <comment>Stort, vattenlevande reptildjur med stort gap och mÃ¥nga vassa tÃ¤nder</comment>
       </translation>
     </entry>
     <entry id="41" >
@@ -437,8 +437,8 @@
       <inactive>false</inactive>
       <inquery>false</inquery>
       <translation id="0" >
-        <text>får</text>
-        <comment>Ullhårigt gräsätande djur</comment>
+        <text>fÃ¥r</text>
+        <comment>UllhÃ¥rigt grÃ¤sÃ¤tande djur</comment>
       </translation>
     </entry>
     <entry id="43" >
@@ -453,7 +453,7 @@
       <inactive>false</inactive>
       <inquery>false</inquery>
       <translation id="0" >
-  <text>bergsfår</text>
+  <text>bergsfÃ¥r</text>
   <comment>Bergsdjur med horn</comment>
       </translation>
     </entry>

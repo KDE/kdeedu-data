@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Facilaj</title>
+    <comment>Facilaj Vortoj</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>eo</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ludotempo</text>
+        <comment>tempo atribuita por infanoj ludi</comment>
+      </translation>
+      <translation id="1" >
+        <text>tempo atribuita por infanoj ludi</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mebloj</text>
+        <comment>objektoj en ĉambro</comment>
+      </translation>
+      <translation id="1" >
+        <text>objektoj en ĉambro</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ĝardeno</text>
+        <comment>peco de kultivita tero</comment>
+      </translation>
+      <translation id="1" >
+        <text>peco de kultivita tero</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lernanto</text>
+        <comment>neuniversitata persono instruita per iu alia</comment>
+      </translation>
+      <translation id="1" >
+        <text>neuniversitata persono instruita per iu alia</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>legomoj</text>
+        <comment>planto kies ajn parto estas uzata kiel manĝaĵo</comment>
+      </translation>
+      <translation id="1" >
+        <text>planto kies ajn parto estas uzata kiel manĝaĵo</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pomo</text>
+        <comment>ronda firma frukto</comment>
+      </translation>
+      <translation id="1" >
+        <text>ronda firma frukto</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>telero</text>
+        <comment>preskaŭ plata, kutime ronda manĝilo</comment>
+      </translation>
+      <translation id="1" >
+        <text>preskaŭ plata, kutime ronda manĝilo</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dolĉa</text>
+        <comment>gustas kvazaŭ ĝi enhavu sukeron</comment>
+      </translation>
+      <translation id="1" >
+        <text>gustas kvazaŭ ĝi enhavu sukeron</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kuirejo</text>
+        <comment>ĉambro en kiu manĝoj estas preparataj</comment>
+      </translation>
+      <translation id="1" >
+        <text>ĉambro en kiu manĝoj estas preparataj</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ĉokolato</text>
+        <comment>farita el kakao</comment>
+      </translation>
+      <translation id="1" >
+        <text>farita el kakao</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>komputilo</text>
+        <comment>elektronika maŝino</comment>
+      </translation>
+      <translation id="1" >
+        <text>elektronika maŝino</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>karoto</text>
+        <comment>kunikloj ŝatas ilin</comment>
+      </translation>
+      <translation id="1" >
+        <text>kunikloj ŝatas ilin</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="12">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>indiko</text>
+        <comment>montri al vi informon</comment>
+      </translation>
+      <translation id="1">
+        <text>montri al vi informon</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="13">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>banano</text>
+        <comment>flava frukto</comment>
+      </translation>
+      <translation id="1">
+        <text>flava frukto</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="14">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>informoj</text>
+        <comment>scio</comment>
+      </translation>
+      <translation id="1">
+        <text>scio</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="15">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>mono</text>
+        <comment>moneroj kaj monbiletoj</comment>
+      </translation>
+      <translation id="1">
+        <text>moneroj kaj monbiletoj</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="16">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>aventuro</text>
+        <comment>ekscita eksperimento</comment>
+      </translation>
+      <translation id="1">
+        <text>ekscita eksperimento</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="17">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>ŝoforo</text>
+        <comment>persono ĉe la stirrado</comment>
+      </translation>
+      <translation id="1">
+        <text>persono ĉe la stirrado</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="18">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>policano</text>
+        <comment>membro de polica forto</comment>
+      </translation>
+      <translation id="1">
+        <text>membro de polica forto</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="19">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>ananaso</text>
+        <comment>tropika frukto kun malmola segmentita haŭto</comment>
+      </translation>
+      <translation id="1">
+        <text>tropika frukto kun malmola segmentita haŭto</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="20">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>stampo</text>
+        <comment>algluu ĝin al koverto</comment>
+      </translation>
+      <translation id="1">
+        <text>algluu ĝin al koverto</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="21">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>tagmanĝo</text>
+        <comment>tagmeza manĝo</comment>
+      </translation>
+      <translation id="1">
+        <text>tagmeza manĝo</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="22">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>limuzino</text>
+        <comment>aŭto por famuloj</comment>
+      </translation>
+      <translation id="1">
+        <text>aŭto por famuloj</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="23">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>rulŝtuparo</text>
+        <comment>movanta ŝtuparo</comment>
+      </translation>
+      <translation id="1">
+        <text>movanta ŝtuparo</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="24">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>matenmanĝo</text>
+        <comment>unua manĝo de la tago</comment>
+      </translation>
+      <translation id="1">
+        <text>unua manĝo de la tago</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="25">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>floro</text>
+        <comment>parto de la planto el kiu evoluas semoj</comment>
+      </translation>
+      <translation id="1">
+        <text>parto de la planto el kiu evoluas semoj</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="26">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>edukado</text>
+        <comment>sistema trejnado</comment>
+      </translation>
+      <translation id="1">
+        <text>sistema trejnado</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="27">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>tablo</text>
+        <comment>havas platan supron kun unu aŭ pluraj kruroj</comment>
+      </translation>
+      <translation id="1">
+        <text>havas platan supron kun unu aŭ pluraj kruroj</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="28">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>klasĉambro</text>
+        <comment>kie lernantoj estas instruitaj</comment>
+      </translation>
+      <translation id="1">
+        <text>kie lernantoj estas instruitaj</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="29">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>televidilo</text>
+        <comment>ricevas kaj montras bildojn</comment>
+      </translation>
+      <translation id="1">
+        <text>ricevas kaj montras bildojn</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="30">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>eraro</text>
+        <comment>malĝusta ideo aŭ opinio</comment>
+      </translation>
+      <translation id="1">
+        <text>malĝusta ideo aŭ opinio</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="31">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>hieraŭ</text>
+        <comment>la tago antaŭ hodiaŭ</comment>
+      </translation>
+      <translation id="1">
+        <text>la tago antaŭ hodiaŭ</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="32">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>popolo</text>
+        <comment>granda grupo de personoj</comment>
+      </translation>
+      <translation id="1">
+        <text>granda grupo de personoj</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="33">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>infanoj</text>
+        <comment>junaj homoj</comment>
+      </translation>
+      <translation id="1">
+        <text>junaj homoj</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="34">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>surprizo</text>
+        <comment>io subita aŭ neatendita</comment>
+      </translation>
+      <translation id="1">
+        <text>io subita aŭ neatendita</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="35">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>jako</text>
+        <comment>mallonga mantelo</comment>
+      </translation>
+      <translation id="1">
+        <text>mallonga mantelo</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="36">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>fromaĝo</text>
+        <comment>solida manĝaĵo farita el lakto</comment>
+      </translation>
+      <translation id="1">
+        <text>solida manĝaĵo farita el lakto</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="37">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>kokido</text>
+        <comment>juna birdo, precipe de la bredkoko</comment>
+      </translation>
+      <translation id="1">
+        <text>juna birdo, precipe de la bredkoko</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="38">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>vespermanĝo</text>
+        <comment>manĝo en la vespero</comment>
+      </translation>
+      <translation id="1">
+        <text>manĝo en la vespero</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="39">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>monto</text>
+        <comment>amaso da tero kiu altiĝas al granda alteco</comment>
+      </translation>
+      <translation id="1">
+        <text>amaso da tero kiu altiĝas al granda alteco</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="40">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>arbaro</text>
+        <comment>aro da arboj</comment>
+      </translation>
+      <translation id="1">
+        <text>aro da arboj</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="41">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>terpomo</text>
+        <comment>planto kun amelaj manĝeblaj tuberoj</comment>
+      </translation>
+      <translation id="1">
+        <text>planto kun amelaj manĝeblaj tuberoj</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="42">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>akvo</text>
+        <comment>H₂O</comment>
+      </translation>
+      <translation id="1">
+        <text>H₂O</text>
+        <comment></comment>
+      </translation>
+    </entry>
+    <entry id="43">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>rivero</text>
+        <comment>granda natura fluo de akvo</comment>
+      </translation>
+      <translation id="1">
+        <text>granda natura fluo de akvo</text>
+        <comment></comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kanagram/kvtml2.dtd">
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "https://kde.org/standards/kvtml/kvtml2.dtd">
 <kvtml version="2.0" >
   <information>
     <generator>converter</generator>
@@ -17,10 +17,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>fingrartiko</text>
-        <comment></comment>
+        <comment>parto de mano</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>parto de mano</text>
         <comment></comment>
       </translation>
     </entry>
@@ -28,11 +28,11 @@
       <inactive>false</inactive>
       <inquery>false</inquery>
       <translation id="0">
-        <text>katalizo</text>
-        <comment></comment>
+        <text>katalizilo</text>
+        <comment>filtrilo por fumoj</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>filtrilo por fumoj</text>
         <comment></comment>
       </translation>
     </entry>
@@ -40,12 +40,12 @@
       <inactive>false</inactive>
       <inquery>false</inquery>
       <translation id="0">
-        <text>juvelaĵoj</text>
-        <comment></comment>
+        <text>juvelaĵo</text>
+        <comment>mane verkita dekoraĵo por homoj</comment>
       </translation>
       <translation id="1">
         <text></text>
-        <comment></comment>
+        <comment>mane verkita dekoraĵo por homoj</comment>
       </translation>
     </entry>
     <entry id="3">
@@ -53,10 +53,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>lumturo</text>
-        <comment></comment>
+        <comment>avertas ŝipnavistojn pri malbonaj vojoj</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>avertas ŝipnavistojn pri malbonaj vojoj</text>
         <comment></comment>
       </translation>
     </entry>
@@ -64,11 +64,11 @@
       <inactive>false</inactive>
       <inquery>false</inquery>
       <translation id="0">
-        <text>plibonigo</text>
-        <comment></comment>
+        <text>etendo</text>
+        <comment>aldono estas ...</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>aldono estas ...</text>
         <comment></comment>
       </translation>
     </entry>
@@ -101,10 +101,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>diletantismo</text>
-        <comment></comment>
+        <comment>se iu laboras senkvalifike kaj malbone</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>se iu laboras senkvalifike kaj malbone</text>
         <comment></comment>
       </translation>
     </entry>
@@ -113,10 +113,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>kloroformo</text>
-        <comment></comment>
+        <comment>ĉi anestezanto siatempe multe influis la kirurgion</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>ĉi anestezanto siatempe multe influis la kirurgion</text>
         <comment></comment>
       </translation>
     </entry>
@@ -125,10 +125,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>etnografio</text>
-        <comment></comment>
+        <comment>priskriba studado de la diversaj homgrupoj</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>priskriba studado de la diversaj homgrupoj</text>
         <comment></comment>
       </translation>
     </entry>
@@ -137,10 +137,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>kaligrafio</text>
-        <comment></comment>
+        <comment>arto de bela permana skribado</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>arto de bela permana skribado</text>
         <comment></comment>
       </translation>
     </entry>
@@ -149,10 +149,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>cerbumi</text>
-        <comment></comment>
+        <comment>profunde kaj ade pripensi malfacile solveblan</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>profunde kaj ade pripensi malfacile solveblan</text>
         <comment></comment>
       </translation>
     </entry>
@@ -161,10 +161,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>beladono</text>
-        <comment></comment>
+        <comment>tre venena planto de solano</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>tre venena planto de solano</text>
         <comment></comment>
       </translation>
     </entry>
@@ -173,10 +173,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>bumerango</text>
-        <comment></comment>
+        <comment>sportilo kiu estis origine uzita por la ĉaso</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>sportilo kiu estis origine uzita por la ĉaso</text>
         <comment></comment>
       </translation>
     </entry>
@@ -185,10 +185,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>akordionisto</text>
-        <comment></comment>
+        <comment>profesia ludanto de akordiono</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>profesia ludanto de akordiono</text>
         <comment></comment>
       </translation>
     </entry>
@@ -197,10 +197,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>postpenso</text>
-        <comment></comment>
+        <comment>plua penso post kiam oni finis pripensi</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>plua penso post kiam oni finis pripensi</text>
         <comment></comment>
       </translation>
     </entry>
@@ -209,10 +209,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>ornitologio</text>
-        <comment></comment>
+        <comment>scienco pri birdoj</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>scienco pri birdoj</text>
         <comment></comment>
       </translation>
     </entry>
@@ -221,10 +221,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>osteopatio</text>
-        <comment></comment>
+        <comment>kuracmetodo por manka moviĝivo de korpopartoj</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>kuracmetodo por manka moviĝivo de korpopartoj</text>
         <comment></comment>
       </translation>
     </entry>
@@ -233,10 +233,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>krotalo</text>
-        <comment></comment>
+        <comment>danĝera rastanta besto vivanta en varmaj regionoj</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>danĝera rastanta besto vivanta en varmaj regionoj</text>
         <comment></comment>
       </translation>
     </entry>
@@ -245,10 +245,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>ekspozicio</text>
-        <comment></comment>
+        <comment>montrado de aĵoj</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>montrado de aĵoj</text>
         <comment></comment>
       </translation>
     </entry>
@@ -257,10 +257,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>radiografio</text>
-        <comment></comment>
+        <comment>ombra bildo de objekto kreita per radioj</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>ombra bildo de objekto kreita per radioj</text>
         <comment></comment>
       </translation>
     </entry>
@@ -269,10 +269,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>superrealismo</text>
-        <comment></comment>
+        <comment>arta kaj literara movado de la 20a jarcento</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>arta kaj literara movado de la 20a jarcento</text>
         <comment></comment>
       </translation>
     </entry>
@@ -281,10 +281,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>silogismo</text>
-        <comment></comment>
+        <comment>formas la kernon de la klasika logiko de Aristotelo</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>formas la kernon de la klasika logiko de Aristotelo</text>
         <comment></comment>
       </translation>
     </entry>
@@ -293,10 +293,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>simpozio</text>
-        <comment></comment>
+        <comment>fakkunveno</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>fakkunveno</text>
         <comment></comment>
       </translation>
     </entry>
@@ -305,10 +305,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>teologo</text>
-        <comment></comment>
+        <comment>fakulo pri diaj aferoj</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>fakulo pri diaj aferoj</text>
         <comment></comment>
       </translation>
     </entry>
@@ -317,10 +317,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>taksidermisto</text>
-        <comment></comment>
+        <comment>fakulo pri konservado de bestokadavroj</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>fakulo pri konservado de bestokadavroj</text>
         <comment></comment>
       </translation>
     </entry>
@@ -329,10 +329,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>trigonometrio</text>
-        <comment></comment>
+        <comment>subfako de geometrio</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>subfako de geometrio</text>
         <comment></comment>
       </translation>
     </entry>
@@ -341,10 +341,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>diafaneco</text>
-        <comment></comment>
+        <comment>parta tralumeco de objektoj</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>parta tralumeco de objektoj</text>
         <comment></comment>
       </translation>
     </entry>
@@ -353,10 +353,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>vereco</text>
-        <comment></comment>
+        <comment>virto</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>virto</text>
         <comment></comment>
       </translation>
     </entry>
@@ -401,10 +401,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>labormaniulo</text>
-        <comment></comment>
+        <comment>persono kun troiga sindediĉo al laboro</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>persono kun troiga sindediĉo al laboro</text>
         <comment></comment>
       </translation>
     </entry>
@@ -425,10 +425,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>zoologio</text>
-        <comment></comment>
+        <comment>bestoscienco</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>bestoscienco</text>
         <comment></comment>
       </translation>
     </entry>
@@ -437,10 +437,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>ĉarumo</text>
-        <comment></comment>
+        <comment>transportilo kun ununura rado</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>transportilo kun ununura rado</text>
         <comment></comment>
       </translation>
     </entry>
@@ -449,10 +449,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>ksenofobio</text>
-        <comment></comment>
+        <comment>timo pri aliuloj</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>timo pri aliuloj</text>
         <comment></comment>
       </translation>
     </entry>
@@ -461,10 +461,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>jaktisto</text>
-        <comment></comment>
+        <comment>navisto de luksa velŝipo</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>navisto de luksa velŝipo</text>
         <comment></comment>
       </translation>
     </entry>
@@ -485,10 +485,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>ksilofono</text>
-        <comment></comment>
+        <comment>perkuteca muzikinstrumento</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>perkuteca muzikinstrumento</text>
         <comment></comment>
       </translation>
     </entry>
@@ -497,10 +497,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>pseŭdonimo</text>
-        <comment></comment>
+        <comment>kromnomo elektita por kaŝi indentecon</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>kromnomo elektita por kaŝi indentecon</text>
         <comment></comment>
       </translation>
     </entry>
@@ -509,10 +509,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>prospero</text>
-        <comment></comment>
+        <comment>stato de riĉeco</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>stato de riĉeco</text>
         <comment></comment>
       </translation>
     </entry>
@@ -521,10 +521,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>psikiatro</text>
-        <comment></comment>
+        <comment>animkuracisto</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>animkuracisto</text>
         <comment></comment>
       </translation>
     </entry>
@@ -533,10 +533,10 @@
       <inquery>false</inquery>
       <translation id="0">
         <text>protagonisto</text>
-        <comment></comment>
+        <comment>persono havante ĉefan rolon en libro, teatraĵo ktp.</comment>
       </translation>
       <translation id="1">
-        <text></text>
+        <text>persono havante ĉefan rolon en libro, teatraĵo ktp.</text>
         <comment></comment>
       </translation>
     </entry>

@@ -1,7 +1,8 @@
-project(kdeedu-data)
 cmake_minimum_required(VERSION 3.16)
 
-find_package(ECM 5.90 REQUIRED NO_MODULE)
+project(kdeedu-data)
+
+find_package(ECM 6.0 REQUIRED NO_MODULE)
 set(CMAKE_MODULE_PATH ${ECM_MODULE_PATH})
 
 include(FeatureSummary)

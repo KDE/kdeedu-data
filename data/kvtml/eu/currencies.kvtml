@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Monetak</title>
+    <comment>Munduko moneta modernoak eta historikoak</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>eu</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dinarra</text>
+        <comment>Aljeria, Bahrain eta Kuwait, besteak beste</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dolarra</text>
+        <comment>Ameriketako Estatu Batuak, Kanada eta Australia, besteak beste</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>drakma</text>
+        <comment>Grezia, 2002ra arte</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>euroa</text>
+        <comment>Europar Batasuneko hainbat herrialde</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>frankoa</text>
+        <comment>Frantzia, 2002ra arte; Suitza eta beste herrialde batzuk</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>florina</text>
+        <comment>Herbehereak, 2002ra arte</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>koruna</text>
+        <comment>Txekia; Eslovakia, 2008ra arte</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>suediar koroa</text>
+        <comment>Suedia</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>daniar eta norvegiar koroa</text>
+        <comment>Danimarka, Groenlandia eta Norvegia</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lira</text>
+        <comment>Italia, 2002ra arte</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>markoa</text>
+        <comment>Alemania, 2002ra arte</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pezeta</text>
+        <comment>Espainia, 2002ra arte</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pesoa</text>
+        <comment>Argentina, Txile, Mexiko, Kuba eta Kolonbia, besteak beste</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>libera</text>
+        <comment>Erresuma Batua, Egipto eta beste herrialde batzuk</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>randa</text>
+        <comment>Hegoafrika</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>renminbia</text>
+        <comment>Txina</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>errubloa</text>
+        <comment>Errusia eta Bielorrusia, besteak beste</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>errupia</text>
+        <comment>India, Pakistan eta Sri Lanka, besteak beste</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>txelina</text>
+        <comment>Kenya eta Tanzania, besteak beste</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>yena</text>
+        <comment>Japonia</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zlotya</text>
+        <comment>Polonia</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

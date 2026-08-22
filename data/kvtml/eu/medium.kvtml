@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Ertaina</title><!--Translate tag content-->
+    <comment>Hitz ertainak</comment><!--Translate tag content-->
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>eu</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun:male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun:female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun:neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>verb:regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>verb:irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>makina</text><!--Translate all text tags content-->
+        <comment>indar mekanikoa erabiltzen duen gailua</comment><!--Translate all comment tags content-->
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>logela</text>
+        <comment>ohea egoten den etxeko tokia</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>magistratua</text>
+        <comment>legea aplikatzeko aginpidea duen funtzionarioa</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>gimnasioa</text>
+        <comment>ariketa fisikoa egiteko prestatutako eraikina</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hitzordua</text>
+        <comment>ordu jakin batean elkartzeko adostasuna</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>antibiotikoa</text>
+        <comment>bakterioak suntsitu edo ugaritzea eragozten duen sendagaia</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ordezkaritza</text>
+        <comment>talde baten izenean jarduten duen pertsona multzoa</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>farmazialaria</text>
+        <comment>sendagaiak prestatu eta saltzen dituen profesionala</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>gazta-hanburgerra</text>
+        <comment>ogi artean haragia eta esneki-xerra duen janaria</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ebaluazioa</text>
+        <comment>zerbaiten balioa edo maila zehazteko azterketa</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ingurunea</text>
+        <comment>pertsona edo toki baten alboan dagoen guztia</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>supermerkatua</text>
+        <comment>produktu mota asko norberak hartzeko saltoki handia</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zantzua</text>
+        <comment>zerbait badela adierazten duen seinalea</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>erradiografia</text>
+        <comment>X izpien bidez lortutako gorputz barruko irudia</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>datuak</text>
+        <comment>zerbait ezagutzeko erabiltzen diren gertakariak</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>haragi xehatua</text>
+        <comment>zati oso txikitan moztutako okela</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sinadura</text>
+        <comment>pertsona batek bere izena eskuz idazteko duen modua</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>gogoberotasuna</text>
+        <comment>zerbaitek pizten duen interes eta poz handia</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zainzuria</text>
+        <comment>kimu gazteak jaten zaizkion landarea</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hiztegia</text>
+        <comment>hizkuntza bateko hitzen eta esanahien bilduma</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>gobernua</text>
+        <comment>herrialde bat zuzentzen duen erakundea</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>negutegia</text>
+        <comment>landareak eguraldi hotzetik babesteko beirazko eraikina</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>liburu-apala</text>
+        <comment>irakurgaiak jartzeko altzari zatia</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>argazkia</text>
+        <comment>kameraz lortutako irudia</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>adimena</text>
+        <comment>ulertu, ikasi eta arazoak konpontzeko gaitasuna</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>belar-mozgailua</text>
+        <comment>soropila laburtzeko erabiltzen den makina</comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>aritmetika</text>
+        <comment>zenbakiekin oinarrizko eragiketak aztertzen dituen arloa</comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kidetza</text>
+        <comment>elkarte baten barruan izatearen egoera</comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lasaitasuna</text>
+        <comment>kezkarik edo zaratarik gabeko egoera</comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ekarpena</text>
+        <comment>besteekin batera helburu baterako ematen dena</comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>apostrofoa</text>
+        <comment>letra bat kendu dela adieraz dezakeen puntuazio-marka</comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dibertsioa</text>
+        <comment>denbora atseginez igarotzeko jarduera</comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>aterkia</text>
+        <comment>euritik babesteko eskuz eramaten den objektua</comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>argiztapena</text>
+        <comment>toki bat ikusgarri egiteko erabiltzen diren argiak</comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>milimetroa</text>
+        <comment>metro baten milarena</comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>miligramoa</text>
+        <comment>gramo baten milarena</comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>akuarioa</text>
+        <comment>arrainak ikusgai edukitzeko urez betetako ontzia</comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zenbaketa okerra</text>
+        <comment>elementu kopurua gaizki kalkulatzearen emaitza</comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>biztanleria</text>
+        <comment>leku batean bizi diren pertsonen kopurua</comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>berrikuntza</text>
+        <comment>lehen ez zegoen metodo edo ideia bat sartzea</comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>intsinuazioa</text>
+        <comment>zuzenean esan gabe egiten den aipamen gaiztoa</comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>marrubia</text>
+        <comment>fruitu gorri txikia, haziak azalean dituena</comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>iloba</text>
+        <comment>anai-arreba baten semea/alaba</comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>landa-eremua</text>
+        <comment>hiri eta herriguneetatik kanpoko eskualdea</comment>
+      </translation>
+    </entry>
+    <entry id="44" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bilduma</text>
+        <comment>ezaugarri bat partekatzen duten objektuen multzoa</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

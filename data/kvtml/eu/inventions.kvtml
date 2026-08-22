@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Asmakizunak</title>
+    <comment>Gizakien asmakizun handiak</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>eu</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>aireontzia</text>
+        <comment>hego finkoei esker hegan egiten duen ibilgailua</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>antibiotikoak</text>
+        <comment>bakterioak hiltzen dituzten sendagaiak</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>automobila</text>
+        <comment>bidaiariak garraiatzeko motordun ibilgailua</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bateriak</text>
+        <comment>energia elektrikoa gordetzen dute</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bizikleta</text>
+        <comment>giza indarrez mugitzen den bi gurpileko ibilgailu eraginkorra</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bumerana</text>
+        <comment>jaurtitakoan itzul daitekeen objektua</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>erlojuak</text>
+        <comment>ordua zehaztasunez erakusten dute</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ordenagailuak</text>
+        <comment>ziur aski orain aurrean duzu horietako bat</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dinamita</text>
+        <comment>lehergai indartsua</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>elektrizitatea</text>
+        <comment>karga elektrikoen mugimenduarekin lotutako fenomenoa</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>igogailua</text>
+        <comment>eraikin garaietan bertikalki azkar mugitzeko aukera ematen du</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>posta elektronikoa</text>
+        <comment>mezuak Internet bidez azkar bidaltzeko sistema</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>helikopteroa</text>
+        <comment>hegal birakariek airean eusten dioten ibilgailua</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>aerolabangailua</text>
+        <comment>aire-kuxin baten gainean mugitzen den ibilgailua</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Internet</text>
+        <comment>ordenagailuen komunikazio-sare globala</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>laserrak</text>
+        <comment>argi-izpi oso bizi eta koherenteak sortzen dituzte</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>paper-klipa</text>
+        <comment>orriak aldi baterako elkartzen dituen objektua</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>argazkigintza</text>
+        <comment>une jakinen irudiak jasotzeko teknika</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>plastikoak</text>
+        <comment>propietate askotako polimero moldagarriak</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>radarra</text>
+        <comment>irrati-uhinen bidez objektuen kokapena zehazten du</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>irratia</text>
+        <comment>uhin elektromagnetikoen bidez soinua jasotzen duen gailua</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lurrun-makina</text>
+        <comment>ur-lurrunaren presioak mugitzen duen motorra</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>telefonoa</text>
+        <comment>ahots bidez urrutitik komunikatzeko gailua</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>telebista</text>
+        <comment>mugitzen diren irudiak erakusten dituen gailu elektrikoa</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Tetris</text>
+        <comment>Game Boy kontsolak ospetsu egin zuen buru-hausgarri jokoa</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>transistorea</text>
+        <comment>elektronika modernoaren oinarrizko osagaia</comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>belkroa</text>
+        <comment>kako eta begizten bidez lotzen den itxigailua</comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>gurpila</text>
+        <comment>marruskadura txikiz mugitzeko aukera ematen duen objektu biribila</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

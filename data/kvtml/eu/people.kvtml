@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Pertsonak</title>
+    <comment>Historian eragin handia izan duten pertsonak</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>eu</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Aristoteles</text>
+        <comment>eragin handiko filosofo greziarra</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Beethoven</text>
+        <comment>musika klasikoko konpositore alemaniarra</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Kolon</text>
+        <comment>1492an Karibera iritsi zen europar esploratzailea</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Darwin</text>
+        <comment>eboluzioaren teoria garatu zuen naturalista</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Edison</text>
+        <comment>bonbilla elektriko praktikoa garatzen lagundu zuen asmatzailea</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Einstein</text>
+        <comment>erlatibitatearen teoria garatu zuen fisikaria</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Fleming</text>
+        <comment>penizilina aurkitu zuen ikertzailea</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Galileo</text>
+        <comment>heliozentrismoa defendatu zuen astronomoa</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Gandhi</text>
+        <comment>Indiaren independentzia indarkeriarik gabe bultzatu zuen buruzagia</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Gorbatxov</text>
+        <comment>Sobietar Batasuneko azken presidentea</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Mandela</text>
+        <comment>Hegoafrikako apartheidaren aurka borrokatu zen buruzagia</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Marconi</text>
+        <comment>irrati-komunikazioaren garapenean aitzindaria</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Michelangelo</text>
+        <comment>margolaria, eskultorea eta arkitektoa</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Napoleon</text>
+        <comment>Frantziako militar eta enperadorea</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Newton</text>
+        <comment>grabitatearen legea formulatu zuen zientzialaria</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Pasteur</text>
+        <comment>mikrobiologian eta txertoetan aitzindaria</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Washington</text>
+        <comment>Ameriketako Estatu Batuetako lehen presidentea</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

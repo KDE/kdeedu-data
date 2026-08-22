@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Lanbideak</title>
+    <comment>Pertsonek egiten dituzten lanak</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>eu</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>true</inquery>
+      <translation id="0" >
+        <text>medikua</text>
+        <comment>gaixoak artatzen dituen osasun-profesionala</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>true</inquery>
+      <translation id="0" >
+        <text>suhiltzailea</text>
+        <comment>suteak itzaltzen dituen pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>true</inquery>
+      <translation id="0" >
+        <text>arrantzalea</text>
+        <comment>uretako animaliak harrapatzen dituen pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>true</inquery>
+      <translation id="0" >
+        <text>soldadua</text>
+        <comment>herrialde baten indar armatuetako kidea</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>astronauta</text>
+        <comment>Lurretik kanpo bidaiatzen duen pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>argiketaria</text>
+        <comment>instalazio elektrikoak muntatu eta mantentzen dituen pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>iturgina</text>
+        <comment>ur-hodiak eta instalazioak konpontzen dituen pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>psikiatra</text>
+        <comment>buruko nahasmenduak tratatzen dituen medikua</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>polizia</text>
+        <comment>legea betearazteaz arduratzen den agentea</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>idazlea</text>
+        <comment>testuak sortzea lanbide duen pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kazetaria</text>
+        <comment>albisteak bildu eta idazten dituen pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>programatzailea</text>
+        <comment>ordenagailurako softwarea sortzen duen pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>aktorea</text>
+        <comment>ikusleen aurrean pertsonaiak antzezten dituen pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>musikaria</text>
+        <comment>musika jo edo sortzen duen pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>umorista</text>
+        <comment>jendeari barre eragitea lanbide duen pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kimikaria</text>
+        <comment>kimikan espezializatutako zientzialaria</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>irakaslea</text>
+        <comment>ikasleei irakasten dien pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mekanikaria</text>
+        <comment>makinak eta ibilgailuak konpontzen dituen pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>nekazaria</text>
+        <comment>lurra landu eta uztak hazten dituen pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>artista</text>
+        <comment>arte-lanak sortzen dituen pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>saltzailea</text>
+        <comment>produktuak bezeroei saltzen dizkien pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jostuna</text>
+        <comment>jantziak egin eta konpontzen dituen pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>errementaria</text>
+        <comment>burdina eta altzairua lantzen dituen artisaua</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dentista</text>
+        <comment>ahoaren eta hortzen osasuna zaintzen duen profesionala</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>diseinatzailea</text>
+        <comment>produktu edo ideia baten itxura eta funtzioa prestatzen ditu</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zientzialaria</text>
+        <comment>zientziaren arlo batean aditua den pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>asmatzailea</text>
+        <comment>zerbait berria lehen aldiz pentsatu edo egiten duen pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ingeniaria</text>
+        <comment>ezagutza zientifikoa arazo praktikoak konpontzeko erabiltzen du</comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kontularia</text>
+        <comment>erakunde baten finantzak eta kontuak kudeatzen ditu</comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>okina</text>
+        <comment>ogia eta bestelako labeko produktuak egiten ditu</comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>eraikitzailea</text>
+        <comment>eraikinen eraikuntzan lan egiten du</comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>arotza</text>
+        <comment>zurezko altzariak eta egiturak egiten ditu</comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sukaldaria</text>
+        <comment>janaria prestatu eta kozinatzen du</comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ile-apaintzailea</text>
+        <comment>pertsonen ilea moztu eta orrazten du</comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>abokatua</text>
+        <comment>pertsonak lege-auzietan defendatu edo ordezkatzen ditu</comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>optikaria</text>
+        <comment>ikusmena eta betaurrekoak zaintzen dituen profesionala</comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>berriemailea</text>
+        <comment>albisteak bilatu eta jendaurrean azaltzen ditu</comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>idazkaria</text>
+        <comment>hitzorduak eta bilerak antolatzen ditu</comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>arkitektoa</text>
+        <comment>eraikin berrien planoak diseinatzen ditu</comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sendagilea</text>
+        <comment>gaixoak artatzen dituen osasun-profesionala</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

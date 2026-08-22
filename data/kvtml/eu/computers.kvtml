@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Ordenagailuak</title>
+    <comment>Ordenagailuaren inguruko elementuak</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>eu</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>monitorea</text>
+        <comment>informazio digitala pantailan erakusten duen gailua</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bozgorailuak</text>
+        <comment>seinale elektrikoak aireko soinu-uhin bihurtzen dituzte</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>inprimagailua</text>
+        <comment>informazio digitala paperean irudikatzen duen gailua</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sagua</text>
+        <comment>erakuslea mugitu eta aginduak emateko gailua</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>teklatua</text>
+        <comment>teklen bidez datuak sartzeko gailua</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>aginte-makila</text>
+        <comment>jokoetan norabidea eta ekintzak kontrolatzeko sarrera-gailua</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>modema</text>
+        <comment>sare baten bidez komunikatzeko seinaleak egokitzen dituen gailua</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kafeina</text>
+        <comment>erne egoten laguntzen duen substantzia</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>USB memoria</text>
+        <comment>datuak eramateko kanpoko biltegiratze-gailu txikia</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ukimen-sagua</text>
+        <comment>hatzarekin erakuslea kontrolatzeko gainazal laua</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>eskanerra</text>
+        <comment>objektu lau baten irudikapen digitala sortzen duen gailua</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>entzungailuak</text>
+        <comment>soinua besteak molestatu gabe entzuteko gailuak</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>web-kamera</text>
+        <comment>mugitzen diren irudiak sarearen bidez bidaltzen dituen kamera</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mikrofonoa</text>
+        <comment>soinua grabatzeko erabiltzen den gailua</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>Wi-Fi</text>
+        <comment>gailuak haririk gabe sarera lotzeko teknologia</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>USB</text>
+        <comment>gailuak konektatzeko ataka eta komunikazio-estandarra</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

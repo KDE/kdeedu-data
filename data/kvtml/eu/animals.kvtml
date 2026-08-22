@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Animaliak</title><!--Translate tag content-->
+    <comment>Mundu osoko animaliak</comment><!--Translate tag content-->
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <locale>eu</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>hartza</text>
+        <comment>larru trinkoa duen animalia handi eta astuna</comment>
+      </translation>
+    </entry>
+    <entry id="1">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>izurdea</text>
+        <comment>uretan bizi den ugaztun adimentsua</comment>
+      </translation>
+    </entry>
+    <entry id="2">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>zebra</text>
+        <comment>marra zuri-beltzak dituen Afrikako animalia</comment>
+      </translation>
+    </entry>
+    <entry id="3">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>kangurua</text>
+        <comment>jauzika ibiltzen den Australiako animalia</comment>
+      </translation>
+    </entry>
+    <entry id="4">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>balea</text>
+        <comment>itsasoan bizi den ugaztun erraldoia</comment>
+      </translation>
+    </entry>
+    <entry id="5">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>zaldia</text>
+        <comment>lau hankako animalia, gainean ibiltzeko erabilia</comment>
+      </translation>
+    </entry>
+    <entry id="6">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>tximinoa</text>
+        <comment>gizakiekin ahaidetasun estua duen animalia</comment>
+      </translation>
+    </entry>
+    <entry id="7">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>okila</text>
+        <comment>enborretan mokoaz zuloak egiten dituen txoria</comment>
+      </translation>
+    </entry>
+    <entry id="8">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>sugea</text>
+        <comment>hankarik gabeko narrastia</comment>
+      </translation>
+    </entry>
+    <entry id="9">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>jirafa</text>
+        <comment>lepo oso luzea duen Afrikako animalia</comment>
+      </translation>
+    </entry>
+    <entry id="10">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>elefantea</text>
+        <comment>tronpa duen lehorreko animaliarik handiena</comment>
+      </translation>
+    </entry>
+    <entry id="11">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>sagua</text>
+        <comment>isats luzea duen karraskari txikia</comment>
+      </translation>
+    </entry>
+    <entry id="12">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>harra</text>
+        <comment>bizkarrezurrik eta gorputz-adarrik gabeko animalia</comment>
+      </translation>
+    </entry>
+    <entry id="13">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>burruntzia</text>
+        <comment>hego gardenak dituen intsektu handia</comment>
+      </translation>
+    </entry>
+    <entry id="14">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>pinguinoa</text>
+        <comment>hegoaldeko eskualde hotzetan bizi den itsas hegaztia</comment>
+      </translation>
+    </entry>
+    <entry id="15">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>untxia</text>
+        <comment>belarri luzeak ditu eta lurpean egiten du habia</comment>
+      </translation>
+    </entry>
+    <entry id="16">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>hamsterra</text>
+        <comment>etxean maskota gisa eduki ohi den karraskari txikia</comment>
+      </translation>
+    </entry>
+    <entry id="17">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>otsoa</text>
+        <comment>txakurren familiako animalia basati eta indartsua</comment>
+      </translation>
+    </entry>
+    <entry id="18">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>lehoia</text>
+        <comment>katuen familiako animalia handi eta boteretsua</comment>
+      </translation>
+    </entry>
+    <entry id="19">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>tigrea</text>
+        <comment>katuen familiako Asiako animalia marraduna</comment>
+      </translation>
+    </entry>
+    <entry id="20">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>olagarroa</text>
+        <comment>zortzi garro dituen itsas animalia</comment>
+      </translation>
+    </entry>
+    <entry id="21">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>errinozeroa</text>
+        <comment>azal lodia eta muturrean adarra duen animalia handia</comment>
+      </translation>
+    </entry>
+    <entry id="22">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>trikua</text>
+        <comment>bizkarra arantza gogorrez estalita duen animalia txikia</comment>
+      </translation>
+    </entry>
+    <entry id="23">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>elur-oreina</text>
+        <comment>adar handiak dituen eskualde hotzetako ugaztuna</comment>
+      </translation>
+    </entry>
+    <entry id="24">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>urtxintxa</text>
+        <comment>zuhaitzetan gora egiten duen isats sarriko animalia txikia</comment>
+      </translation>
+    </entry>
+    <entry id="25">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>dortoka</text>
+        <comment>oskol gogorra duen eta astiro mugitzen den narrastia</comment>
+      </translation>
+    </entry>
+    <entry id="26">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>hipopotamoa</text>
+        <comment>Afrikako ibaietan bizi den animalia handi eta astuna</comment>
+      </translation>
+    </entry>
+    <entry id="27">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>dinosauroa</text>
+        <comment>duela milioika urte desagertu zen narrastia</comment>
+      </translation>
+    </entry>
+    <entry id="28">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>arranoa</text>
+        <comment>harrapakinak ehizatzen dituen hegazti handi eta indartsua</comment>
+      </translation>
+    </entry>
+    <entry id="29">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>marrazoa</text>
+        <comment>hegats triangeluarra duen itsas arrain handia</comment>
+      </translation>
+    </entry>
+    <entry id="30">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>ahatea</text>
+        <comment>uretan igeri egiten duen hegaztia</comment>
+      </translation>
+    </entry>
+    <entry id="31">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>arraina</text>
+        <comment>zakatzetatik arnasten duen uretako animalia</comment>
+      </translation>
+    </entry>
+    <entry id="32">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>loroa</text>
+        <comment>gizakien hitzak errepika ditzakeen txoria</comment>
+      </translation>
+    </entry>
+    <entry id="33">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>igela</text>
+        <comment>jauzi egiten duen anfibio txiki berdea</comment>
+      </translation>
+    </entry>
+    <entry id="34">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>barraskiloa</text>
+        <comment>oskol kiribila duen eta astiro mugitzen den animalia</comment>
+      </translation>
+    </entry>
+    <entry id="35">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>gamelua</text>
+        <comment>basamortuan urik gabe denbora luzez iraun dezakeen animalia</comment>
+      </translation>
+    </entry>
+    <entry id="36">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>aligatorra</text>
+        <comment>krokodiloen familiako narrasti handia</comment>
+      </translation>
+    </entry>
+    <entry id="37">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>eltxoa</text>
+        <comment>ziztadaren bidez malaria heda dezakeen intsektua</comment>
+      </translation>
+    </entry>
+    <entry id="38">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>ardia</text>
+        <comment>artile lodia duen eta belarra jaten duen animalia</comment>
+      </translation>
+    </entry>
+    <entry id="39">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>itsaskia</text>
+        <comment>maskorra duen uretako animalia</comment>
+      </translation>
+    </entry>
+    <entry id="40">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>katakumea</text>
+        <comment>etxeko felino gaztea</comment>
+      </translation>
+    </entry>
+    <entry id="41">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>martin arrantzalea</text>
+        <comment>ur gainean hegan egin eta mokoarekin harrapakinak hartzen dituen kolore biziko txoria</comment>
+      </translation>
+    </entry>
+    <entry id="42">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>txerrikumea</text>
+        <comment>lokatzetan ibiltzea gustuko duen etxeko animaliaren kumea</comment>
+      </translation>
+    </entry>
+    <entry id="43">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>indioilarra</text>
+        <comment>haragitarako hazten den hegazti handia</comment>
+      </translation>
+    </entry>
+    <entry id="44">
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0">
+        <text>katagorria</text>
+        <comment>zuhaitzetan gora egiten duen isats sarriko animalia txikia</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

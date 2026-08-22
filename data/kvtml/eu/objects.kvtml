@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Objektuak</title>
+    <comment>Etxeko eguneroko objektuak</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>eu</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>telebista</text>
+        <comment>mugitzen diren irudiak erakusten dituen gailu elektrikoa</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>aulkia</text>
+        <comment>eserita egoteko altzaria</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>izozkailua</text>
+        <comment>janaria oso hotz eta izoztuta edukitzeko etxetresna</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hozkailua</text>
+        <comment>janaria fresko edukitzeko etxetresna</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sukaldea</text>
+        <comment>janaria beroaren bidez prestatzeko etxetresna</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tximinia</text>
+        <comment>eguraldi hotzean suaren bidez berotzeko egitura</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mahaia</text>
+        <comment>objektuak lurretik gora eusten dituen gainazal laua</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tiraderak</text>
+        <comment>gauza txikiak gordetzeko kutxa lerragarriak</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ispilua</text>
+        <comment>aurrean duenaren irudia islatzen du</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>erlojua</text>
+        <comment>ordua neurtu eta erakusten du</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>armairua</text>
+        <comment>jantziak zintzilik eta tente gordetzeko altzaria</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>liburu-apala</text>
+        <comment>irakurgaiak gordetzeko apaldun altzaria</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>irabiagailua</text>
+        <comment>elikagaiak txikitu eta nahasten dituen etxetresna</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sofa</text>
+        <comment>hainbat lagun eroso esertzeko altzaria</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>konketa</text>
+        <comment>eskuak eta aurpegia garbitzeko ontzi finkoa</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dutxa</text>
+        <comment>zutik gorputza garbitzeko ur-zorrotada</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bainuontzia</text>
+        <comment>etzanda edo eserita gorputza uretan garbitzeko ontzia</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ur-irakigailua</text>
+        <comment>ura irakiteko berariazko etxetresna</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>telefonoa</text>
+        <comment>ahots bidez urrutitik komunikatzeko gailua</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>erradiadorea</text>
+        <comment>etxeko tenperatura igotzen duen berogailua</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>irratia</text>
+        <comment>uhin elektromagnetikoen bidez audioa jasotzen duen gailua</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ordenagailua</text>
+        <comment>erabiltzailearekin elkarreragiten duen gailu elektronikoa</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>maskotak</text>
+        <comment>etxean bizi diren eta maiz laztantzen diren animaliak</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>koadroak</text>
+        <comment>markoetan jarritako irudiak</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hortzetako eskuila</text>
+        <comment>hortzak garbitzeko tresna</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>alfonbra</text>
+        <comment>zorua estaltzeko ehun leuna</comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jostailuak</text>
+        <comment>jolasteko erabiltzen diren gauzak</comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>apaingarriak</text>
+        <comment>funtzio praktiko argirik gabeko dekorazio-objektuak</comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>true</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>horma-armairuak</text>
+        <comment>gauzak gordetzeko hormako toki handiak</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

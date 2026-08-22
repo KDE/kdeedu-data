@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Jantziak</title>
+    <comment>Gizakiek janzten dituzten gauzak</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>eu</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kirol-oinetakoak</text>
+        <comment>ariketa fisikoa egiteko oinetako arinak</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>botak</text>
+        <comment>orkatila baino gorago iristen diren oinetako sendoak</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>galtzak</text>
+        <comment>gerritik behera bi hankak bereiz estaltzen dituen jantzia</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>galtza motzak</text>
+        <comment>belaunetaraino edo gorago iristen den jantzia</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>gona</text>
+        <comment>gerritik behera zintzilikatzen den jantzia, hanka-zulorik gabea</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>soinekoa</text>
+        <comment>gorputz-enborra eta hankak pieza bakarrean estaltzen dituen jantzia</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>parka</text>
+        <comment>eguraldi hotzerako jaka lodi eta luzea</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>jaka</text>
+        <comment>gorputzaren goiko aldea estaltzen duen kanpoko jantzi arina</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>berokia</text>
+        <comment>hotzetik babesteko kanpoko jantzi lodia</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>txapela</text>
+        <comment>burua estaltzeko jantzia</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>artilezko txanoa</text>
+        <comment>eguraldi hotzean burua berotzeko jantzia</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>belarri-babesak</text>
+        <comment>hotzetan entzumen-organoak berotzeko osagarria</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>eguzkitako betaurrekoak</text>
+        <comment>argi biziak begiak ez mintzeko erabiltzen dira</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>galtzerdiak</text>
+        <comment>oinak eta hanken beheko aldea estaltzen dituzten jantziak</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sandaliak</text>
+        <comment>oinaren zati handi bat agerian uzten duten oinetakoak</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>eskularruak</text>
+        <comment>eskuak hotzetik babesteko jantziak</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>gerrikoa</text>
+        <comment>galtzak eror ez daitezen gerriaren inguruan lotzen da</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

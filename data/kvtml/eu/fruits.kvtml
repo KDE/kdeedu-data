@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Fruituak</title>
+    <comment>Munduko fruituak</comment>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>eu</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sagarra</text>
+        <comment>egunean bat jateak medikua urrun omen du</comment>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>abrikota</text>
+        <comment>mertxika txiki baten antzeko fruitua</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>banana</text>
+        <comment>fruitu hori luze eta kurbatua</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>masusta</text>
+        <comment>baia beltz distiratsua</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ahabia</text>
+        <comment>baia txiki eta urdin iluna</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>gerezia</text>
+        <comment>barruan hezur bakarra duen fruitu gorria</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kokoa</text>
+        <comment>kanpoalde marroi gogorra eta barrualde zuri krematsua ditu</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ahabia gorria</text>
+        <comment>kolore biziko baia gorri eta garratza</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mahatsa</text>
+        <comment>ardoa egiteko erabiltzen den fruitua</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pomeloa</text>
+        <comment>mamia urtsu eta garratza duen zitriko handi horia</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kiwia</text>
+        <comment>azal marroi iletsua eta mami berdexka dituen fruitua</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>limoia</text>
+        <comment>mami urtsu eta garratza duen fruitu obalatu horia</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lima</text>
+        <comment>limoiaren antzeko zitriko txiki berdea</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mandarina</text>
+        <comment>azal solteko zitriko gorrixka, Txinatik datorrena</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mangoa</text>
+        <comment>eskualde tropikaletako fruitu obalatu handi eta leuna</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>oliba</text>
+        <comment>olio asko duen fruitu txikia</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>laranja</text>
+        <comment>kolore bati izena ematen dion zitriko biribila</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mertxika</text>
+        <comment>mami horixka gozo eta urtsua duen fruitua</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>udarea</text>
+        <comment>kanpai-formako fruitu urtsua, mami pikortsu samarrekoa</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>anana</text>
+        <comment>pinaburuaren antzeko itxura eta zapore gazi-gozoa ditu</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>arana</text>
+        <comment>azal leuna duen fruitu more gozo eta urtsua</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>mugurdia</text>
+        <comment>kolore askotako baia lurrintsua</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>marrubia</text>
+        <comment>fruitu gorri txiki, gozo eta mamitsua</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sandia</text>
+        <comment>Afrikatik datorren meloi honek mami gorri eta urtsua du</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>

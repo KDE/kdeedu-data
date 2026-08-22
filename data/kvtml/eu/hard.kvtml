@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>converter</generator>
+    <title>Zaila</title><!--Translate tag content-->
+    <comment>Hitz zailak</comment><!--Translate tag content-->
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <locale>eu</locale>
+    </identifier>
+  </identifiers>
+  <wordtypedefinitions>
+    <wordtypedefinition>
+      <typename>Noun</typename>
+      <specialwordtype>noun</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Male</subtypename>
+        <specialwordtype>noun:male</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Female</subtypename>
+        <specialwordtype>noun:female</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Neutral</subtypename>
+        <specialwordtype>noun:neutral</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Verb</typename>
+      <specialwordtype>verb</specialwordtype>
+      <subwordtypedefinition>
+        <subtypename>Regular</subtypename>
+        <specialwordtype>verb:regular</specialwordtype>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Irregular</subtypename>
+        <specialwordtype>verb:irregular</specialwordtype>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adjective</typename>
+      <specialwordtype>adjective</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Adverb</typename>
+      <specialwordtype>adverb</specialwordtype>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Question</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Name</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Article</typename>
+      <subwordtypedefinition>
+        <subtypename>Definite</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Indefinite</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Pronoun</typename>
+      <subwordtypedefinition>
+        <subtypename>Possessive</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Personal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Phrase</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Numeral</typename>
+      <subwordtypedefinition>
+        <subtypename>Ordinal</subtypename>
+      </subwordtypedefinition>
+      <subwordtypedefinition>
+        <subtypename>Cardinal</subtypename>
+      </subwordtypedefinition>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Conjunction</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Preposition</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Informal</typename>
+    </wordtypedefinition>
+    <wordtypedefinition>
+      <typename>Figuratively</typename>
+    </wordtypedefinition>
+  </wordtypedefinitions>
+  <entries>
+    <entry id="0" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hatz-koskorra</text><!--Translate all text tags content-->
+        <comment>hatzak tolestean nabarmentzen den giltzadura</comment><!--Translate all comment tags content-->
+      </translation>
+    </entry>
+    <entry id="1" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>katalisia</text>
+        <comment>erreakzio kimiko baten abiadura substantzia batek aldatzea</comment>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bitxiak</text>
+        <comment>gorputza apaintzeko erabiltzen diren objektu baliotsuak</comment>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>itsasargia</text>
+        <comment>kostaldean ontziei bidea erakusten dien argidun dorrea</comment>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>hobekuntza</text>
+        <comment>kalitatea edo egoera maila goragora eramatea</comment>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>federalismoa</text>
+        <comment>boterea gobernu zentralaren eta lurraldeen artean banatzen duen sistema</comment>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>dogmatismoa</text>
+        <comment>ideia batzuk eztabaidarik gabe egia absolututzat hartzea</comment>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>diletantismoa</text>
+        <comment>arte edo jakintza bat azaleko interesarekin lantzeko joera</comment>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kloroformoa</text>
+        <comment>lehen anestesiko gisa erabili zen likido lurrunkorra</comment>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>etnografia</text>
+        <comment>herri baten ohiturak eta bizimodua deskribatzen dituen ikerketa</comment>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kaligrafia</text>
+        <comment>eskuz eder eta zuzen idazteko artea</comment>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ideia-jasa</text>
+        <comment>proposamen ugari azkar eta epaitu gabe biltzeko talde-teknika</comment>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>belladona</text>
+        <comment>fruitu beltzak dituen landare pozoitsua</comment>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>bumerana</text>
+        <comment>jaurti ondoren itzul daitekeen objektu kurbatua</comment>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>akordeoilaria</text>
+        <comment>hauspodun musika-tresna jotzen duen pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>beranduko burutazioa</text>
+        <comment>zerbait egin ondoren etortzen den ideia</comment>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ornitologia</text>
+        <comment>hegaztiak aztertzen dituen zoologiaren adarra</comment>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>osteopatia</text>
+        <comment>gorputzaren egituren manipulazioan oinarritutako tratamendu-sistema</comment>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>kriskitin-sugea</text>
+        <comment>isatsean soinua egiten duen narrasti pozoitsua</comment>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>erakusketa</text>
+        <comment>artelanak edo objektuak jendaurrean aurkezteko ekitaldia</comment>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>elektrokardiograma</text>
+        <comment>bihotzaren jarduera elektrikoa marra batean jasotzen duen erregistroa</comment>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>surrealismoa</text>
+        <comment>ametsen eta inkontzientearen irudiak erabiltzen dituen arte-mugimendua</comment>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>silogismoa</text>
+        <comment>bi premisatatik ondorio bat ateratzen duen arrazoibidea</comment>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>sinposioa</text>
+        <comment>adituek gai jakin bati buruz hitz egiten duten bilera</comment>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>teologoa</text>
+        <comment>erlijioa eta jainkotasunari buruzko doktrina aztertzen duen aditua</comment>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>taxidermista</text>
+        <comment>hildako animalien gorputzak erakusteko prestatzen dituen pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>trigonometria</text>
+        <comment>triangeluen angelu eta aldeen arteko erlazioak aztertzen dituen matematika-adarra</comment>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zeharrargitasuna</text>
+        <comment>argia igarotzen uzten duen baina irudi garbirik erakusten ez duen propietatea</comment>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zintzotasuna</text>
+        <comment>egia esateko eta iruzurrik ez egiteko jarrera</comment>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>troposfera</text>
+        <comment>Lurraren atmosferako geruzarik baxuena</comment>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zuzentasuna</text>
+        <comment>arau moralekin eta bidezko jokabidearekin bat etortzea</comment>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>tapizeria</text>
+        <comment>altzariak estaltzeko erabiltzen den oihal eta betegarri multzoa</comment>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>lan-mendekoa</text>
+        <comment>lan egiteari uzteko zailtasun handia duen pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>abstinentzia</text>
+        <comment>ohiko substantzia edo jarduera bati nahita uko egitea</comment>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>zoologia</text>
+        <comment>animaliak aztertzen dituen biologiaren adarra</comment>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>eskorga</text>
+        <comment>zama txikiak gurpil bakar baten gainean eramateko orga txikia</comment>
+      </translation>
+    </entry>
+    <entry id="36" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>xenofobia</text>
+        <comment>atzerritarrekiko beldur edo arbuio neurrigabea</comment>
+      </translation>
+    </entry>
+    <entry id="37" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>belaontzi-gidaria</text>
+        <comment>haizeak bultzatutako ontzi bat zuzentzen duen pertsona</comment>
+      </translation>
+    </entry>
+    <entry id="38" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>harridura</text>
+        <comment>ustekabeko zerbaitek eragindako emozio bizia</comment>
+      </translation>
+    </entry>
+    <entry id="39" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>xilofonoa</text>
+        <comment>zurezko xaflak kolpatuz jotzen den musika-tresna</comment>
+      </translation>
+    </entry>
+    <entry id="40" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>ezizena</text>
+        <comment>benetako izenaren ordez erabiltzen den izena</comment>
+      </translation>
+    </entry>
+    <entry id="41" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>oparotasuna</text>
+        <comment>aberastasun eta ongizate handiko egoera</comment>
+      </translation>
+    </entry>
+    <entry id="42" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>psikiatra</text>
+        <comment>buruko nahasmenduak diagnostikatu eta tratatzen dituen medikua</comment>
+      </translation>
+    </entry>
+    <entry id="43" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>protagonista</text>
+        <comment>kontakizun bateko pertsonaia nagusia</comment>
+      </translation>
+    </entry>
+    <entry id="44" >
+      <inactive>false</inactive>
+      <inquery>false</inquery>
+      <translation id="0" >
+        <text>pitxia</text>
+        <comment>bitxien antzera eginiko balio gutxiko apaingarria, soinean eramaten dena</comment>
+      </translation>
+    </entry>
+  </entries>
+</kvtml>
